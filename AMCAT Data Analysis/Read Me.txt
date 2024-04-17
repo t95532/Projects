@@ -1,0 +1,20 @@
+AMCAT Data Analysis
+The AMCAT (Aspiring Minds Computer Adaptive Test) dataset contains information about candidates' academic 
+performance, skill set, and demographics. The dataset aims to provide insights into factors influencing employability and 
+job performance.
+• Importing Data and Initial Exploration
+• Summarize statistical information about numerical variables, such as mean, standard deviation, minimum, maximum, 
+and quartile values. 
+• Univariate Analysis
+• Numerical Variables: Perform Probability Density Function (PDF) analysis, Histograms, Boxplots, and Count plots to 
+understand the distribution of each numerical variable. Identify outliers in each numerical column and understand their 
+impact on the data. Analyse the frequency distribution of each numerical column.
+• Categorical Variables: Analyse the frequency distribution of each categorical variable/column using Count plots. Make 
+observations after each plot to highlight any significant patterns or trends.
+• Bivariate Analysis 
+• Numerical-Numerical Relationships: Discover relationships between numerical columns using Scatter plots, Hexbin 
+plots, Pair plots, etc. Identify correlations or patterns between numerical variables.
+• Categorical-Numerical Relationships: Explore relationships between categorical and numerical columns using Swarm 
+plots, Box plots, Bar plots, etc. Understand how categorical variables influence numerical outcomes. 
+• Categorical-Categorical Relationships: Investigate relationships between categorical variables using Stacked Bar plots. 
+Identify any dependencies or patterns between different categorical variables

@@ -1,0 +1,8 @@
+conducted a thorough data analysis of Flipkart's e-commerce data to gain insights into customer behavior, product trends, and pricing strategies.
+• Data Extraction: Utilized web scraping techniques with Beautiful Soup to extract relevant data from Flipkart's website. Extracted data included product details, pricing information, customer reviews, and ratings
+• Data Cleaning: Performed thorough data cleaning to address inconsistencies, missing values, and outliers in the extracted dataset. Cleaned the data to ensure its accuracy and reliability for further analysis.
+• Data Manipulation: Conducted data manipulation tasks to prepare the dataset for analysis. This involved restructuring the data, creating new variables or features, and transforming data types as needed to facilitate analysis.
+• Exploratory Data Analysis (EDA): Employed various statistical and visualization techniques to explore and gain insights from the dataset. Analysed trends, patterns, and relationships within the data to identify key factors influencing customer behaviour, product popularity, and pricing strategies on Flipkart.
+• Data Visualization: Created visualizations using Matplotlib, Seaborn, or other visualization libraries to present key findings and trends in an intuitive and visually appealing manner. Visualizations included histograms, scatter plots, bar charts, and heatmaps to effectively communicate insights derived from the data.
+• Insights and Findings: Derived actionable insights from the EDA process, highlighting important trends, customer preferences, and areas for improvement for the e-commerce platform. 
+• Outcome: Identified top-selling products, customer satisfaction levels, and factors influencing purchase decisions based on customer reviews and ratings. 
