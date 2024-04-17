@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regex Pattern Matching</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Regex Pattern Matching</h1>
+        <form action="/regex/results" method="post">
+            <label for="test_string">Test String:</label><br>
+            <input type="text" id="test_string" name="test_string" required><br>
+            <label for="regex_pattern">Regex Pattern:</label><br>
+            <input type="text" id="regex_pattern" name="regex_pattern" required><br>
+            <button type="submit">Match</button>
+        </form>
+        <div class="back-button">
+            <a href="/">Back</a>
+        </div>
+    </div>
+</body>
+</html>

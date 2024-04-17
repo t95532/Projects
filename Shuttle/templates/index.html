@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YONEX MAVIS SHUTTLE Sentiment Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container" id="main-container">
+        <h1>YONEX MAVIS SHUTTLE Sentiment Analysis</h1>
+        <form id="sentiment-form">
+            <label for="text-input">Enter your review:</label>
+            <textarea id="text-input" name="text" rows="4" cols="50" required></textarea>
+            <button type="submit">Analyze</button>
+        </form>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        document.getElementById('sentiment-form').addEventListener('submit', async function (event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+            const response = await fetch('/predict', {
+                method: 'POST',
+                body: formData
+            });
+            const data = await response.text();
+            document.getElementById('result').innerHTML = data;
+            document.getElementById('main-container').style.textAlign = 'center';
+            if (data.includes("Apologies")) {
+                document.getElementById('result').style.color = 'red';
+            } else {
+                document.getElementById('result').style.color = 'green';
+            }
+        });
+    </script>
+</body>
+</html>

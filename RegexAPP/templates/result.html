@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Validation Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        .valid { color: green; font-size: 24px; }
+        .invalid { color: red; font-size: 24px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Email Validation Result</h1>
+        <p>Email: {{ email }}</p>
+        {% if result == 'Valid' %}
+            <p class="valid">Valid Email</p>
+        {% else %}
+            <p class="invalid">Invalid Email</p>
+        {% endif %}
+        <div class="back-button">
+            <a href="/email">Back</a>
+        </div>
+    </div>
+</body>
+</html>
