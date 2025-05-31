@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SQL Metadata Viewer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>SQL Metadata Viewer</h1>
+
+    <div class="selectors">
+      <label for="dbSelect">Database:</label>
+      <select id="dbSelect"></select>
+
+      <label for="tableSelect">Table:</label>
+      <select id="tableSelect"></select>
+    </div>
+
+    <div class="stats-bar">
+      <div class="stat-box">Rows: <span id="rowCount">-</span></div>
+      <div class="stat-box">Columns: <span id="colCount">-</span></div>
+    </div>
+
+    <h3>Table Columns</h3>
+    <table class="column-table">
+      <thead>
+        <tr><th>Name</th><th>Type</th><th>Nullable</th></tr>
+      </thead>
+      <tbody id="columnTableBody"></tbody>
+    </table>
+  </div>
+
+  <div class="selectors">
+  <label for="viewSelect">Views:</label>
+  <select id="viewSelect"></select>
+
+  <label for="procSelect">Stored Procedures:</label>
+  <select id="procSelect"></select>
+</div>
+
+<div class="proc-definition-box">
+  <h3>Stored Procedure Definition</h3>
+  <pre id="procDefinition">Select a procedure to view its definition...</pre>
+</div>
+
+<h3>Sample Data</h3>
+<table class="sample-data-table">
+  <thead id="sampleTableHead"></thead>
+  <tbody id="sampleTableBody"></tbody>
+</table>
+<div class="tabs">
+  <button class="tab-button active" data-tab="stats">Stats</button>
+  <button class="tab-button" data-tab="columns">Columns</button>
+  <button class="tab-button" data-tab="sample">Sample Data</button>
+</div>
+
+<div class="tab-content" id="stats" style="display: block;">
+  <div class="stats-bar">
+    <div class="stat-box">Rows: <span id="rowCount">-</span></div>
+    <div class="stat-box">Columns: <span id="colCount">-</span></div>
+  </div>
+</div>
+
+<div class="tab-content" id="columns" style="display: none;">
+  <h3>Table Columns</h3>
+  <table class="column-table">
+    <thead>
+      <tr><th>Name</th><th>Type</th><th>Nullable</th></tr>
+    </thead>
+    <tbody id="columnTableBody"></tbody>
+  </table>
+</div>
+
+<div class="tab-content" id="sample" style="display: none;">
+  <h3>Sample Data</h3>
+  <table class="sample-data-table">
+    <thead id="sampleTableHead"></thead>
+    <tbody id="sampleTableBody"></tbody>
+  </table>
+</div>
+
+
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

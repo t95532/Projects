@@ -1,4 +1,4 @@
-import openai
+from openai import OpenAI
 import streamlit as st
 
 # Define Streamlit app layout
@@ -10,7 +10,7 @@ api_key = st.sidebar.text_input("Enter your OpenAI API key:")
 # Check if the API key is provided
 if api_key:
     # Set the OpenAI API key
-    openai.api_key = api_key
+    client = OpenAI(api_key=api_key)
 
     # Add a section for entering the code
     st.title("AI Code Reviewer")
@@ -22,15 +22,14 @@ if api_key:
     if st.button("Generate"):
         # Call the OpenAI API to generate a response
         with st.spinner("Generating response..."):
-            response = openai.Completion.create(
-                engine="text-davinci-003",
-                prompt=code,
-                max_tokens=100,
-                temperature=0.7,
-                top_p=1.0,
-                frequency_penalty=0.0,
-                presence_penalty=0.0,
-                stop=["\n"]
+            response = client.chat.completions.create(
+                messages=[
+                    {'role': 'system', 'content': '''act as an Code reviewer. explain the code, if any bugs resolve the bugs and give correct 
+                    code'''},
+                    {'role': 'user', 'content': f'if the bugs in the code and explain what is happening' + code}
+                ],
+                model="gpt-3.5-turbo",  # Specify the model to use
+                temperature=0.6
             )
 
         # Display the generated response
