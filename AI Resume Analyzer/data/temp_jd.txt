@@ -1,0 +1,22 @@
+• Develop strategies/solutions to solve problems in logical yet creative ways, leveraging state-of-the-art machine learning, deep learning and GEN AI techniques.
+• Technically lead a team of data scientists to produce project deliverables on time and with high quality.
+• Identify and address client needs in different domains, by analyzing large and complex data sets, processing, cleansing, and verifying the integrity of data, and performing exploratory data analysis (EDA) using state-of-the-art methods.
+• Select features, build and optimize classifiers/regressors, etc. using machine learning and deep learning techniques.
+• Enhance data collection procedures to include information that is relevant for building analytical systems, and ensure data quality and accuracy.
+• Perform ad-hoc analysis and present results in a clear manner to both technical and non-technical stakeholders.
+• Create custom reports and presentations with strong data visualization and storytelling skills to effectively communicate analytical conclusions to senior officials in a company and other stakeholders.
+• Expertise in data mining, EDA, feature selection, model building, and optimization using machine learning and deep learning techniques.
+• Strong programming skills in Python.
+• Excellent communication and interpersonal skills, with the ability to present complex analytical concepts to both technical and non-technical stakeholders.
+
+
+
+
+Primary Skills :
+- Excellent understanding and hand-on experience of data-science and machine learning techniques & algorithms for supervised & unsupervised problems, NLP and computer vision and GEN AI. Good applied statistics skills, such as distributions, statistical inference & testing, etc.
+- Excellent understanding and hand-on experience on building Deep-learning models for text & image analytics (such as ANNs, CNNs, LSTM, Transfer Learning, Encoder and decoder, etc).
+- Proficient in coding in common data science language & tools such as R, Python.
+- Experience with common data science toolkits, such as NumPy, Pandas, Matplotlib, StatsModel, Scikitlearn, SciPy, NLTK, Spacy, OpenCV etc.
+- Experience with common data science frameworks such as Tensorflow, Keras, PyTorch, XGBoost,etc.
+- Exposure or knowledge in cloud (Azure/AWS).
+- Experience on deployment of model in production.

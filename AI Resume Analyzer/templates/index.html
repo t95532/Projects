@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Analyzer</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📄 AI Resume Analyzer</h1>
+        <form method="post" enctype="multipart/form-data">
+            <label>Upload Resume (PDF)</label>
+            <input type="file" name="resume" required>
+
+            <label>Upload Job Description (TXT)</label>
+            <input type="file" name="jd" required>
+
+            <button type="submit">Analyze</button>
+        </form>
+
+        {% if error %}
+        <div class="error" style="color:red;">
+            <strong>Error:</strong> {{ error }}
+        </div>
+        {% endif %}
+
+        {% if analysis %}
+        <div class="result">
+            <h2>Analysis Result</h2>
+            {% set diff = analysis.split('Improvements:')[0].replace('Differences:', '').strip().split('\n') %}
+            {% set imp = analysis.split('Improvements:')[1].strip().split('\n') if 'Improvements:' in analysis else [] %}
+            <h3>Differences</h3>
+            <ul>
+                {% for item in diff if item %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+            <h3>Improvements</h3>
+            <ul>
+                {% for item in imp if item %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
