@@ -1,0 +1,17 @@
+Here are all the project titles as a clean list:
+
+Autonomous Research Agent with MCP Tooling
+
+Codebase Refactoring + AI Developer Agent
+
+AI Data Pipeline Generator
+
+Personal AI Operating System (AI-OS)
+
+AI Game Master / Narrative Engine
+
+AI Automation Hub for Small Businesses
+
+AI Classroom Tutor + Lesson Generator
+
+AI Robotics Controller (Simulation or Real)
