@@ -1,0 +1,10 @@
+| **#** | **Project Title**                               | **Description**                                                                                               |
+| ----- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1     | **Autonomous Research Agent with MCP Tooling**  | An agent that performs multi-step research using search, PDFs, notes, and vector databases through MCP tools. |
+| 2     | **Codebase Refactoring + AI Developer Agent**   | An AI developer that reads, edits, tests, and improves codebases using file, git, and test-run MCP servers.   |
+| 3     | **AI Data Pipeline Generator**                  | Generates complete ETL/ELT pipelines by analyzing datasets, cleaning data, and producing code and workflows.  |
+| 4     | **Personal AI Operating System (AI-OS)**        | A personal assistant agent that manages email, files, schedules, reminders, and web tasks through MCP tools.  |
+| 5     | **AI Game Master / Narrative Engine**           | A generative storytelling agent that manages worlds, tracks states, and creates dynamic quests or narratives. |
+| 6     | **AI Automation Hub for Small Businesses**      | Automates business workflows like invoicing, CRM updates, customer service, and document generation.          |
+| 7     | **AI Classroom Tutor + Lesson Generator**       | Creates personalized lessons, quizzes, and explanations using student data and educational content sources.   |
+| 8     | **AI Robotics Controller (Simulation or Real)** | Controls robots or simulations using MCP tool interfaces for movement, sensors, vision, and task planning.    |
