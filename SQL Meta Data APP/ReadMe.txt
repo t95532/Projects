@@ -1,0 +1,1 @@
+SQL Metadata Viewer is a lightweight application designed to inspect, browse, and analyze database metadata. It provides an easy way to explore database structures such as tables, columns, keys, indexes, views, and stored procedures without manually querying system catalogs.
