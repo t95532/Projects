@@ -6,3 +6,4 @@ PyPDF2
 langchain
 langchain-openai
 python-dotenv
+pydot
