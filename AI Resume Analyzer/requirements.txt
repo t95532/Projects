@@ -1,5 +1,6 @@
 pandas
 numpy
+mlflow
 flask
 openai
 PyPDF2
