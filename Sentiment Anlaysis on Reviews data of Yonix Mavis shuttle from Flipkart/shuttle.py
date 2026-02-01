@@ -45,7 +45,7 @@ def clean(doc): # doc is a string of text
     # Join and return
     return " ".join(filtered_tokens)
 
-model = joblib.load("demo_model_nb.pkl")
+model = joblib.load("model_nb.pkl")
 
 @app.route('/')
 def index():
