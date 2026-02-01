@@ -1,0 +1,1 @@
+SQL Server Metadata Viewer is a lightweight application designed to view and analyze Microsoft SQL Server database metadata. It allows developers, DBAs, and analysts to explore database structures safely using read-only access, without running manual system queries..
