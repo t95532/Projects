@@ -2,4 +2,3 @@ pandas
 numpy
 mlflow
 flask
-openai
