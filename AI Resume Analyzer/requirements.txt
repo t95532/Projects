@@ -3,4 +3,3 @@ numpy
 mlflow
 flask
 openai
-PyPDF2
