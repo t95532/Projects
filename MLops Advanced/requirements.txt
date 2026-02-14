@@ -1,0 +1,41 @@
+# Core data science
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+
+# Experiment tracking
+mlflow
+
+# Data versioning
+dvc
+
+# API serving
+fastapi
+uvicorn
+
+# Workflow orchestration (choose one)
+apache-airflow
+prefect
+
+# Model serialization
+joblib
+
+# Monitoring
+prometheus-client
+
+# Configuration and utilities
+python-dotenv
+pyyaml
+
+# Testing
+pytest
+
+# Optional: database support
+psycopg2-binary
+
+# Optional: notebook support
+jupyter
+ipykernel
