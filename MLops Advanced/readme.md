@@ -266,5 +266,4 @@ Grafana provides dashboards for:
 ## Author
 
 Tarun
-MLOps Data Science Project
 
