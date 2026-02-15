@@ -265,5 +265,6 @@ Grafana provides dashboards for:
 
 ## Author
 
-Tarun
+Tarun Kummari
+
 
