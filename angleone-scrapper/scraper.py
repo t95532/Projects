@@ -1,9 +1,12 @@
+import logging
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 from bs4 import BeautifulSoup
+import config as cfg
 import pandas as pd
 import time
 import re
@@ -18,11 +21,15 @@ try:
 
     wait = WebDriverWait(driver, 20)
 
-    pages_to_scrape = 10
+    pages_to_scrape = cfg.number_of_pages()
+    last_page_scraped = cfg.get_last_page()
+    if last_page_scraped >= pages_to_scrape:
+        logging.info("All pages already scraped. Exiting.")
+        exit()
 
-    for page in range(pages_to_scrape):
+    for page in range(last_page_scraped,last_page_scraped + pages_to_scrape):
 
-        print(f"\nProcessing Page {page + 1}")
+        logging.info(f"\nProcessing Page {page + 1}")
 
         # wait until table exists
         wait.until(
@@ -37,7 +44,7 @@ try:
 
         rows = soup.select("tbody tr")
 
-        print("Rows Found:", len(rows))
+        logging.info(f"Rows Found: {len(rows)}")
 
         for row in rows:
 
@@ -108,7 +115,7 @@ try:
                 })
 
             except Exception as e:
-                print("Row Error:", e)
+                logging.error(f"Row Error: {e}")
 
         # Last page? Stop
         try:
@@ -140,13 +147,14 @@ try:
 
         except Exception:
 
-            print("No more pages available")
+            logging.info("No more pages available")
             break
 
 finally:
 
     driver.quit()
-
+cfg.update_last_page(page)
+logging.info(f"Last page scraped: {page}")
 df = pd.DataFrame(all_records)
 df['run_date'] = pd.to_datetime('today').date()
 df.to_csv("stocks_output.csv", index=False)
