@@ -8,3 +8,4 @@ lxml==6.0.0
 pandas ==2.3.0
 pyodbc==4.0.34 
 numpy == 2.1.0
+pymssql

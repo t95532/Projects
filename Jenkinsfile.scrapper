@@ -60,7 +60,26 @@ pipeline {
 
     agent any
 
+    environment {
+        PYTHON_EXE = 'C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe'
+    }
+
     stages {
+
+        stage('Create Virtual Environment') {
+
+            steps {
+
+                dir('angleone-scrapper') {
+
+                    bat '''
+                    if not exist venv (
+                        "%PYTHON_EXE%" -m venv venv
+                    )
+                    '''
+                }
+            }
+        }
 
         stage('Install Dependencies') {
 
@@ -69,7 +88,9 @@ pipeline {
                 dir('angleone-scrapper') {
 
                     bat '''
-                    "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" -m pip install -r requirements.txt
+                    call venv\\Scripts\\activate.bat
+                    python -m pip install --upgrade pip
+                    pip install -r requirements.txt
                     '''
                 }
             }
@@ -82,7 +103,8 @@ pipeline {
                 dir('angleone-scrapper') {
 
                     bat '''
-                    "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" scraper.py
+                    call venv\\Scripts\\activate.bat
+                    python scraper.py
                     '''
                 }
             }
@@ -95,7 +117,8 @@ pipeline {
                 dir('angleone-scrapper') {
 
                     bat '''
-                    "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" execute_bcp.py
+                    call venv\\Scripts\\activate.bat
+                    python execute_bcp.py
                     '''
                 }
             }
@@ -105,11 +128,15 @@ pipeline {
     post {
 
         success {
-            echo 'Pipeline completed successfully'
+            echo 'AngelOne pipeline completed successfully'
         }
 
         failure {
-            echo 'Pipeline failed'
+            echo 'AngelOne pipeline failed'
+        }
+
+        always {
+            echo 'Build Finished'
         }
     }
 }
