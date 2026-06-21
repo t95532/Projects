@@ -6,19 +6,28 @@ pipeline {
 
         stage('Install Dependencies') {
             steps {
-                bat 'pip install -r requirements.txt'
+                bat '''
+                cd angelone-scrapper
+                pip install -r requirements.txt
+                '''
             }
         }
 
         stage('Scrape Data') {
             steps {
-                bat 'python scrapper.py'
+                bat '''
+                cd angelone-scrapper
+                python scrapper.py
+                '''
             }
         }
 
         stage('Load Data To DB') {
             steps {
-                bat 'python execute_bcp.py'
+                bat '''
+                cd angelone-scrapper
+                python execute_bcp.py
+                '''
             }
         }
     }
@@ -31,10 +40,6 @@ pipeline {
 
         failure {
             echo 'AngelOne pipeline failed'
-        }
-
-        always {
-            archiveArtifacts artifacts: '*.csv', allowEmptyArchive: true
         }
     }
 }
