@@ -102,8 +102,7 @@ subprocess.run(
         "-T",
         "-c",
         "-t", ",",
-        "-F", "2",
-        "-u"
+        "-F", "2"
     ],
     check=True
 )
