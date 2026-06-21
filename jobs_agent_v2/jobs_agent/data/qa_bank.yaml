@@ -1,0 +1,185 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Q&A Bank — your pre-written answers for job application questions
+#
+#  HOW IT WORKS:
+#    The agent fuzzy-matches the question text on any form against the entries
+#    below. If it finds a close enough match, it uses YOUR answer. If it doesn't
+#    find a match, Claude generates an answer from your resume automatically.
+#
+#  FIELD TYPES and how they work:
+#
+#    type: text         → types your answer into a plain text input
+#    type: textarea     → types into a multi-line text box (cover letter etc.)
+#    type: number       → types a number (years of experience, salary, etc.)
+#    type: email        → types into an email field
+#    type: phone        → types into a phone field
+#    type: boolean      → clicks the Yes or No radio button / checkbox
+#    type: radio        → clicks the radio option whose label matches your answer
+#    type: select       → picks the closest matching option from a dropdown
+#    type: multi_select → checks every checkbox whose label is in your answer
+#                         (comma-separate multiple values: "Python, Django, AWS")
+#    type: date         → fills a date field (use YYYY-MM-DD format)
+#
+#  SPECIAL ANSWER VALUES:
+#    __GENERATE__  → Claude writes a tailored answer using your resume + the job
+#
+#  FUZZY MATCHING:
+#    You don't need to match question text exactly. "Years of experience with Python"
+#    will match "How many years of Python experience do you have?".
+#    Threshold is 72/100 — lower = more lenient matches.
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+# ── Personal Info ─────────────────────────────────────────────────────────────
+- question: "Phone number"
+  answer: "+1-555-123-4567"
+  type: phone
+
+- question: "LinkedIn profile URL"
+  answer: "https://linkedin.com/in/yourhandle"
+  type: url
+
+- question: "GitHub profile"
+  answer: "https://github.com/yourhandle"
+  type: url
+
+- question: "Portfolio website"
+  answer: "https://yourportfolio.com"
+  type: url
+
+- question: "City"
+  answer: "San Francisco"
+  type: text
+
+- question: "Country"
+  answer: "United States"
+  type: select
+
+
+# ── Work Authorization ────────────────────────────────────────────────────────
+- question: "Are you legally authorized to work in the United States?"
+  answer: "Yes"
+  type: boolean
+
+- question: "Do you now or will you in the future require sponsorship?"
+  answer: "No"
+  type: boolean
+
+- question: "Are you eligible to work in the UK?"
+  answer: "Yes"
+  type: boolean
+
+
+# ── Work Preferences ──────────────────────────────────────────────────────────
+- question: "Are you willing to relocate?"
+  answer: "Open to discussion"
+  type: radio        # picks the option closest to "Open to discussion"
+
+- question: "What is your desired salary or compensation?"
+  answer: "130000"
+  type: number
+
+- question: "Desired salary range"
+  answer: "$120,000 – $150,000"
+  type: text
+
+- question: "When can you start?"
+  answer: "Within 4 weeks of accepting an offer."
+  type: text
+
+- question: "Are you comfortable working remotely?"
+  answer: "Yes"
+  type: boolean
+
+- question: "What is your preferred work arrangement?"
+  answer: "Remote"
+  type: select       # picks "Remote" from the dropdown
+
+- question: "Employment type"
+  answer: "Full-time"
+  type: select
+
+
+# ── Experience ────────────────────────────────────────────────────────────────
+- question: "Years of experience with Python"
+  answer: "5"
+  type: number
+
+- question: "Years of professional software engineering experience"
+  answer: "5"
+  type: number
+
+- question: "Highest level of education"
+  answer: "Bachelor's Degree"
+  type: select       # fuzzy-matches to the closest dropdown option
+
+- question: "Do you have experience with AWS?"
+  answer: "Yes"
+  type: boolean
+
+- question: "Which cloud platforms have you worked with?"
+  answer: "AWS, Google Cloud"
+  type: multi_select  # checks the checkboxes for AWS and Google Cloud
+
+- question: "Which programming languages are you proficient in?"
+  answer: "Python, JavaScript, SQL, Bash"
+  type: multi_select
+
+
+# ── EEO / Demographic (most are optional — these are safe defaults) ───────────
+- question: "Gender"
+  answer: "Prefer not to say"
+  type: select
+
+- question: "Race or ethnicity"
+  answer: "Prefer not to say"
+  type: select
+
+- question: "Veteran status"
+  answer: "I am not a protected veteran"
+  type: radio
+
+- question: "Disability status"
+  answer: "I do not have a disability"
+  type: radio
+
+- question: "How did you hear about this job?"
+  answer: "Online job board"
+  type: select
+
+
+# ── Free Text / Cover Letter ──────────────────────────────────────────────────
+# Use __GENERATE__ to let Claude write a tailored answer based on your resume
+# and the specific job description.
+
+- question: "Why do you want to work here?"
+  answer: "__GENERATE__"
+  type: textarea
+
+- question: "Why are you a good fit for this role?"
+  answer: "__GENERATE__"
+  type: textarea
+
+- question: "Tell us about yourself"
+  answer: "__GENERATE__"
+  type: textarea
+
+- question: "Describe a challenging project you worked on"
+  answer: "__GENERATE__"
+  type: textarea
+
+- question: "What are your greatest strengths?"
+  answer: "__GENERATE__"
+  type: textarea
+
+- question: "Cover letter"
+  answer: "__GENERATE__"
+  type: textarea
+
+# Fixed answer example (Claude won't override this):
+- question: "What motivates you at work?"
+  answer: >
+    I'm motivated by solving hard engineering problems that have real user impact.
+    I enjoy working with small, high-ownership teams where I can see a feature
+    from design through to production.
+  type: textarea

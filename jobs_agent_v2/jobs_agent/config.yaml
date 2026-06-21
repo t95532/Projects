@@ -1,0 +1,63 @@
+# ─────────────────────────────────────────
+#  Jobs Auto-Apply Agent — Configuration
+# ─────────────────────────────────────────
+
+anthropic_api_key: "sk-ant-..."   # Your Anthropic API key
+
+# ── Job Search Preferences ──────────────
+search:
+  job_titles:
+    - "Data Scientist"
+    - "AI Engineer"
+    - "Machine Learning Engineer"
+    - "Software Engineer"
+    - "Python Developer"
+  location: "Hyderabad, Telangana, India"
+  remote: true                     # Also include remote roles
+  salary_min: 800000               # INR/year, 0 to skip filter
+  experience_level:                # entry / mid / senior / lead
+    - mid
+    - senior
+  keywords_required:               # Jobs MUST contain one of these
+    - Python
+    - Django
+  keywords_excluded:               # Skip jobs with these
+    - PHP
+    - Salesforce
+
+# ── Application Behaviour ───────────────
+apply:
+  max_per_run: 20                  # Max applications per agent run
+  skip_if_already_applied: true
+  require_human_review_for:        # Flag these for your review queue
+    - "cover letter required"
+    - "portfolio required"
+    - "video submission"
+  auto_withdraw_after_days: 30     # Mark stale applications
+
+# ── Platforms to Use ────────────────────
+platforms:
+  linkedin: true
+  indeed: true
+  greenhouse: true
+  career_pages: true
+  naukri: true
+
+# ── Your Credentials (use env vars in prod!) ──
+credentials:
+  linkedin:
+    email: "tarun.95532@gmail.com"
+    password: "ASDqwe@321"
+  indeed:
+    email: "tarun.95532@gmail.com"
+    password: "ASDqwe@321"
+  naukri:
+    email: "tarun.95532@gmail.com"
+    password: "ASDqwe@321"
+
+# ── Browser ─────────────────────────────
+browser:
+  headless: false           # Set true to run silently
+  slow_mo_ms: 80            # Slow down automation (less bot-like)
+  human_delay_min_ms: 500   # Random delay range between actions
+  human_delay_max_ms: 1800

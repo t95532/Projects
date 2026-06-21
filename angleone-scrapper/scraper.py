@@ -1,0 +1,152 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+import re
+
+driver = webdriver.Chrome()
+
+all_records = []
+
+try:
+
+    driver.get("https://www.angelone.in/stocks")
+
+    wait = WebDriverWait(driver, 20)
+
+    pages_to_scrape = 10
+
+    for page in range(pages_to_scrape):
+
+        print(f"\nProcessing Page {page + 1}")
+
+        # wait until table exists
+        wait.until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "tbody tr")
+            )
+        )
+
+        time.sleep(3)
+
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+
+        rows = soup.select("tbody tr")
+
+        print("Rows Found:", len(rows))
+
+        for row in rows:
+
+            try:
+
+                company_link = row.select_one("div.A0jEHm a")
+
+                if not company_link:
+                    continue
+
+                company = company_link.get_text(strip=True)
+
+                url = company_link.get("href", "")
+
+                symbol_div = row.select_one("div.u031Rg")
+
+                symbol = (
+                    symbol_div.get_text(strip=True)
+                    if symbol_div
+                    else ""
+                )
+
+                # LTP Container
+                price_div = (
+                    row.select_one("div.oTmjDz")
+                    or row.select_one("div._cJd_o")
+                )
+
+                ltp = ""
+                change_value = ""
+                change_percent = ""
+
+                if price_div:
+
+                    for item in price_div.contents:
+
+                        if isinstance(item, str):
+
+                            txt = item.strip()
+
+                            if txt:
+                                ltp = txt
+                                break
+
+                    change_div = price_div.select_one("div.fzL4jb")
+
+                    if change_div:
+
+                        change_text = change_div.get_text(strip=True)
+
+                        match = re.search(
+                            r'([-\d.]+)\(([-\d.]+)%\)',
+                            change_text
+                        )
+
+                        if match:
+                            change_value = match.group(1)
+                            change_percent = match.group(2)
+
+                all_records.append({
+                    "company": company,
+                    "symbol": symbol,
+                    "ltp": ltp,
+                    "change_value": change_value,
+                    "change_percent": change_percent,
+                    "url": url,
+                    "page_no": page + 1
+                })
+
+            except Exception as e:
+                print("Row Error:", e)
+
+        # Last page? Stop
+        try:
+
+            next_button = driver.find_element(
+                By.CSS_SELECTOR,
+                'button[aria-label="Go to next page"]'
+            )
+
+            # remember first row before click
+            first_row_before = driver.find_element(
+                By.CSS_SELECTOR,
+                "tbody tr"
+            ).text
+
+            driver.execute_script(
+                "arguments[0].click();",
+                next_button
+            )
+
+            # wait for page change
+            wait.until(
+                lambda d:
+                d.find_element(
+                    By.CSS_SELECTOR,
+                    "tbody tr"
+                ).text != first_row_before
+            )
+
+        except Exception:
+
+            print("No more pages available")
+            break
+
+finally:
+
+    driver.quit()
+
+df = pd.DataFrame(all_records)
+df['run_date'] = pd.to_datetime('today').date()
+df.to_csv("stocks_output.csv", index=False)
