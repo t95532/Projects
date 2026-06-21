@@ -5,34 +5,25 @@ pipeline {
     stages {
 
         stage('Install Dependencies') {
-
             steps {
-
                 bat '''
-                cd angelone-scrapper
-                python -m pip install -r requirements.txt
+                "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" -m pip install -r requirements.txt
                 '''
             }
         }
 
         stage('Scrape Data') {
-
             steps {
-
                 bat '''
-                cd angelone-scrapper
-                python scrapper.py
+                "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" scrapper.py
                 '''
             }
         }
 
         stage('Load Data To DB') {
-
             steps {
-
                 bat '''
-                cd angelone-scrapper
-                python execute_bcp.py
+                "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" execute_bcp.py
                 '''
             }
         }
