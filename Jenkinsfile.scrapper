@@ -1,68 +1,57 @@
-// pipeline {
-
-//     agent any
-
-//     stages {
-
-//         stage('Debug') {
-//             steps {
-//                 dir('angelone-scrapper') {
-//                     bat '''
-//                     cd
-//                     dir
-//                     '''
-//                 }
-//             }
-//         }
-
-//         stage('Install Dependencies') {
-//             steps {
-//                 dir('angelone-scrapper') {
-//                     bat '''
-//                     "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" -m pip install -r requirements.txt
-//                     '''
-//                 }
-//             }
-//         }
-
-//         stage('Scrape Data') {
-//             steps {
-//                 dir('angelone-scrapper') {
-//                     bat '''
-//                     "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" scraper.py
-//                     '''
-//                 }
-//             }
-//         }
-
-//         stage('Load Data To DB') {
-//             steps {
-//                 dir('angelone-scrapper') {
-//                     bat '''
-//                     "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" execute_bcp.py
-//                     '''
-//                 }
-//             }
-//         }
-//     }
-// }
-
 pipeline {
 
     agent any
 
     stages {
 
-        stage('Workspace Tree') {
+        stage('Install Dependencies') {
 
             steps {
 
-                bat '''
-                cd
-                dir
-                dir /s
-                '''
+                dir('angleone-scrapper') {
+
+                    bat '''
+                    "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" -m pip install -r requirements.txt
+                    '''
+                }
             }
+        }
+
+        stage('Scrape Data') {
+
+            steps {
+
+                dir('angleone-scrapper') {
+
+                    bat '''
+                    "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" scraper.py
+                    '''
+                }
+            }
+        }
+
+        stage('Load Data To DB') {
+
+            steps {
+
+                dir('angleone-scrapper') {
+
+                    bat '''
+                    "C:\\Users\\K Tarun\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" execute_bcp.py
+                    '''
+                }
+            }
+        }
+    }
+
+    post {
+
+        success {
+            echo 'Pipeline completed successfully'
+        }
+
+        failure {
+            echo 'Pipeline failed'
         }
     }
 }
