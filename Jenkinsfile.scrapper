@@ -104,25 +104,25 @@ pipeline {
 
                     bat '''
                     call venv\\Scripts\\activate.bat
-                    python scraper.py
+                    python -m scraper.py
                     '''
                 }
             }
         }
 
-        // stage('Load Data To DB') {
+        stage('Load Data To DB') {
 
-        //     steps {
+            steps {
 
-        //         dir('angleone-scrapper') {
+                dir('angleone-scrapper') {
 
-        //             bat '''
-        //             call venv\\Scripts\\activate.bat
-        //             python execute_bcp.py
-        //             '''
-        //         }
-        //     }
-        // }
+                    bat '''
+                    call venv\\Scripts\\activate.bat
+                    python execute_bcp.py
+                    '''
+                }
+            }
+        }
     }
 
     post {
