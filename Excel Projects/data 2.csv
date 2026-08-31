@@ -1,0 +1,1251 @@
+﻿site_id,account_id,profile_date,label_cancel_365days,tenure_in_months,current_rmr,branch_name,brand,property_type,acquisition_description,office_name,customer_type,First_appointment_quater,nps_segment,area_attrition,home_price,home_lot_size
+449520,449520,2025-08-01,0,65,68.00,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q1,Not Available,High,421400,14810
+511586,511586,2025-08-01,0,52,142.42,FWY-Augusta,Fairway,Residential,Referral,Augusta,Standard,Q2,Not Available,Medium,1114781,28314
+5375319,5375319,2025-08-01,1,124,44.00,GRG-Dallas,GroGreen,Residential,Referral,Dallas,Standard,Q2,Not Available,Low,477753,NULL
+4981211,4981211,2025-08-01,0,28,98.33,NXG-Westerville,NexGreen,Residential,Referral,Westerville,Standard,Q2,Not Available,Low,405400,8233
+580121,580121,2025-08-01,0,29,44.00,FWY-Charleston,Fairway,Residential,Digital,Charleston,Standard,Q1,Detractor,Medium,386141,8567
+5388199,5388199,2025-08-01,1,26,44.67,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q2,Not Available,Low,299900,7492
+3731,3731,2025-08-01,0,347,37.50,FWY-Vilonia,Fairway,Residential,Unclassified,Vilonia,Standard,Q3,Passive,Medium,300300,41604
+5752498,5752498,2025-08-01,0,40,57.33,SPS-Baltimore,Scientific Plant Service,Residential,Web Search,Baltimore,Standard,Q2,Promoter,Medium,464200,16451
+496245,496245,2025-08-01,0,29,57.75,FWY-Augusta,Fairway,Residential,Reinstate,Augusta,Tier 1,Q1,Passive,High,234900,14375
+5591860,5591860,2025-08-01,0,16,102.33,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Tier 1,Q2,Not Available,Medium,552205,6599
+5796044,5796044,2025-08-01,1,48,43.75,EBP-Port Richey,Earth's Best,Residential,Referral,Port Richey,Standard,Q3,Not Available,High,402400,5390
+740454,740454,2025-08-01,0,103,68.71,PIE-Sarasota,Plant-It-Earth,Residential,Referral,Sarasota,Standard,Q1,Detractor,High,599000,21780
+693917,693917,2025-08-01,1,29,27.42,FWY-Tulsa,Fairway,Residential,Marketing Letter,Tulsa,Standard,Q1,Promoter,Medium,18500,14767
+1081135,1081135,2025-08-01,0,25,33.50,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q3,Not Available,Low,425000,8731
+727217,727217,2025-08-01,0,95,41.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q3,Not Available,High,250000,13939
+5346569,5346569,2025-08-01,0,56,139.82,GRQ-Atlanta,Green Queen,Residential,CONVERSION CUSTOMER,Atlanta,Standard,Q4,Not Available,Low,1020000,27443
+428297,428297,2025-08-01,0,77,57.33,FWY-Huntsville,Fairway,Residential,Reinstate,Huntsville,Standard,Q1,Not Available,Medium,541000,NULL
+1064887,1064887,2025-08-01,0,35,41.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q3,Promoter,Medium,301395,7405
+5830123,5830123,2025-08-01,1,5,43.33,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q1,Not Available,High,874398,13290
+700164,700164,2025-08-01,0,28,80.00,FWY-Jacksonville,Fairway,Residential,Truck or Field,Jacksonville,Tier 2,Q2,Not Available,High,237000,NULL
+373334,373334,2025-08-01,0,73,40.25,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Standard,Q3,Not Available,High,325384,12632
+748052,748052,2025-08-01,0,28,33.00,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q2,Promoter,Medium,319160,9944
+5952637,5952637,2025-08-01,0,67,94.83,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q1,Not Available,Low,315000,NULL
+273805,273805,2025-08-01,0,148,62.92,FWY-Vilonia,Fairway,Residential,Reinstate,Vilonia,Standard,Q2,Detractor,Medium,174500,12632
+50852,50852,2025-08-01,0,32,65.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q4,Promoter,Medium,394110,8712
+5751229,5751229,2025-08-01,0,75,39.50,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q2,Promoter,Medium,826300,47045
+722100,722100,2025-08-01,1,74,79.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Tier 1,Q2,Promoter,Medium,804400,9443
+229076,229076,2025-08-01,0,176,8.33,FWY-Springdale,Fairway,Commercial,Marketing Letter,Springdale,Standard,Q4,Not Available,Medium,NULL,NULL
+1089362,1089362,2025-08-01,0,88,73.08,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Standard,Q2,Not Available,Medium,735600,5762
+1091240,1091240,2025-08-01,0,40,30.67,LVL-St Cloud,Luv-A-Lawn,Residential,Digital,St Cloud,Standard,Q2,Passive,Medium,506300,6077
+631240,631240,2025-08-01,0,53,137.00,RLG-Austin,Real Green,Residential,Truck or Field,Austin,Standard,Q1,Not Available,Low,NULL,NULL
+327105,327105,2025-08-01,0,121,13.08,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q3,Not Available,High,284100,12197
+495346,495346,2025-08-01,0,28,28.00,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q2,Not Available,Medium,320100,8843
+5813926,5813926,2025-08-01,1,5,51.75,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Tier 1,Q1,Not Available,Low,543195,7090
+582133,582133,2025-08-01,0,29,32.67,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q1,Promoter,Medium,417095,10454
+438199,438199,2025-08-01,0,73,78.08,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q3,Passive,High,500020,11761
+496359,496359,2025-08-01,0,53,92.00,FWY-Vilonia,Fairway,Residential,Marketing Letter,Vilonia,Standard,Q1,Not Available,Low,460200,18731
+556279,556279,2025-08-01,0,35,51.33,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q3,Not Available,Medium,310000,14636
+48724,48724,2025-08-01,0,40,100.50,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q2,Not Available,Medium,334900,9583
+5563858,5563858,2025-08-01,0,17,49.33,FWY-Vilonia,Fairway,Commercial,Truck or Field,Vilonia,Standard,Q1,Not Available,Medium,52470,217800
+739160,739160,2025-08-01,0,76,69.00,PIE-Sarasota,Plant-It-Earth,Residential,Truck or Field,Sarasota,Standard,Q2,Not Available,Medium,572597,10740
+4926492,4926492,2025-08-01,0,77,163.58,OTG-Gambrills,On The Green,Residential,Truck or Field,Gambrills,Standard,Q1,Not Available,Medium,1067600,22732
+453593,453593,2025-08-01,0,30,58.00,FWY-Augusta,Fairway,Residential,Reinstate,Augusta,Tier 1,Q1,Promoter,Low,150000,NULL
+1092094,1092094,2025-08-01,0,28,44.42,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Standard,Q2,Not Available,Medium,NULL,9017
+5737124,5737124,2025-08-01,0,11,15.33,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q3,Promoter,Low,220000,12632
+5438065,5438065,2025-08-01,0,18,69.00,FWY-Greenville,Fairway,Residential,Digital,Greenville,Tier 1,Q1,Promoter,Medium,409300,8712
+5751982,5751982,2025-08-01,1,4,79.00,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Not Available,Low,1430909,70916
+5843906,5843906,2025-08-01,0,4,101.50,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Tier 2,Q2,Promoter,Medium,459000,10019
+4999862,4999862,2025-08-01,1,139,27.08,NXG-Westerville,NexGreen,Residential,Referral,Westerville,Standard,Q1,Not Available,Medium,377000,10000
+116829,116829,2025-08-01,0,87,52.50,NXG-Waterford,NexGreen,Residential,Reinstate,Waterford,Standard,Q2,Detractor,High,545700,15682
+526229,526229,2025-08-01,0,43,57.00,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q1,Not Available,Medium,216000,11761
+3722284,3722284,2025-08-01,0,52,31.83,KAP-Cleveland,Kapp's,Residential,Reinstate,Cleveland,Standard,Q2,Not Available,Low,630000,7564
+5664554,5664554,2025-08-01,0,271,141.83,TDI-Madison,Turf Doctor Inc.,Residential,Telesales,Madison,Standard,Q1,Promoter,Low,300000,18086
+1221037,1221037,2025-08-01,1,130,59.17,FPS-Bradenton,Farrow Pest Services,Residential,Truck or Field,Bradenton,Tier 3,Q4,Promoter,High,NULL,9087
+1100966,1100966,2025-08-01,0,24,41.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,200000,8507
+535867,535867,2025-08-01,0,41,94.66,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q1,Promoter,Medium,588800,10890
+5963460,5963460,2025-08-01,1,15,36.00,SPG-Atlanta,Simply Green,Residential,Truck or Field,Atlanta,Standard,Q2,Not Available,Medium,NULL,NULL
+5729328,5729328,2025-08-01,0,30,36.17,FPS-Bradenton,Farrow Pest Services,Residential,Digital,Bradenton,Standard,Q1,Passive,High,284000,8276
+1097052,1097052,2025-08-01,0,29,53.50,LVL-St Cloud,Luv-A-Lawn,Residential,Marketing Letter,St Cloud,Standard,Q1,Not Available,Low,470000,15246
+4928077,4928077,2025-08-01,0,120,89.83,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Passive,Low,845000,8789
+580890,580890,2025-08-01,1,29,38.00,FWY-Vilonia,Fairway,Residential,Reinstate,Vilonia,Standard,Q1,Not Available,Low,242000,11522
+5549784,5549784,2025-08-01,1,17,107.25,FWY-Vilonia,Fairway,Residential,Digital,Vilonia,Tier 2,Q1,Not Available,Low,235000,36590
+5347128,5347128,2025-08-01,0,56,195.83,GRQ-Atlanta,Green Queen,Residential,CONVERSION CUSTOMER,Atlanta,Standard,Q4,Not Available,Low,700000,17424
+470079,470079,2025-08-01,0,55,312.00,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Tier 4,Q1,Detractor,Low,1349700,54103
+4927100,4927100,2025-08-01,0,17,112.67,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Promoter,Low,1008616,10290
+500366,500366,2025-08-01,1,53,71.33,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q1,Promoter,Medium,439900,43560
+719777,719777,2025-08-01,0,103,66.00,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Standard,Q1,Not Available,Medium,498894,9138
+5836958,5836958,2025-08-01,1,4,40.67,PRG-Nashville,Pure Green,Commercial,Referral,Nashville,Standard,Q2,Not Available,High,447400,16500
+5882305,5882305,2025-08-01,0,5,36.67,LVL-Kissimmee,Luv-A-Lawn,Residential,Web Search,Kissimmee,Standard,Q1,Promoter,Low,NULL,5548
+1103471,1103471,2025-08-01,1,24,73.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,617767,7611
+388779,388779,2025-08-01,0,39,44.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Tier 1,Q2,Passive,Medium,362375,23047
+5620381,5620381,2025-08-01,1,48,55.17,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q3,Detractor,Low,713722,27769
+5401751,5401751,2025-08-01,1,98,29.30,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q2,Not Available,Medium,714128,8400
+5563175,5563175,2025-08-01,0,17,85.00,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 2,Q1,Detractor,Medium,364890,13068
+1085227,1085227,2025-08-01,0,75,35.00,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q2,Promoter,Low,644000,6491
+1116823,1116823,2025-08-01,1,148,95.00,YGT-Hillsborough,Your Green Team,Residential,Reinstate,Hillsborough,Tier 1,Q2,Promoter,Medium,392300,6240
+4927016,4927016,2025-08-01,0,126,381.08,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q1,Not Available,Medium,1192000,43560
+5359487,5359487,2025-08-01,0,14,69.00,LVL-St Cloud,Luv-A-Lawn,Residential,Telesales,St Cloud,Tier 1,Q2,Not Available,Medium,437000,6970
+5401357,5401357,2025-08-01,0,39,39.08,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q2,Not Available,Medium,599900,10019
+388268,388268,2025-08-01,0,99,51.33,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q2,Not Available,High,317500,10019
+46429,46429,2025-08-01,0,66,62.00,FWY-Vilonia,Fairway,Residential,Unclassified,Vilonia,Standard,Q1,Not Available,Low,362175,12053
+5966025,5966025,2025-08-01,0,84,126.50,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q3,Not Available,Low,421466,17424
+5729207,5729207,2025-08-01,0,53,47.33,FPS-Bradenton,Farrow Pest Services,Residential,Referral,Bradenton,Standard,Q1,Not Available,High,616000,9322
+5354119,5354119,2025-08-01,1,19,105.00,LVL-St Cloud,Luv-A-Lawn,Residential,Digital,St Cloud,Tier 2,Q1,Not Available,Medium,1282900,46056
+4928947,4928947,2025-08-01,1,21,91.67,OTG-Gambrills,On The Green,Residential,Truck or Field,Gambrills,Standard,Q4,Promoter,Medium,695000,15551
+5856396,5856396,2025-08-01,1,123,48.00,FWY-Jacksonville,Fairway,Residential,CONVERSION CUSTOMER,Jacksonville,Standard,Q2,Not Available,Medium,450000,NULL
+5888353,5888353,2025-08-01,0,2,93.33,FWY-Charleston,Fairway,Residential,Referral,Charleston,Tier 2,Q2,Not Available,High,3850000,13504
+552316,552316,2025-08-01,0,37,44.67,FWY-Columbia,Fairway,Residential,Digital,Columbia,Standard,Q3,Detractor,High,547000,NULL
+1042961,1042961,2025-08-01,1,26,44.17,FWY-Jacksonville,Fairway,Residential,Digital,Jacksonville,Standard,Q2,Passive,High,570000,6534
+5720615,5720615,2025-08-01,0,12,15.33,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q3,Not Available,Medium,215200,7825
+1041374,1041374,2025-08-01,0,27,58.00,FWY-Greenville,Fairway,Residential,Digital,Greenville,Tier 1,Q2,Not Available,Medium,248999,1980
+275343,275343,2025-08-01,0,148,101.33,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q2,Promoter,Medium,252550,16039
+4990722,4990722,2025-08-01,0,137,109.58,NXG-Westerville,NexGreen,Residential,Referral,Westerville,Standard,Q1,Not Available,Low,869000,225728
+459445,459445,2025-08-01,1,64,43.33,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q2,Passive,Medium,192000,8276
+3063361,3063361,2025-08-01,0,138,113.67,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q1,Not Available,Low,NULL,NULL
+5548457,5548457,2025-08-01,0,17,108.00,FWY-Augusta,Fairway,Residential,Referral,Augusta,Tier 1,Q1,Not Available,Medium,178090,NULL
+5350525,5350525,2025-08-01,0,56,210.75,GRQ-Atlanta,Green Queen,Residential,CONVERSION CUSTOMER,Atlanta,Standard,Q4,Passive,Low,760000,12589
+5409994,5409994,2025-08-01,1,39,40.67,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q2,Not Available,Medium,650000,7187
+4931288,4931288,2025-08-01,0,26,54.92,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Promoter,Low,570300,11463
+5736410,5736410,2025-08-01,0,6,100.25,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Passive,Medium,1169600,21250
+1063507,1063507,2025-08-01,1,48,35.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q3,Passive,Medium,259990,10890
+5663801,5663801,2025-08-01,0,87,70.83,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q2,Not Available,Medium,738000,9300
+581881,581881,2025-08-01,1,29,29.33,FWY-Greenville,Fairway,Residential,Digital,Greenville,Standard,Q1,Promoter,Medium,314900,6970
+4404428,4404428,2025-08-01,0,4,54.60,KAP-Cleveland,Kapp's,Residential,Referral,Cleveland,Standard,Q2,Not Available,Low,129000,4800
+5674138,5674138,2025-08-01,0,65,29.33,TDI-Huntsville,Turf Doctor Inc.,Residential,Web Search,Huntsville,Standard,Q1,Promoter,Medium,445225,42014
+4927338,4927338,2025-08-01,0,126,303.33,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q1,Not Available,High,949700,43528
+1107872,1107872,2025-08-01,0,215,216.33,YGT-Hillsborough,Your Green Team,Residential,Referral,Hillsborough,Standard,Q3,Promoter,Medium,415044,39640
+1103433,1103433,2025-08-01,0,24,47.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,469327,6075
+2123037,2123037,2025-08-01,0,63,124.93,KAP-Indianapolis,Kapp's,Residential,Upsell,Indianapolis,Standard,Q2,Promoter,Medium,400500,11600
+5894026,5894026,2025-08-01,1,1,120.36,FWY-Columbia,Fairway,Residential,Digital,Columbia,Standard,Q3,Not Available,Medium,496288,445183
+6178290,6178290,2025-08-01,0,1507,33.33,YGT-Pasco,Your Green Team,Residential,Referral,Pasco,Standard,Q1,Not Available,High,325000,NULL
+694466,694466,2025-08-01,0,28,65.00,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 2,Q2,Promoter,Low,386776,19040
+3753549,3753549,2025-08-01,1,36,65.33,KAP-Cleveland,Kapp's,Residential,Digital,Cleveland,Standard,Q3,Not Available,Low,479000,21315
+5382996,5382996,2025-08-01,1,29,16.67,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q1,Not Available,Medium,NULL,NULL
+5886383,5886383,2025-08-01,1,2,21.58,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q2,Not Available,NA,760000,588931
+5005022,5005022,2025-08-01,0,30,61.75,NXG-Westerville,NexGreen,Residential,Telesales,Westerville,Standard,Q1,Not Available,Low,525129,7072
+5679732,5679732,2025-08-01,1,13,29.33,FWY-Tulsa,Fairway,Residential,Telesales,Tulsa,Standard,Q3,Not Available,High,96800,6875
+2071776,2071776,2025-08-01,0,22,43.00,KAP-Indianapolis,Kapp's,Residential,Reinstate,Indianapolis,Standard,Q4,Not Available,Low,523800,14375
+501834,501834,2025-08-01,0,53,35.50,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q1,Not Available,Medium,378100,18494
+5391582,5391582,2025-08-01,1,174,49.41,GRG-Dallas,GroGreen,Residential,Referral,Dallas,Standard,Q1,Not Available,Low,628768,9001
+5853752,5853752,2025-08-01,0,3,242.00,EEI-Florida City,Eastern Exterminating,Residential,CONVERSION CUSTOMER,Florida City,Standard,Q2,Not Available,Medium,1875000,NULL
+3096294,3096294,2025-08-01,0,13,88.17,KAP-Pittsburgh East,Kapp's,Residential,Telesales,Pittsburgh East,Standard,Q3,Not Available,Medium,380000,87120
+5943000,5943000,2025-08-01,0,155,4.00,SPG-Atlanta,Simply Green,Commercial,Referral,Atlanta,Standard,Q3,Not Available,Low,NULL,NULL
+729584,729584,2025-08-01,0,120,85.50,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Tier 1,Q3,Not Available,Medium,464000,14610
+4931386,4931386,2025-08-01,0,68,87.33,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q4,Not Available,Medium,844100,20916
+804339,804339,2025-08-01,0,88,36.75,NXG-Detroit,NexGreen,Residential,Telesales,Detroit,Standard,Q2,Not Available,Medium,314000,9583
+5856930,5856930,2025-08-01,1,3,55.00,FWY-Vilonia,Fairway,Residential,Digital,Vilonia,Tier 1,Q2,Not Available,Medium,163200,10362
+536676,536676,2025-08-01,1,41,50.67,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q1,Not Available,Medium,157350,11326
+417517,417517,2025-08-01,1,31,32.67,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q1,Detractor,Medium,328400,6621
+5884739,5884739,2025-08-01,1,3,56.42,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q2,Not Available,Medium,550000,11957
+2497084,2497084,2025-08-01,0,41,68.40,KAP-Indianapolis,Kapp's,Residential,Referral,Indianapolis,Standard,Q1,Promoter,High,610700,15346
+4928630,4928630,2025-08-01,1,28,38.50,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Promoter,Low,925000,10019
+5800774,5800774,2025-08-01,0,7,74.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Digital,Kissimmee,Tier 1,Q1,Not Available,Medium,430000,6404
+5820240,5820240,2025-08-01,1,5,27.33,FWY-Augusta,Fairway,Residential,Reinstate,Augusta,Standard,Q1,Not Available,Medium,215000,NULL
+5914831,5914831,2025-08-01,0,14,72.67,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q2,Not Available,Low,630800,33106
+5437579,5437579,2025-08-01,1,18,13.17,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q1,Not Available,High,NULL,NULL
+5892228,5892228,2025-08-01,0,1,50.70,FWY-Memphis,Fairway,Residential,Upsell,Memphis,Standard,Q3,Not Available,High,39000,6970
+4926408,4926408,2025-08-01,0,84,189.08,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q3,Not Available,Low,706000,18488
+5962719,5962719,2025-08-01,0,51,58.00,SPG-Atlanta,Simply Green,Residential,Truck or Field,Atlanta,Standard,Q2,Promoter,Medium,400390,9583
+5836584,5836584,2025-08-01,0,5,85.50,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Tier 2,Q1,Not Available,High,225000,8494
+3813071,3813071,2025-08-01,0,309,28.92,KAP-Cleveland,Kapp's,Residential,Telesales,Cleveland,Standard,Q4,Not Available,Low,NULL,NULL
+5874631,5874631,2025-08-01,1,19,46.44,LVL-North Orlando,Luv-A-Lawn,Commercial,Upsell,North Orlando,Standard,Q1,Not Available,NA,NULL,NULL
+4978151,4978151,2025-08-01,0,20,50.25,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q4,Not Available,Medium,475000,5750
+3760091,3760091,2025-08-01,0,41,44.33,KAP-Fort Wayne,Kapp's,Residential,Marketing Letter,Fort Wayne,Standard,Q1,Not Available,Medium,344750,16871
+257442,257442,2025-08-01,0,21,157.75,FWY-Springdale,Fairway,Commercial,Digital,Springdale,Standard,Q4,Promoter,Medium,NULL,NULL
+5656439,5656439,2025-08-01,0,50,47.25,TDI-Huntsville,Turf Doctor Inc.,Residential,Reinstate,Huntsville,Standard,Q2,Promoter,Low,346000,11327
+577462,577462,2025-08-01,0,29,38.67,FWY-Birmingham,Fairway,Residential,Digital,Birmingham,Standard,Q1,Passive,Low,838010,60164
+4926937,4926937,2025-08-01,0,23,74.74,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Passive,Low,680669,10533
+646988,646988,2025-08-01,0,52,70.00,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q2,Not Available,Medium,265000,6943
+431303,431303,2025-08-01,0,76,38.75,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q2,Not Available,Medium,174900,7405
+544709,544709,2025-08-01,0,40,81.46,FWY-Little Rock,Fairway,Residential,Reinstate,Little Rock,Tier 2,Q2,Not Available,Low,210000,10454
+5915787,5915787,2025-08-01,0,46,78.67,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q4,Not Available,Low,299000,12632
+5964865,5964865,2025-08-01,1,89,36.00,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q1,Promoter,Medium,714500,12200
+5949493,5949493,2025-08-01,1,55,41.25,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q1,Not Available,Medium,1226100,18731
+5751253,5751253,2025-08-01,0,11,11.42,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q3,Not Available,High,NULL,5663
+1061106,1061106,2025-08-01,0,71,184.42,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Tier 3,Q3,Not Available,Medium,408043,59677
+5825208,5825208,2025-08-01,0,5,100.00,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Tier 2,Q1,Passive,Medium,539000,9148
+5671361,5671361,2025-08-01,0,40,46.67,TDI-Madison,Turf Doctor Inc.,Residential,Truck or Field,Madison,Standard,Q2,Not Available,Low,367390,16212
+1239754,1239754,2025-08-01,0,26,27.00,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q2,Not Available,Medium,NULL,NULL
+588136,588136,2025-08-01,0,53,51.58,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q1,Promoter,Medium,460600,5865
+5586075,5586075,2025-08-01,0,16,98.58,RLG-Austin,Real Green,Residential,Reinstate,Austin,Tier 2,Q2,Promoter,Low,325000,5580
+5837660,5837660,2025-08-01,0,4,114.33,FWY-Memphis,Fairway,Residential,Digital,Memphis,Tier 1,Q2,Not Available,High,106000,18040
+48967,48967,2025-08-01,0,39,41.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q2,Not Available,High,226990,3920
+5738660,5738660,2025-08-01,0,11,13.17,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q3,Not Available,High,649000,130680
+2128112,2128112,2025-08-01,0,28,22.50,KAP-Indianapolis,Kapp's,Residential,Referral,Indianapolis,Standard,Q2,Detractor,Medium,475555,9148
+754463,754463,2025-08-01,1,53,64.17,NXG-Waterford,NexGreen,Residential,Telesales,Waterford,Standard,Q1,Not Available,Medium,289900,12197
+5808035,5808035,2025-08-01,0,6,42.00,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Tier 1,Q1,Not Available,Medium,446000,10889
+1043065,1043065,2025-08-01,0,26,58.17,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q2,Not Available,Medium,330600,19440
+5944125,5944125,2025-08-01,0,97,111.58,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q3,Not Available,Medium,673943,NULL
+4926337,4926337,2025-08-01,0,20,89.92,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q4,Not Available,Low,900700,6056
+1229435,1229435,2025-08-01,0,90,109.67,YGT-Pasco,Your Green Team,Residential,Truck or Field,Pasco,Standard,Q1,Not Available,High,239900,9583
+420765,420765,2025-08-01,0,18,34.67,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q1,Not Available,High,377300,9600
+2685641,2685641,2025-08-01,0,296,54.00,KAP-Pittsburgh West,Kapp's,Residential,Reinstate,Pittsburgh West,Standard,Q4,Not Available,Medium,245000,6325
+5754830,5754830,2025-08-01,0,76,31.29,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q2,Promoter,Medium,323850,13160
+5645183,5645183,2025-08-01,0,101,36.00,TDI-Madison,Turf Doctor Inc.,Residential,Truck or Field,Madison,Standard,Q1,Not Available,Medium,333968,9700
+277861,277861,2025-08-01,0,147,84.17,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q2,Not Available,Medium,536300,57499
+422653,422653,2025-08-01,0,78,57.33,FWY-Birmingham,Fairway,Residential,Referral,Birmingham,Standard,Q1,Not Available,Low,584818,15548
+1044961,1044961,2025-08-01,0,24,28.00,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q3,Passive,Medium,309400,48192
+452533,452533,2025-08-01,1,4,132.00,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Tier 3,Q2,Not Available,Low,333200,11425
+581094,581094,2025-08-01,0,29,65.33,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Standard,Q1,Not Available,Medium,401900,18175
+5627109,5627109,2025-08-01,0,44,100.67,TDI-Huntsville,Turf Doctor Inc.,Residential,Web Search,Huntsville,Standard,Q4,Passive,Medium,552874,NULL
+5832904,5832904,2025-08-01,0,5,63.00,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 1,Q1,Not Available,Medium,348000,3316135680
+1098809,1098809,2025-08-01,0,24,50.97,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q3,Not Available,Medium,288200,16988
+9292,9292,2025-08-01,1,184,105.33,FWY-Vilonia,Fairway,Residential,Reinstate,Vilonia,Standard,Q2,Not Available,Low,1000000,43560
+414732,414732,2025-08-01,0,83,38.67,FWY-Birmingham,Fairway,Residential,Referral,Birmingham,Standard,Q3,Passive,Low,440200,23250
+4932865,4932865,2025-08-01,0,16,88.24,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Tier 1,Q2,Not Available,Low,1077085,10255
+5430046,5430046,2025-08-01,1,18,202.58,RLG-Austin,Real Green,Residential,Digital,Austin,Tier 2,Q1,Not Available,Medium,669000,11813
+316261,316261,2025-08-01,0,125,72.67,FWY-Birmingham,Fairway,Residential,Truck or Field,Birmingham,Standard,Q1,Not Available,Low,426800,19248
+5542241,5542241,2025-08-01,1,17,75.00,YGT-Hillsborough,Your Green Team,Residential,Referral,Hillsborough,Tier 1,Q1,Not Available,High,497000,NULL
+4925688,4925688,2025-08-01,0,17,100.65,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Not Available,Medium,818600,24749
+5889346,5889346,2025-08-01,0,2,111.00,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Tier 3,Q2,Not Available,Medium,NULL,4400
+697281,697281,2025-08-01,0,28,76.44,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Standard,Q2,Promoter,Low,1400000,14288
+5811954,5811954,2025-08-01,1,6,85.00,FWY-Jacksonville,Fairway,Residential,Marketing Letter,Jacksonville,Tier 2,Q1,Not Available,High,691888,NULL
+5914165,5914165,2025-08-01,0,27,40.67,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q2,Not Available,Low,700279,7841
+474400,474400,2025-08-01,0,29,103.33,FWY-Vilonia,Fairway,Residential,Reinstate,Vilonia,Standard,Q1,Not Available,Medium,219200,7680
+762615,762615,2025-08-01,0,49,39.67,NXG-Detroit,NexGreen,Residential,Telesales,Detroit,Standard,Q3,Not Available,Medium,NULL,NULL
+47953,47953,2025-08-01,0,42,29.33,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Standard,Q1,Not Available,Medium,302240,6970
+5753690,5753690,2025-08-01,0,15,47.00,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q2,Promoter,Medium,1299900,547985
+5343521,5343521,2025-08-01,0,19,37.38,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q1,Not Available,Medium,124900,4792
+1062137,1062137,2025-08-01,0,198,23.08,LVL-St Cloud,Luv-A-Lawn,Residential,Telesales,St Cloud,Standard,Q1,Not Available,Medium,239900,14810
+5570361,5570361,2025-08-01,0,16,44.33,YGT-Pasco,Your Green Team,Residential,Reinstate,Pasco,Standard,Q2,Not Available,High,NULL,65800
+560224,560224,2025-08-01,0,15,58.67,FWY-Ft. Smith,Fairway,Residential,Truck or Field,Ft. Smith,Standard,Q2,Not Available,Low,254400,13590
+807482,807482,2025-08-01,0,114,75.83,NXG-Detroit,NexGreen,Residential,Telesales,Detroit,Standard,Q1,Promoter,High,353000,8276
+3778129,3778129,2025-08-01,0,51,74.25,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q2,Not Available,Medium,593100,10454
+5442494,5442494,2025-08-01,1,62,47.83,PRG-Nashville,Pure Green,Commercial,Referral,Nashville,Standard,Q2,Not Available,High,1097320,16920
+536625,536625,2025-08-01,0,41,53.33,FWY-Vilonia,Fairway,Residential,Marketing Letter,Vilonia,Standard,Q1,Passive,Low,255275,12306
+5741868,5741868,2025-08-01,0,9,47.00,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q4,Not Available,Medium,670000,43124
+1040964,1040964,2025-08-01,1,27,142.00,FWY-Memphis,Fairway,Residential,Digital,Memphis,Tier 3,Q2,Promoter,Medium,375000,8712
+5570274,5570274,2025-08-01,0,16,75.33,FWY-Augusta,Fairway,Residential,Referral,Augusta,Standard,Q2,Not Available,Low,601713,764478
+5803083,5803083,2025-08-01,0,6,55.92,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q1,Passive,Medium,375800,11250
+5890661,5890661,2025-08-01,0,2,114.00,GRQ-Atlanta,Green Queen,Residential,Digital,Atlanta,Standard,Q2,Not Available,Low,849000,NULL
+5370259,5370259,2025-08-01,1,97,29.30,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q3,Not Available,Medium,499900,11761
+1061755,1061755,2025-08-01,0,55,41.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q1,Not Available,Medium,269900,9148
+5819648,5819648,2025-08-01,0,31,47.00,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Passive,High,203100,6281
+818235,818235,2025-08-01,0,47,33.33,NXG-Detroit,NexGreen,Residential,Referral,Detroit,Standard,Q3,Passive,High,525500,9148
+1100519,1100519,2025-08-01,0,24,52.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Promoter,Medium,420000,6600
+5883716,5883716,2025-08-01,0,3,37.50,OTG-Gambrills,On The Green,Residential,Marketing Letter,Gambrills,Standard,Q2,Not Available,Medium,NULL,NULL
+1247588,1247588,2025-08-01,0,51,56.00,PIE-Plant City,Plant-It-Earth,Residential,Upsell,Plant City,Standard,Q2,Not Available,Medium,377728,6961
+531487,531487,2025-08-01,0,41,84.00,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Tier 2,Q1,Promoter,Low,239900,12367
+5435038,5435038,2025-08-01,0,18,60.83,FWY-Augusta,Fairway,Residential,Upsell,Augusta,Standard,Q1,Passive,Medium,455000,15638
+5431911,5431911,2025-08-01,1,18,276.75,GRQ-Atlanta,Green Queen,Residential,Digital,Atlanta,Standard,Q1,Not Available,NA,279900,9583
+5376863,5376863,2025-08-01,0,50,153.00,GRG-Dallas,GroGreen,Residential,Upsell,Dallas,Tier 2,Q2,Not Available,Medium,2600000,120792
+5792800,5792800,2025-08-01,0,87,77.50,EBP-Port Richey,Earth's Best,Residential,Digital,Port Richey,Standard,Q2,Not Available,High,500600,8800
+496952,496952,2025-08-01,0,53,111.00,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 2,Q1,Promoter,Low,350000,16988
+4927425,4927425,2025-08-01,0,121,277.50,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Tier 1,Q3,Not Available,Low,608000,22475
+359448,359448,2025-08-01,1,113,26.60,FWY-Vilonia,Fairway,Residential,Marketing Letter,Vilonia,Standard,Q1,Not Available,Low,152000,NULL
+1103545,1103545,2025-08-01,0,24,60.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,431000,4500
+5811281,5811281,2025-08-01,0,6,70.30,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 1,Q1,Promoter,Medium,349900,20038
+623798,623798,2025-08-01,0,35,87.67,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q3,Not Available,Medium,NULL,NULL
+6176149,6176149,2025-08-01,0,49,16.50,YGT-Pasco,Your Green Team,Residential,Referral,Pasco,Standard,Q3,Not Available,Medium,109974,9421
+1060958,1060958,2025-08-01,0,26,38.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q2,Promoter,Medium,409700,6098
+5377848,5377848,2025-08-01,1,134,42.00,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q2,Not Available,Medium,375000,10019
+4926522,4926522,2025-08-01,0,28,45.50,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Passive,High,382500,10019
+4927158,4927158,2025-08-01,0,47,83.08,OTG-Gambrills,On The Green,Residential,Truck or Field,Gambrills,Standard,Q3,Promoter,Low,1111424,10000
+1093242,1093242,2025-08-01,0,77,26.33,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Standard,Q1,Promoter,High,227000,3790
+5013278,5013278,2025-08-01,0,96,128.00,NXG-Westerville,NexGreen,Residential,Referral,Westerville,Standard,Q3,Detractor,Medium,461391,26015
+9210,9210,2025-08-01,1,102,18.50,FWY-Vilonia,Fairway,Residential,Unclassified,Vilonia,Standard,Q1,Not Available,Low,144900,NULL
+5415081,5415081,2025-08-01,1,209,41.42,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q1,Not Available,Medium,525636,12760
+1073431,1073431,2025-08-01,0,82,35.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q4,Promoter,Medium,547800,16640
+435366,435366,2025-08-01,0,75,37.50,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q2,Not Available,Medium,262179,5527
+5549725,5549725,2025-08-01,0,17,32.00,FWY-Springdale,Fairway,Residential,Digital,Springdale,Standard,Q1,Not Available,Medium,244534,5748
+426700,426700,2025-08-01,1,18,40.00,FWY-Greenville,Fairway,Residential,Telesales,Greenville,Standard,Q1,Not Available,Medium,281000,9117
+5698047,5698047,2025-08-01,0,76,35.50,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q2,Not Available,Low,436100,9523
+443061,443061,2025-08-01,0,16,105.00,FWY-Augusta,Fairway,Residential,Reinstate,Augusta,Tier 2,Q2,Promoter,Medium,315000,NULL
+5804733,5804733,2025-08-01,0,7,102.17,FWY-Columbia,Fairway,Residential,Truck or Field,Columbia,Standard,Q1,Not Available,High,599770,NULL
+154830,154830,2025-08-01,0,205,111.00,FWY-Vilonia,Fairway,Residential,Referral,Vilonia,Tier 1,Q3,Not Available,Low,221300,27499
+5355271,5355271,2025-08-01,0,19,41.33,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Standard,Q1,Not Available,Medium,510000,10846
+5808533,5808533,2025-08-01,0,6,58.00,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Tier 1,Q1,Not Available,Medium,331200,NULL
+5410520,5410520,2025-08-01,0,29,133.60,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q1,Detractor,Medium,560000,88862
+626960,626960,2025-08-01,0,61,82.25,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q3,Promoter,Medium,438000,7505
+1119277,1119277,2025-08-01,0,51,121.83,YGT-Hillsborough,Your Green Team,Residential,Referral,Hillsborough,Standard,Q2,Promoter,High,829900,10454
+710516,710516,2025-08-01,0,91,48.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q1,Not Available,High,404000,11060
+5778655,5778655,2025-08-01,0,7,90.00,LVL-St Cloud,Luv-A-Lawn,Residential,Marketing Letter,St Cloud,Tier 2,Q1,Not Available,Medium,610000,6098
+421906,421906,2025-08-01,0,78,52.22,FWY-Augusta,Fairway,Commercial,Upsell,Augusta,Standard,Q1,Not Available,Medium,NULL,NULL
+469138,469138,2025-08-01,1,58,113.33,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Tier 1,Q4,Not Available,Medium,379900,16988
+5413272,5413272,2025-08-01,1,197,42.00,GRG-Dallas,GroGreen,Residential,Truck or Field,Dallas,Standard,Q1,Not Available,Low,440000,6534
+4924872,4924872,2025-08-01,0,55,47.75,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q1,Not Available,Low,760300,7226
+5421418,5421418,2025-08-01,1,29,12.50,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q1,Not Available,NA,NULL,NULL
+5640774,5640774,2025-08-01,0,150,77.33,TDI-Huntsville,Turf Doctor Inc.,Residential,Unclassified,Huntsville,Standard,Q1,Not Available,Medium,253195,19663
+5365824,5365824,2025-08-01,1,198,49.33,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q1,Not Available,Medium,1104400,19602
+5729920,5729920,2025-08-01,0,50,27.67,FPS-Bradenton,Farrow Pest Services,Residential,Upsell,Bradenton,Standard,Q2,Not Available,Medium,170000,NULL
+286342,286342,2025-08-01,0,140,23.75,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q4,Promoter,Low,225000,21780
+5659254,5659254,2025-08-01,0,17,34.92,TDI-Robertsdale,Turf Doctor Inc.,Residential,Referral,Robertsdale,Standard,Q1,Not Available,High,NULL,NULL
+48300,48300,2025-08-01,0,41,137.58,PIE-Sarasota,Plant-It-Earth,Residential,Truck or Field,Sarasota,Tier 3,Q1,Not Available,High,798000,20147
+1228326,1228326,2025-08-01,1,42,33.33,YGT-Pasco,Your Green Team,Residential,Truck or Field,Pasco,Standard,Q1,Not Available,Low,625000,7350
+5827699,5827699,2025-08-01,1,5,121.00,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Tier 3,Q1,Not Available,High,280000,11326
+749313,749313,2025-08-01,0,27,142.00,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 3,Q2,Not Available,Medium,386900,11761
+5732945,5732945,2025-08-01,0,12,73.00,DRJ-Orlando,Dr. Jack's,Residential,Referral,Orlando,Standard,Q3,Not Available,Low,259900,NULL
+1072285,1072285,2025-08-01,1,64,57.75,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Tier 1,Q2,Detractor,High,NULL,NULL
+4924913,4924913,2025-08-01,0,66,82.05,OTG-Gambrills,On The Green,Residential,Truck or Field,Gambrills,Standard,Q1,Passive,Low,399000,1800
+538065,538065,2025-08-01,0,16,84.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Tier 1,Q2,Promoter,Medium,535000,131987
+5777653,5777653,2025-08-01,1,8,5.83,LVL-North Orlando,Luv-A-Lawn,Commercial,Upsell,North Orlando,Standard,Q4,Not Available,High,743800,NULL
+5622283,5622283,2025-08-01,0,51,68.58,TDI-Huntsville,Turf Doctor Inc.,Residential,Upsell,Huntsville,Standard,Q2,Not Available,Low,454729,18268
+3102918,3102918,2025-08-01,0,210,37.50,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q1,Not Available,Medium,327000,20000
+5597697,5597697,2025-08-01,0,15,100.00,YGT-Pasco,Your Green Team,Residential,Digital,Pasco,Tier 1,Q2,Not Available,High,289900,16988
+751041,751041,2025-08-01,0,27,40.08,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q2,Detractor,Medium,132500,NULL
+5739788,5739788,2025-08-01,1,10,13.17,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q4,Not Available,High,NULL,NULL
+408656,408656,2025-08-01,0,88,99.39,FWY-Augusta,Fairway,Residential,Referral,Augusta,Standard,Q2,Promoter,Medium,264900,9583
+4923109,4923109,2025-08-01,0,22,77.17,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q4,Not Available,Medium,569000,7662
+561358,561358,2025-08-01,0,30,35.33,FWY-Greenville,Fairway,Residential,Referral,Greenville,Standard,Q1,Promoter,Medium,429200,8320
+451026,451026,2025-08-01,0,49,102.91,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 3,Q3,Detractor,Medium,379900,11326
+5406932,5406932,2025-08-01,1,106,47.50,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q4,Not Available,High,2100000,141744
+5736505,5736505,2025-08-01,0,11,255.33,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q3,Promoter,Medium,1422892,288803
+4931675,4931675,2025-08-01,0,74,194.67,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Not Available,Low,956200,13500
+5808841,5808841,2025-08-01,0,6,72.42,LVL-St Cloud,Luv-A-Lawn,Residential,Digital,St Cloud,Tier 1,Q1,Not Available,Medium,432100,7405
+5942595,5942595,2025-08-01,0,31,57.75,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q1,Promoter,Medium,808000,16553
+655758,655758,2025-08-01,0,65,81.33,RLG-Austin,Real Green,Residential,Unclassified,Austin,Standard,Q1,Promoter,Medium,449492,7311
+3091673,3091673,2025-08-01,0,311,11.00,KAP-Pittsburgh East,Kapp's,Residential,Marketing Email,Pittsburgh East,Standard,Q3,Not Available,Medium,NULL,NULL
+602283,602283,2025-08-01,1,76,74.28,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q2,Detractor,Medium,750000,14898
+1093749,1093749,2025-08-01,0,37,30.67,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Standard,Q3,Not Available,Medium,315990,6098
+4993743,4993743,2025-08-01,0,90,68.00,NXG-Westerville,NexGreen,Residential,Telesales,Westerville,Standard,Q1,Not Available,Low,539900,10890
+618659,618659,2025-08-01,0,39,50.67,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Standard,Q2,Passive,Low,858763,9583
+5796465,5796465,2025-08-01,1,42,95.00,EBP-Port Richey,Earth's Best,Commercial,Referral,Port Richey,Standard,Q1,Not Available,High,NULL,NULL
+5844866,5844866,2025-08-01,0,4,84.00,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 2,Q2,Not Available,Low,619800,12783
+6177004,6177004,2025-08-01,0,1507,40.00,YGT-Pasco,Your Green Team,Residential,Referral,Pasco,Standard,Q1,Not Available,Medium,NULL,NULL
+564204,564204,2025-08-01,0,59,36.17,FWY-Knoxville,Fairway,Residential,Referral,Knoxville,Standard,Q3,Passive,Medium,249900,NULL
+5832252,5832252,2025-08-01,1,5,51.75,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q1,Promoter,Medium,850000,23625
+3101648,3101648,2025-08-01,0,52,40.15,KAP-Pittsburgh East,Kapp's,Residential,Telesales,Pittsburgh East,Standard,Q2,Not Available,Low,NULL,9600
+5664966,5664966,2025-08-01,0,75,185.00,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q2,Not Available,High,NULL,NULL
+453574,453574,2025-08-01,1,65,64.08,FWY-Vilonia,Fairway,Residential,Truck or Field,Vilonia,Standard,Q1,Not Available,Low,385000,14810
+5817200,5817200,2025-08-01,1,31,48.58,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Not Available,Medium,374470,6351
+591017,591017,2025-08-01,1,29,55.74,RLG-Austin,Real Green,Residential,Reinstate,Austin,Standard,Q1,Not Available,Medium,485000,8520
+5736974,5736974,2025-08-01,1,11,59.75,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Not Available,Low,519000,3920
+5815656,5815656,2025-08-01,0,31,55.00,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Promoter,High,510800,7700
+11207,11207,2025-08-01,0,343,46.00,FWY-Ft. Smith,Fairway,Residential,Reinstate,Ft. Smith,Standard,Q1,Not Available,Medium,NULL,NULL
+1254054,1254054,2025-08-01,0,23,29.67,FPS-Bradenton,Farrow Pest Services,Residential,Truck or Field,Bradenton,Standard,Q3,Not Available,Medium,319900,13939
+5564542,5564542,2025-08-01,0,16,36.67,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q2,Not Available,Low,305028,8841
+4926080,4926080,2025-08-01,1,47,58.83,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Not Available,Medium,765000,7475
+5185632,5185632,2025-08-01,1,3,30.00,NXG-Westerville,NexGreen,Commercial,Telesales,Westerville,Standard,Q2,Not Available,Low,869000,24002
+5884197,5884197,2025-08-01,1,3,39.08,GRG-Dallas,GroGreen,Residential,Marketing Letter,Dallas,Standard,Q2,Not Available,Medium,844000,10182
+5418055,5418055,2025-08-01,1,106,117.60,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q4,Not Available,Medium,1498000,18774
+323447,323447,2025-08-01,0,64,28.58,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q2,Detractor,Low,223683,8364
+5642273,5642273,2025-08-01,0,78,34.00,TDI-Madison,Turf Doctor Inc.,Residential,Marketing Letter,Madison,Standard,Q1,Passive,Medium,575000,13504
+5809273,5809273,2025-08-01,0,6,45.50,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q1,Not Available,Medium,259178,11001
+408382,408382,2025-08-01,0,88,74.00,FWY-Augusta,Fairway,Residential,Referral,Augusta,Tier 1,Q2,Not Available,Medium,253900,NULL
+5549592,5549592,2025-08-01,0,17,158.92,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q1,Not Available,Low,822800,15110
+4931173,4931173,2025-08-01,0,47,38.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Not Available,Low,783900,5520
+5968118,5968118,2025-08-01,0,28,46.92,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q2,Not Available,Medium,325000,17424
+1114594,1114594,2025-08-01,0,39,53.00,YGT-Hillsborough,Your Green Team,Residential,Digital,Hillsborough,Standard,Q2,Not Available,Medium,488700,6900
+3817021,3817021,2025-08-01,0,101,40.33,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q1,Passive,Low,388000,10019
+5849154,5849154,2025-08-01,1,3,29.40,FWY-Tulsa,Fairway,Residential,Telesales,Tulsa,Standard,Q2,Not Available,High,223730,NULL
+200716,200716,2025-08-01,0,189,14.00,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Standard,Q4,Not Available,Medium,445655,19920
+5851760,5851760,2025-08-01,0,3,69.92,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q2,Promoter,Medium,412000,NULL
+3070553,3070553,2025-08-01,0,297,46.17,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q4,Passive,Low,328319,12463
+5704729,5704729,2025-08-01,0,266,66.00,DRJ-Orlando,Dr. Jack's,Residential,Truck or Field,Orlando,Standard,Q2,Not Available,Low,450036,9634
+48338,48338,2025-08-01,0,41,58.00,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Standard,Q1,Not Available,Medium,264010,6098
+5885484,5885484,2025-08-01,1,3,107.17,LWN-Nashville,Lawn Ranger,Residential,Digital,Nashville,Tier 2,Q2,Not Available,Medium,763900,NULL
+584010,584010,2025-08-01,0,29,74.42,FWY-Charleston,Fairway,Residential,Marketing Letter,Charleston,Tier 1,Q1,Passive,Medium,738758,11310
+4925233,4925233,2025-08-01,0,17,101.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Not Available,Low,781123,6205
+5743115,5743115,2025-08-01,1,9,80.00,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Tier 2,Q4,Not Available,High,774990,7200
+5960327,5960327,2025-08-01,0,19,57.00,SPG-Atlanta,Simply Green,Residential,Truck or Field,Atlanta,Standard,Q1,Promoter,Low,389900,16988
+5848300,5848300,2025-08-01,0,4,34.00,NXG-Westerville,NexGreen,Residential,Truck or Field,Westerville,Standard,Q2,Not Available,Medium,259800,11060
+5823887,5823887,2025-08-01,0,5,44.33,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q1,Not Available,Low,627800,17518
+577949,577949,2025-08-01,0,29,42.00,FWY-Columbia,Fairway,Residential,Marketing Letter,Columbia,Standard,Q1,Not Available,Medium,888000,40339
+5600817,5600817,2025-08-01,0,14,46.00,LVL-Kissimmee,Luv-A-Lawn,Residential,CONVERSION CUSTOMER,Kissimmee,Standard,Q2,Promoter,Medium,377955,6364
+545386,545386,2025-08-01,0,40,40.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q2,Passive,Medium,322000,13113
+5889845,5889845,2025-08-01,0,2,84.00,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Tier 1,Q2,Promoter,High,171700,14300
+4978232,4978232,2025-08-01,0,21,76.36,LVL-Kissimmee,Luv-A-Lawn,Residential,Digital,Kissimmee,Standard,Q4,Promoter,Low,573000,9274
+312968,312968,2025-08-01,0,115,40.25,FWY-Augusta,Fairway,Residential,Telesales,Augusta,Standard,Q1,Not Available,Low,250600,10406
+637287,637287,2025-08-01,0,78,40.67,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q1,Promoter,Medium,287090,6882
+5543317,5543317,2025-08-01,1,17,41.50,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q1,Not Available,Low,247000,6308
+445413,445413,2025-08-01,0,66,51.17,FWY-Huntsville,Fairway,Residential,Referral,Huntsville,Standard,Q1,Not Available,Low,601000,18040
+5600305,5600305,2025-08-01,0,15,58.00,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Tier 1,Q2,Not Available,Low,445900,9714
+227510,227510,2025-08-01,0,180,20.67,FWY-Springdale,Fairway,Residential,Unclassified,Springdale,Standard,Q3,Not Available,Medium,425000,950915
+4923711,4923711,2025-08-01,1,21,89.00,YGT-Pasco,Your Green Team,Residential,Digital,Pasco,Standard,Q4,Not Available,Medium,699900,10019
+255945,255945,2025-08-01,0,133,57.83,FWY-Ft. Smith,Fairway,Residential,Referral,Ft. Smith,Standard,Q3,Passive,Low,247787,10732
+5887733,5887733,2025-08-01,0,2,69.00,LWN-Nashville,Lawn Ranger,Residential,Digital,Nashville,Tier 1,Q2,Not Available,Medium,823521,15055
+5749823,5749823,2025-08-01,0,80,25.17,SPS-Baltimore,Scientific Plant Service,Residential,Upsell,Baltimore,Standard,Q4,Not Available,Medium,481000,9387
+460219,460219,2025-08-01,0,63,133.25,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q2,Not Available,Medium,239000,36590
+4927072,4927072,2025-08-01,0,2,375.79,OTG-Gambrills,On The Green,Commercial,Truck or Field,Gambrills,Standard,Q2,Promoter,Low,524900,6970
+5655848,5655848,2025-08-01,1,49,58.17,TDI-Madison,Turf Doctor Inc.,Residential,Marketing Letter,Madison,Standard,Q3,Not Available,Low,328600,18613
+5732045,5732045,2025-08-01,0,12,52.61,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q3,Not Available,Medium,368900,32670
+4931315,4931315,2025-08-01,0,132,217.25,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q3,Not Available,Low,789700,32234
+4926416,4926416,2025-08-01,0,119,453.83,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Not Available,Low,1299400,44431
+2087175,2087175,2025-08-01,0,71,15.08,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q3,Not Available,Low,356400,11979
+5914320,5914320,2025-08-01,0,23,36.67,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q3,Not Available,Low,425000,7405
+5636335,5636335,2025-08-01,0,29,62.00,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q1,Promoter,Medium,397400,23475
+5956095,5956095,2025-08-01,0,77,60.75,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q1,Not Available,Low,1338500,26136
+352175,352175,2025-08-01,0,113,59.92,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q1,Passive,Medium,290672,8625
+5844209,5844209,2025-08-01,0,4,52.17,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Standard,Q2,Not Available,Medium,234634,7021
+6184056,6184056,2025-08-01,0,194,24.67,YGT-Pasco,Your Green Team,Commercial,Reinstate,Pasco,Standard,Q2,Not Available,Medium,NULL,NULL
+5854026,5854026,2025-08-01,1,13,67.08,EEI-Florida City,Eastern Exterminating,Residential,CONVERSION CUSTOMER,Florida City,Standard,Q3,Not Available,Medium,517000,17446
+5680584,5680584,2025-08-01,1,13,13.17,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q3,Not Available,High,224900,6098
+4972913,4972913,2025-08-01,0,5,43.50,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Tier 1,Q1,Promoter,Low,776900,6300
+518489,518489,2025-08-01,0,49,81.67,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q3,Not Available,Medium,370000,2439360
+1073680,1073680,2025-08-01,0,47,100.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Tier 3,Q3,Not Available,Medium,309959,6970
+5400440,5400440,2025-08-01,1,66,37.50,GRG-Dallas,GroGreen,Residential,Truck or Field,Dallas,Standard,Q1,Not Available,Medium,572900,34399
+5700398,5700398,2025-08-01,0,63,74.83,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q2,Not Available,Low,379000,NULL
+1096171,1096171,2025-08-01,1,62,70.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Digital,Kissimmee,Standard,Q2,Not Available,Low,266000,6098
+5549567,5549567,2025-08-01,0,17,63.00,FWY-Memphis,Fairway,Residential,Truck or Field,Memphis,Tier 1,Q1,Not Available,Medium,317760,13750
+5739589,5739589,2025-08-01,0,10,45.00,NXG-Westerville,NexGreen,Commercial,Telesales,Westerville,Standard,Q4,Not Available,Low,781800,12153
+1065575,1065575,2025-08-01,0,46,43.50,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Standard,Q4,Not Available,Medium,458935,5663
+5696879,5696879,2025-08-01,0,259,31.75,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q1,Not Available,Medium,1889900,68086
+1243812,1243812,2025-08-01,0,23,68.00,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q3,Not Available,NA,371200,NULL
+530304,530304,2025-08-01,0,30,26.25,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q1,Not Available,Medium,273600,7238
+172485,172485,2025-08-01,0,203,38.67,FWY-Memphis,Fairway,Residential,Referral,Memphis,Standard,Q3,Not Available,Low,245074,10454
+5778368,5778368,2025-08-01,0,7,116.00,LVL-St Cloud,Luv-A-Lawn,Residential,Digital,St Cloud,Tier 3,Q1,Not Available,Medium,354990,7841
+5686242,5686242,2025-08-01,0,18,27.08,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q1,Not Available,NA,55000,6497
+535022,535022,2025-08-01,0,41,66.00,FWY-Huntsville,Fairway,Residential,Marketing Letter,Huntsville,Standard,Q1,Not Available,Low,430600,18930
+466958,466958,2025-08-01,0,60,82.00,FWY-Memphis,Fairway,Residential,Reinstate,Memphis,Standard,Q3,Not Available,Medium,114000,23087
+271832,271832,2025-08-01,0,112,55.33,FWY-Vilonia,Fairway,Residential,Marketing Letter,Vilonia,Standard,Q2,Passive,Low,644142,15237
+1043367,1043367,2025-08-01,0,26,13.83,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q2,Promoter,High,358223,NULL
+5914656,5914656,2025-08-01,0,16,48.00,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q2,Not Available,Low,645000,13068
+5836195,5836195,2025-08-01,0,5,29.75,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q1,Passive,Medium,371500,8059
+5597634,5597634,2025-08-01,0,15,37.33,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q2,Passive,Medium,990288,24829
+3747740,3747740,2025-08-01,0,64,10.75,KAP-Indianapolis,Kapp's,Residential,Upsell,Indianapolis,Standard,Q2,Not Available,Medium,370000,12502
+1067282,1067282,2025-08-01,0,30,27.63,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Standard,Q1,Not Available,Medium,427392,5663
+1114307,1114307,2025-08-01,0,26,169.92,YGT-Hillsborough,Your Green Team,Residential,Referral,Hillsborough,Standard,Q2,Not Available,Medium,227000,6150
+1072135,1072135,2025-08-01,0,48,90.08,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Standard,Q3,Promoter,Medium,286079,9148
+5383085,5383085,2025-08-01,0,138,71.63,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Tier 1,Q1,Promoter,Low,536990,NULL
+1075037,1075037,2025-08-01,0,55,29.33,LVL-St Cloud,Luv-A-Lawn,Residential,Reinstate,St Cloud,Standard,Q1,Detractor,High,317400,272250
+146497,146497,2025-08-01,0,232,38.00,FWY-Little Rock,Fairway,Residential,Unclassified,Little Rock,Standard,Q2,Not Available,Low,556138,13373
+5658614,5658614,2025-08-01,0,79,39.33,TDI-Hartselle,Turf Doctor Inc.,Residential,Referral,Hartselle,Standard,Q1,Detractor,Medium,333346,11900
+819546,819546,2025-08-01,0,65,501.04,NXG-Waterford,NexGreen,Commercial,Telesales,Waterford,Standard,Q1,Not Available,Low,NULL,NULL
+5805688,5805688,2025-08-01,0,6,55.75,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q1,Not Available,Medium,326300,45205
+5855272,5855272,2025-08-01,1,3,63.25,GRG-Dallas,GroGreen,Residential,Marketing Letter,Dallas,Tier 1,Q2,Not Available,Low,150000,5881
+4930200,4930200,2025-08-01,0,113,115.63,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Passive,Medium,671700,12902
+3784892,3784892,2025-08-01,0,22,75.00,KAP-Fort Wayne,Kapp's,Residential,Unclassified,Fort Wayne,Tier 1,Q4,Promoter,Medium,224900,29447
+376192,376192,2025-08-01,0,67,32.67,FWY-Memphis,Fairway,Residential,Reinstate,Memphis,Standard,Q1,Detractor,Low,250974,12197
+1087423,1087423,2025-08-01,0,83,158.83,LVL-North Orlando,Luv-A-Lawn,Residential,Reinstate,North Orlando,Tier 3,Q3,Not Available,Low,875000,9655
+5779371,5779371,2025-08-01,1,7,12.50,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q1,Not Available,High,NULL,NULL
+1041396,1041396,2025-08-01,0,27,42.50,FWY-Greenville,Fairway,Residential,Digital,Greenville,Standard,Q2,Not Available,Medium,NULL,NULL
+4926678,4926678,2025-08-01,0,88,136.83,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Not Available,Low,660790,10002
+509448,509448,2025-08-01,0,52,101.83,FWY-Charleston,Fairway,Residential,Marketing Letter,Charleston,Standard,Q2,Not Available,High,1470430,115434
+4926312,4926312,2025-08-01,1,17,35.50,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Promoter,Low,824315,6098
+5729950,5729950,2025-08-01,0,44,76.67,FPS-Bradenton,Farrow Pest Services,Residential,Telesales,Bradenton,Standard,Q4,Not Available,High,399000,7405
+614261,614261,2025-08-01,0,64,81.33,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Standard,Q2,Not Available,Medium,594526,11940
+5430025,5430025,2025-08-01,0,18,50.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q1,Not Available,Low,615000,8391
+47780,47780,2025-08-01,0,43,72.50,PIE-Sarasota,Plant-It-Earth,Residential,Truck or Field,Sarasota,Standard,Q1,Promoter,High,310000,7144
+5822417,5822417,2025-08-01,1,5,67.08,FWY-Vilonia,Fairway,Residential,Digital,Vilonia,Tier 1,Q1,Not Available,Low,549900,13939
+4929822,4929822,2025-08-01,1,61,94.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Promoter,Low,965000,10044
+5610037,5610037,2025-08-01,0,49,73.33,TDI-Hartselle,Turf Doctor Inc.,Residential,Referral,Hartselle,Standard,Q3,Not Available,Medium,361000,27443
+1048514,1048514,2025-08-01,0,25,49.00,FWY-Columbia,Fairway,Residential,Digital,Columbia,Standard,Q3,Promoter,High,614623,9583
+560212,560212,2025-08-01,0,31,12.50,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Standard,Q1,Not Available,Medium,32000,NULL
+5952528,5952528,2025-08-01,0,4,60.75,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q2,Not Available,Medium,375000,18295
+4927327,4927327,2025-08-01,0,57,30.75,OTG-Gambrills,On The Green,Residential,Truck or Field,Gambrills,Standard,Q4,Not Available,Low,879500,7826
+1090313,1090313,2025-08-01,0,61,110.33,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Standard,Q3,Passive,Medium,529000,16570
+3088720,3088720,2025-08-01,0,308,35.67,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q4,Not Available,Low,206309,7376
+2250270,2250270,2025-08-01,0,17,33.50,KAP-Indianapolis,Kapp's,Residential,Marketing Letter,Indianapolis,Standard,Q1,Not Available,Low,420391,8795
+1049167,1049167,2025-08-01,1,24,63.00,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Tier 1,Q3,Not Available,High,236698,9230
+5723707,5723707,2025-08-01,0,33,64.50,FPS-Bradenton,Farrow Pest Services,Residential,Referral,Bradenton,Standard,Q4,Not Available,High,1120900,10832
+870556,870556,2025-08-01,1,5,27.50,NXG-Waterford,NexGreen,Commercial,Unclassified,Waterford,Standard,Q1,Not Available,High,589200,7405
+700682,700682,2025-08-01,0,28,37.33,FWY-Vilonia,Fairway,Residential,Marketing Letter,Vilonia,Standard,Q2,Not Available,Medium,315000,43560
+2551790,2551790,2025-08-01,0,4,36.00,KAP-Indianapolis,Kapp's,Residential,Digital,Indianapolis,Standard,Q2,Not Available,Low,381000,10019
+5733075,5733075,2025-08-01,0,12,84.00,FWY-Augusta,Fairway,Residential,Referral,Augusta,Tier 2,Q3,Not Available,Low,111900,NULL
+4928690,4928690,2025-08-01,0,26,132.00,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Tier 1,Q2,Not Available,High,675000,8276
+5744998,5744998,2025-08-01,1,13,98.17,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q3,Not Available,High,1146502,13216
+5347902,5347902,2025-08-01,0,56,93.99,GRQ-Atlanta,Green Queen,Residential,CONVERSION CUSTOMER,Atlanta,Standard,Q4,Not Available,Low,1600344,21000
+4928844,4928844,2025-08-01,0,29,109.57,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Not Available,Low,832840,5821
+557417,557417,2025-08-01,1,34,46.92,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Standard,Q4,Not Available,High,679900,280962
+3743943,3743943,2025-08-01,1,27,102.08,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q2,Not Available,Low,338900,7741
+1086717,1086717,2025-08-01,0,29,67.00,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q1,Detractor,High,763447,7167
+307575,307575,2025-08-01,1,64,118.33,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q2,Not Available,High,161342,48923
+4926888,4926888,2025-08-01,0,115,24.33,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Promoter,Medium,567300,4187
+4928713,4928713,2025-08-01,0,21,128.08,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q4,Passive,Medium,767500,90169
+1044721,1044721,2025-08-01,0,26,49.67,FWY-Springdale,Fairway,Residential,Digital,Springdale,Standard,Q2,Not Available,High,511000,8712
+1235141,1235141,2025-08-01,0,143,112.67,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Standard,Q3,Not Available,High,371000,7357
+5884188,5884188,2025-08-01,1,2,54.67,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q2,Promoter,Medium,303010,10890
+5845816,5845816,2025-08-01,0,4,75.17,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Standard,Q2,Not Available,Medium,612300,19060
+5828239,5828239,2025-08-01,0,5,111.00,FWY-Greenville,Fairway,Residential,Digital,Greenville,Tier 2,Q1,Not Available,Low,405000,23958
+5749555,5749555,2025-08-01,0,71,277.42,SPS-Baltimore,Scientific Plant Service,Commercial,Referral,Baltimore,Standard,Q3,Not Available,Medium,NULL,NULL
+5378481,5378481,2025-08-01,1,27,51.33,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q2,Not Available,Medium,749900,6795
+5913838,5913838,2025-08-01,0,3,38.00,TFW-Raleigh,Turf Wizards,Residential,CONVERSION CUSTOMER,Raleigh,Standard,Q2,Not Available,Low,325000,6970
+5549439,5549439,2025-08-01,0,17,69.00,FWY-Springdale,Fairway,Residential,Digital,Springdale,Tier 1,Q1,Not Available,Medium,469788,11761
+5805156,5805156,2025-08-01,0,6,84.91,TDI-Robertsdale,Turf Doctor Inc.,Residential,Truck or Field,Robertsdale,Standard,Q1,Not Available,High,NULL,NULL
+5820874,5820874,2025-08-01,1,5,56.00,FWY-Vilonia,Fairway,Residential,Door Hanger,Vilonia,Standard,Q1,Not Available,Medium,310200,14905
+527230,527230,2025-08-01,0,42,38.67,FWY-Charleston,Fairway,Residential,Marketing Letter,Charleston,Standard,Q1,Detractor,High,566000,9533
+2538091,2538091,2025-08-01,0,6,36.42,KAP-Indianapolis,Kapp's,Residential,Web Search,Indianapolis,Standard,Q1,Not Available,Low,145400,5619
+3794280,3794280,2025-08-01,0,309,21.25,KAP-Cleveland,Kapp's,Residential,Telesales,Cleveland,Standard,Q4,Not Available,Medium,74900,NULL
+515737,515737,2025-08-01,0,50,37.92,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q2,Promoter,Medium,435000,17083
+351117,351117,2025-08-01,0,114,93.25,FWY-Little Rock,Fairway,Residential,Marketing Letter,Little Rock,Standard,Q1,Not Available,Low,481100,17903
+5777661,5777661,2025-08-01,0,5,63.00,FWY-Tulsa,Fairway,Residential,Telesales,Tulsa,Tier 1,Q1,Not Available,Medium,329900,8102
+1044958,1044958,2025-08-01,0,26,53.75,FWY-Little Rock,Fairway,Residential,Digital,Little Rock,Standard,Q2,Promoter,Medium,408000,21621
+5837303,5837303,2025-08-01,0,4,53.17,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q2,Not Available,Medium,489900,8459
+5820322,5820322,2025-08-01,0,5,58.00,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Tier 1,Q1,Not Available,Medium,455000,7187
+5585849,5585849,2025-08-01,1,16,105.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q2,Not Available,Medium,1350000,39640
+5855759,5855759,2025-08-01,0,3,60.00,FWY-Jacksonville,Fairway,Residential,CONVERSION CUSTOMER,Jacksonville,Standard,Q2,Not Available,Medium,498900,NULL
+4933356,4933356,2025-08-01,0,17,111.17,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q1,Promoter,Low,525000,6688
+496572,496572,2025-08-01,0,53,13.25,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q1,Promoter,Medium,259500,10890
+4929868,4929868,2025-08-01,0,69,25.83,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q4,Passive,High,650000,10149
+1070124,1070124,2025-08-01,0,47,35.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q3,Not Available,Medium,330600,6186
+5705403,5705403,2025-08-01,0,51,91.33,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q2,Not Available,Medium,288000,12109
+5615607,5615607,2025-08-01,0,26,10.42,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q2,Not Available,Low,570000,958320
+5753793,5753793,2025-08-01,0,80,218.67,SPS-Baltimore,Scientific Plant Service,Residential,Upsell,Baltimore,Standard,Q4,Promoter,Medium,799300,18295
+3066926,3066926,2025-08-01,0,149,87.25,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q1,Promoter,Low,375045,16988
+5831372,5831372,2025-08-01,0,5,90.00,FWY-Tulsa,Fairway,Residential,Marketing Letter,Tulsa,Tier 2,Q1,Not Available,Medium,NULL,NULL
+5555794,5555794,2025-08-01,0,63,187.25,LWN-Nashville,Lawn Ranger,Residential,Referral,Nashville,Standard,Q2,Not Available,High,1334849,31894
+699040,699040,2025-08-01,0,28,42.08,FWY-Columbia,Fairway,Residential,Truck or Field,Columbia,Standard,Q2,Promoter,Medium,799400,19794
+4956539,4956539,2025-08-01,0,3,79.67,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Detractor,Low,631500,9235
+465223,465223,2025-08-01,0,61,34.75,FWY-Memphis,Fairway,Residential,Digital,Memphis,Standard,Q3,Not Available,Low,NULL,NULL
+4927626,4927626,2025-08-01,1,50,12.98,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Not Available,Low,NULL,NULL
+1043874,1043874,2025-08-01,1,5,32.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q1,Promoter,Medium,153614,9235
+5730349,5730349,2025-08-01,0,22,78.67,FPS-Bradenton,Farrow Pest Services,Residential,Truck or Field,Bradenton,Standard,Q4,Not Available,High,335000,10890
+4927965,4927965,2025-08-01,1,20,147.50,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 2,Q4,Promoter,Medium,540000,146362
+5406423,5406423,2025-08-01,1,52,41.33,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q2,Not Available,Medium,440000,8712
+5913357,5913357,2025-08-01,0,53,36.00,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q1,Not Available,Low,319900,7405
+3072716,3072716,2025-08-01,0,40,49.15,KAP-Pittsburgh East,Kapp's,Residential,Reinstate,Pittsburgh East,Standard,Q2,Not Available,Low,NULL,NULL
+5713491,5713491,2025-08-01,0,193,52.00,DRJ-Orlando,Dr. Jack's,Residential,Truck or Field,Orlando,Standard,Q3,Not Available,Medium,485000,NULL
+585773,585773,2025-08-01,1,64,51.70,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q2,Not Available,Medium,1050000,13238
+702230,702230,2025-08-01,0,28,27.00,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q2,Not Available,Medium,357325,5663
+411943,411943,2025-08-01,0,83,49.33,FWY-Greenville,Fairway,Residential,Referral,Greenville,Standard,Q3,Promoter,Medium,257956,8276
+211663,211663,2025-08-01,0,41,43.49,FWY-Huntsville,Fairway,Residential,Marketing Letter,Huntsville,Standard,Q1,Not Available,Medium,377396,16875
+1129887,1129887,2025-08-01,0,35,186.67,YGT-Hillsborough,Your Green Team,Residential,Digital,Hillsborough,Standard,Q3,Not Available,High,NULL,NULL
+5649658,5649658,2025-08-01,0,48,104.00,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q3,Passive,Medium,394605,18000
+1096833,1096833,2025-08-01,0,54,107.42,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Tier 2,Q1,Not Available,Low,679800,8961
+453400,453400,2025-08-01,1,13,103.25,FWY-Little Rock,Fairway,Residential,Digital,Little Rock,Tier 2,Q3,Not Available,Low,425000,6970
+4929886,4929886,2025-08-01,0,58,24.33,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q4,Promoter,Low,624950,9148
+543165,543165,2025-08-01,0,40,34.00,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q2,Not Available,High,152873,6534
+5754082,5754082,2025-08-01,0,80,83.67,SPS-Baltimore,Scientific Plant Service,Residential,Upsell,Baltimore,Standard,Q4,Promoter,Medium,544805,33800
+3805694,3805694,2025-08-01,0,137,38.50,KAP-Fort Wayne,Kapp's,Residential,Unclassified,Fort Wayne,Standard,Q1,Not Available,Medium,343400,10202
+5698156,5698156,2025-08-01,0,62,119.00,DRJ-Orlando,Dr. Jack's,Residential,Referral,Orlando,Tier 3,Q2,Not Available,Medium,355000,11326
+1112263,1112263,2025-08-01,0,84,153.75,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q3,Not Available,High,279900,6534
+5824711,5824711,2025-08-01,1,5,54.67,SPS-Baltimore,Scientific Plant Service,Commercial,Referral,Baltimore,Standard,Q1,Not Available,Medium,919700,21284
+5546273,5546273,2025-08-01,1,17,48.75,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q1,Promoter,Medium,569900,18200
+5854096,5854096,2025-08-01,1,3,43.25,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Not Available,Medium,612000,10494
+694067,694067,2025-08-01,0,29,115.38,RLG-Austin,Real Green,Commercial,Marketing Letter,Austin,Standard,Q1,Not Available,Low,NULL,221677
+357909,357909,2025-08-01,0,75,80.50,FWY-Augusta,Fairway,Residential,Reinstate,Augusta,Standard,Q2,Not Available,Medium,421470,28444
+4755685,4755685,2025-08-01,0,4,35.92,KAP-Cleveland,Kapp's,Residential,Reinstate,Cleveland,Standard,Q2,Promoter,Medium,234900,6011
+4933210,4933210,2025-08-01,1,59,209.85,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Not Available,Medium,1058000,50965
+595969,595969,2025-08-01,0,136,41.33,RLG-Austin,Real Green,Residential,Unclassified,Austin,Standard,Q2,Not Available,Low,410000,7014
+515636,515636,2025-08-01,0,50,101.50,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Tier 1,Q2,Promoter,Medium,NULL,NULL
+4930741,4930741,2025-08-01,0,21,87.75,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q4,Detractor,Low,589900,NULL
+308280,308280,2025-08-01,0,131,41.67,FWY-Vilonia,Fairway,Residential,Truck or Field,Vilonia,Standard,Q3,Not Available,Low,241000,12458
+5571983,5571983,2025-08-01,0,16,34.00,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q2,Promoter,Low,1157100,28350
+5887566,5887566,2025-08-01,0,2,43.33,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Standard,Q2,Not Available,Medium,328250,7841
+640071,640071,2025-08-01,0,37,33.98,RLG-Austin,Real Green,Residential,Print Ad,Austin,Standard,Q3,Not Available,Medium,525000,16117
+5596422,5596422,2025-08-01,0,15,35.50,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Not Available,Low,954000,14168
+507839,507839,2025-08-01,1,52,60.33,FWY-Huntsville,Fairway,Residential,Reinstate,Huntsville,Standard,Q2,Promoter,Medium,415400,16270
+3062937,3062937,2025-08-01,0,63,49.00,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q2,Not Available,Medium,528598,14941
+2093582,2093582,2025-08-01,0,301,58.50,KAP-Indianapolis,Kapp's,Residential,Reinstate,Indianapolis,Standard,Q3,Not Available,Low,700000,38038
+762264,762264,2025-08-01,0,50,43.50,NXG-Waterford,NexGreen,Residential,Telesales,Waterford,Tier 1,Q2,Passive,Medium,717769,16640
+556250,556250,2025-08-01,0,31,50.58,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q1,Not Available,Low,625000,11761
+1063209,1063209,2025-08-01,0,97,26.33,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q3,Not Available,Medium,364900,7405
+1102992,1102992,2025-08-01,1,24,44.42,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,Medium,228000,2937
+5726034,5726034,2025-08-01,0,66,73.67,FPS-Bradenton,Farrow Pest Services,Residential,Web Search,Bradenton,Standard,Q1,Not Available,High,400000,9191
+123552,123552,2025-08-01,0,137,63.83,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q1,Promoter,Medium,224900,NULL
+2690801,2690801,2025-08-01,0,27,43.50,KAP-Pittsburgh West,Kapp's,Residential,Reinstate,Pittsburgh West,Tier 1,Q2,Not Available,Medium,475600,8892
+1109189,1109189,2025-08-01,0,28,33.33,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q2,Not Available,High,319900,11326
+1134802,1134802,2025-08-01,1,40,109.33,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q2,Not Available,High,450646,NULL
+593311,593311,2025-08-01,0,40,130.41,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q2,Not Available,Medium,378200,8015
+536568,536568,2025-08-01,0,41,89.33,FWY-Ft. Smith,Fairway,Residential,Marketing Letter,Ft. Smith,Standard,Q1,Not Available,Medium,NULL,40784
+581545,581545,2025-08-01,0,29,38.67,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q1,Not Available,Medium,195000,7841
+4925821,4925821,2025-08-01,1,1,41.25,OTG-Gambrills,On The Green,Residential,Truck or Field,Gambrills,Tier 1,Q3,Promoter,Low,524990,6970
+328796,328796,2025-08-01,0,118,20.17,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q4,Not Available,Medium,568900,9583
+5736293,5736293,2025-08-01,1,11,90.00,LVL-North Orlando,Luv-A-Lawn,Commercial,Referral,North Orlando,Standard,Q3,Not Available,Medium,401000,11190
+5892865,5892865,2025-08-01,0,1,25.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Standard,Q3,Promoter,High,333100,5720
+1046976,1046976,2025-08-01,0,25,69.67,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q3,Not Available,Medium,250552,16378
+552892,552892,2025-08-01,0,17,103.33,FWY-Tulsa,Fairway,Residential,Telesales,Tulsa,Tier 1,Q1,Detractor,Medium,238000,21301
+5915959,5915959,2025-08-01,0,62,58.00,TFW-Raleigh,Turf Wizards,Commercial,NULL,Raleigh,Standard,Q2,Not Available,Low,424900,38768
+5673595,5673595,2025-08-01,0,170,48.00,TDI-Huntsville,Turf Doctor Inc.,Residential,Unclassified,Huntsville,Standard,Q2,Promoter,Low,425000,43560
+737160,737160,2025-08-01,0,111,73.00,PIE-Sarasota,Plant-It-Earth,Residential,Referral,Sarasota,Standard,Q2,Not Available,High,294900,14810
+582271,582271,2025-08-01,0,29,63.33,FWY-Greenville,Fairway,Residential,Digital,Greenville,Standard,Q1,Promoter,High,347000,22216
+348059,348059,2025-08-01,0,91,60.99,FWY-Little Rock,Fairway,Residential,Telesales,Little Rock,Standard,Q1,Promoter,Low,354900,13939
+624245,624245,2025-08-01,0,89,56.99,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q1,Not Available,Medium,636100,7466
+5738274,5738274,2025-08-01,0,11,261.17,PRG-Nashville,Pure Green,Residential,Web Search,Nashville,Standard,Q3,Promoter,High,975000,18731
+797514,797514,2025-08-01,0,41,58.08,NXG-Waterford,NexGreen,Commercial,Referral,Waterford,Standard,Q1,Not Available,Medium,NULL,NULL
+5913142,5913142,2025-08-01,0,30,54.67,TFW-Raleigh,Turf Wizards,Residential,CONVERSION CUSTOMER,Raleigh,Standard,Q1,Not Available,Low,678146,13504
+5695132,5695132,2025-08-01,0,263,58.33,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q3,Promoter,Low,583500,7289
+638139,638139,2025-08-01,0,42,49.25,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q1,Not Available,Medium,685000,12023
+5829826,5829826,2025-08-01,0,5,38.67,FWY-Birmingham,Fairway,Residential,Marketing Letter,Birmingham,Standard,Q1,Promoter,Low,205000,10019
+4997923,4997923,2025-08-01,0,75,46.75,NXG-Westerville,NexGreen,Residential,Referral,Westerville,Standard,Q2,Not Available,Medium,773700,10520
+1126668,1126668,2025-08-01,0,86,86.00,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q2,Not Available,Medium,209500,6077
+4924147,4924147,2025-08-01,0,21,63.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Tier 1,Q4,Not Available,Medium,452240,11326
+4929906,4929906,2025-08-01,0,20,77.00,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q4,Not Available,Medium,808800,7087
+1083589,1083589,2025-08-01,0,63,35.00,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q2,Not Available,Medium,533900,6505
+4932194,4932194,2025-08-01,0,48,69.42,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Not Available,Low,790962,6058
+1088035,1088035,2025-08-01,0,27,41.00,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q2,Not Available,Medium,513000,3639
+5031331,5031331,2025-08-01,0,29,65.00,NXG-Westerville,NexGreen,Residential,Truck or Field,Westerville,Standard,Q1,Not Available,Low,525000,166835
+581730,581730,2025-08-01,0,29,31.33,FWY-Memphis,Fairway,Residential,Digital,Memphis,Standard,Q1,Not Available,Low,250865,4588
+5956212,5956212,2025-08-01,0,5,62.33,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q1,Not Available,Medium,225000,10454
+2081342,2081342,2025-08-01,0,39,24.00,KAP-Indianapolis,Kapp's,Residential,Telesales,Indianapolis,Standard,Q2,Not Available,Low,622664,10019
+5912696,5912696,2025-08-01,1,17,36.67,TFW-Raleigh,Turf Wizards,Residential,Digital,Raleigh,Standard,Q1,Not Available,Low,892518,8276
+4931687,4931687,2025-08-01,0,53,126.92,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q1,Not Available,Medium,615000,10733
+5659606,5659606,2025-08-01,1,17,36.00,TDI-Hartselle,Turf Doctor Inc.,Residential,Referral,Hartselle,Standard,Q1,Promoter,Medium,384000,11745
+50044,50044,2025-08-01,0,35,91.67,PIE-Sarasota,Plant-It-Earth,Residential,Truck or Field,Sarasota,Standard,Q3,Not Available,High,425000,7841
+5839706,5839706,2025-08-01,1,4,48.73,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q2,Promoter,Medium,1074980,NULL
+4930609,4930609,2025-08-01,0,111,553.85,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Not Available,Low,787900,91040
+5647731,5647731,2025-08-01,0,28,39.33,TDI-Hartselle,Turf Doctor Inc.,Residential,Telesales,Hartselle,Standard,Q2,Passive,Medium,360000,NULL
+5806614,5806614,2025-08-01,0,6,40.67,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q1,Not Available,Medium,349000,14838
+1250048,1250048,2025-08-01,0,38,58.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q2,Not Available,Medium,402753,7405
+736457,736457,2025-08-01,0,53,72.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q1,Not Available,Medium,560000,11326
+407774,407774,2025-08-01,0,88,10.17,FWY-Memphis,Fairway,Residential,Reinstate,Memphis,Standard,Q2,Not Available,Medium,262000,9000
+5850490,5850490,2025-08-01,0,14,220.00,EEI-Florida City,Eastern Exterminating,Residential,CONVERSION CUSTOMER,Florida City,Standard,Q2,Not Available,Medium,2593600,41818
+499453,499453,2025-08-01,0,53,41.33,FWY-Vilonia,Fairway,Residential,Referral,Vilonia,Standard,Q1,Promoter,Low,541455,NULL
+5890067,5890067,2025-08-01,0,2,62.25,FWY-Ft. Smith,Fairway,Residential,Upsell,Ft. Smith,Standard,Q2,Not Available,Low,425000,39025
+1101434,1101434,2025-08-01,0,24,93.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,399990,6970
+5701340,5701340,2025-08-01,0,81,96.67,DRJ-Orlando,Dr. Jack's,Residential,Referral,Orlando,Standard,Q4,Not Available,Medium,1233800,10532
+1226812,1226812,2025-08-01,1,71,101.00,YGT-Pasco,Your Green Team,Residential,Truck or Field,Pasco,Standard,Q3,Not Available,Medium,369500,NULL
+5947777,5947777,2025-08-01,0,76,34.08,SPG-Atlanta,Simply Green,Residential,Reinstate,Atlanta,Standard,Q2,Promoter,Low,503000,20038
+1246545,1246545,2025-08-01,0,51,84.00,PIE-Plant City,Plant-It-Earth,Residential,Upsell,Plant City,Tier 1,Q2,Not Available,High,645500,13072
+5001617,5001617,2025-08-01,0,111,35.92,NXG-Westerville,NexGreen,Residential,Telesales,Westerville,Standard,Q2,Not Available,Low,557500,13040
+5417867,5417867,2025-08-01,1,149,25.63,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q1,Not Available,High,450000,19602
+3092244,3092244,2025-08-01,0,281,61.33,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q1,Not Available,Low,378100,17203
+549599,549599,2025-08-01,0,19,36.09,FWY-Columbia,Fairway,Residential,Digital,Columbia,Standard,Q1,Not Available,High,485900,10454
+4931550,4931550,2025-08-01,0,29,161.83,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Promoter,Medium,781000,22574
+5848600,5848600,2025-08-01,1,3,142.00,LWN-Nashville,Lawn Ranger,Residential,Referral,Nashville,Tier 3,Q2,Not Available,Medium,579900,13068
+506424,506424,2025-08-01,0,53,94.67,FWY-Ft. Smith,Fairway,Residential,Referral,Ft. Smith,Standard,Q1,Passive,Medium,622000,46985
+613026,613026,2025-08-01,0,75,38.73,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q2,Promoter,Medium,417100,8246
+581810,581810,2025-08-01,0,29,14.58,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q1,Promoter,Medium,487500,7841
+5958982,5958982,2025-08-01,1,4,34.25,SPG-Atlanta,Simply Green,Residential,Truck or Field,Atlanta,Standard,Q2,Not Available,Medium,412949,6534
+2058726,2058726,2025-08-01,0,89,49.25,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q1,Not Available,Low,705000,17424
+5915368,5915368,2025-08-01,0,85,47.83,TFW-Raleigh,Turf Wizards,Residential,Unclassified,Raleigh,Standard,Q3,Promoter,Low,516600,6970
+5889498,5889498,2025-08-01,0,2,72.83,FWY-Springdale,Fairway,Residential,Digital,Springdale,Tier 1,Q2,Not Available,Medium,337600,NULL
+2116497,2116497,2025-08-01,0,14,24.00,KAP-Indianapolis,Kapp's,Residential,Referral,Indianapolis,Standard,Q2,Not Available,Medium,236000,11901
+5911805,5911805,2025-08-01,0,25,34.67,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q3,Not Available,Low,480000,6534
+5957834,5957834,2025-08-01,0,91,202.00,SPG-Atlanta,Simply Green,Residential,Truck or Field,Atlanta,Standard,Q1,Not Available,Medium,619500,NULL
+579002,579002,2025-08-01,0,29,33.33,FWY-Charleston,Fairway,Residential,Marketing Letter,Charleston,Standard,Q1,Not Available,High,252300,8137
+5831643,5831643,2025-08-01,1,5,69.00,GRG-Dallas,GroGreen,Residential,Marketing Letter,Dallas,Tier 1,Q1,Not Available,Medium,539000,10019
+4957357,4957357,2025-08-01,1,4,59.41,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Not Available,Low,873000,4600
+5656474,5656474,2025-08-01,0,64,194.67,TDI-Huntsville,Turf Doctor Inc.,Residential,Truck or Field,Huntsville,Standard,Q2,Promoter,Medium,697856,217800
+5561631,5561631,2025-08-01,0,27,36.75,LWN-Nashville,Lawn Ranger,Commercial,Referral,Nashville,Standard,Q2,Not Available,Medium,444900,10454
+322788,322788,2025-08-01,0,123,79.67,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q2,Not Available,Medium,476904,34848
+4929930,4929930,2025-08-01,0,20,213.42,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 3,Q4,Promoter,High,429300,21000
+398456,398456,2025-08-01,0,66,34.75,FWY-Augusta,Fairway,Residential,Reinstate,Augusta,Standard,Q1,Not Available,Medium,248174,4792
+5915396,5915396,2025-08-01,1,5,38.67,TFW-Raleigh,Turf Wizards,Residential,CONVERSION CUSTOMER,Raleigh,Standard,Q1,Not Available,Low,771828,NULL
+641555,641555,2025-08-01,0,89,76.94,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q1,Not Available,Medium,524300,6116
+4932448,4932448,2025-08-01,0,21,68.92,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q4,Promoter,Medium,754000,5225
+1089151,1089151,2025-08-01,0,98,111.67,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Tier 2,Q2,Not Available,Medium,1008296,9032
+405495,405495,2025-08-01,0,89,37.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q1,Promoter,Low,342000,NULL
+5856446,5856446,2025-08-01,0,41,111.00,FWY-Jacksonville,Fairway,Residential,CONVERSION CUSTOMER,Jacksonville,Standard,Q1,Not Available,Medium,NULL,NULL
+3805945,3805945,2025-08-01,0,4,51.75,KAP-Fort Wayne,Kapp's,Residential,Truck or Field,Fort Wayne,Tier 1,Q2,Promoter,Low,309000,14749
+385562,385562,2025-08-01,0,100,112.17,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q2,Not Available,Medium,570500,19673
+5813722,5813722,2025-08-01,0,6,168.00,FWY-Memphis,Fairway,Residential,Digital,Memphis,Standard,Q1,Not Available,High,375000,68389
+4932563,4932563,2025-08-01,0,68,87.92,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Tier 1,Q4,Not Available,Medium,498300,12051
+453690,453690,2025-08-01,0,41,73.50,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Standard,Q1,Promoter,Medium,227005,7841
+1073335,1073335,2025-08-01,0,37,84.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Tier 2,Q3,Passive,Medium,NULL,NULL
+4928999,4928999,2025-08-01,1,88,111.08,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Promoter,Low,NULL,NULL
+3100738,3100738,2025-08-01,0,311,47.00,KAP-Pittsburgh East,Kapp's,Residential,Truck or Field,Pittsburgh East,Standard,Q3,Not Available,NA,264745,99665
+458668,458668,2025-08-01,0,64,63.11,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Standard,Q2,Passive,Medium,315000,9583
+462892,462892,2025-08-01,1,63,64.50,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q2,Not Available,Medium,239900,19166
+5724585,5724585,2025-08-01,0,55,27.67,FPS-Bradenton,Farrow Pest Services,Residential,Unclassified,Bradenton,Standard,Q1,Not Available,High,239900,NULL
+5733987,5733987,2025-08-01,0,12,100.00,FWY-Knoxville,Fairway,Residential,Digital,Knoxville,Tier 2,Q3,Not Available,High,524000,14375
+5553121,5553121,2025-08-01,1,108,37.92,LWN-Nashville,Lawn Ranger,Residential,Unclassified,Nashville,Standard,Q3,Not Available,Medium,465000,11761
+4931837,4931837,2025-08-01,0,28,91.42,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q2,Promoter,Medium,809144,11597
+5892911,5892911,2025-08-01,0,1,57.00,NXG-Westerville,NexGreen,Residential,Marketing Letter,Westerville,Standard,Q3,Not Available,Low,518316,NULL
+5796768,5796768,2025-08-01,0,38,75.00,EBP-Port Richey,Earth's Best,Residential,Digital,Port Richey,Standard,Q2,Not Available,Medium,329000,9124
+5885205,5885205,2025-08-01,0,3,57.75,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Tier 1,Q2,Not Available,Medium,359800,NULL
+51556,51556,2025-08-01,0,29,42.17,PIE-Sarasota,Plant-It-Earth,Residential,Marketing Letter,Sarasota,Standard,Q1,Not Available,High,342650,5236
+4995943,4995943,2025-08-01,0,43,97.25,NXG-Westerville,NexGreen,Residential,Referral,Westerville,Standard,Q1,Not Available,High,397700,65340
+1241485,1241485,2025-08-01,0,24,80.92,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,579990,5500
+1095684,1095684,2025-08-01,0,39,46.50,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Standard,Q2,Detractor,Medium,584900,8129
+795892,795892,2025-08-01,0,98,55.17,NXG-Waterford,NexGreen,Residential,Telesales,Waterford,Standard,Q2,Not Available,Medium,395000,62726
+380733,380733,2025-08-01,0,29,13.83,FWY-Ft. Smith,Fairway,Residential,Digital,Ft. Smith,Standard,Q1,Promoter,Medium,268000,216493
+609239,609239,2025-08-01,0,89,66.23,RLG-Austin,Real Green,Commercial,Digital,Austin,Standard,Q1,Promoter,Low,832253,20360
+3783267,3783267,2025-08-01,0,53,38.00,KAP-Cleveland,Kapp's,Residential,Unclassified,Cleveland,Standard,Q1,Promoter,High,353910,9322
+5825362,5825362,2025-08-01,0,5,55.25,FWY-Greenville,Fairway,Residential,Referral,Greenville,Tier 1,Q1,Promoter,Medium,261700,7405
+3798800,3798800,2025-08-01,0,316,64.83,KAP-Fort Wayne,Kapp's,Residential,Unclassified,Fort Wayne,Standard,Q2,Promoter,Low,236230,6599
+467608,467608,2025-08-01,0,60,58.67,FWY-Charleston,Fairway,Residential,Referral,Charleston,Standard,Q3,Not Available,High,509400,21984
+4925237,4925237,2025-08-01,0,216,238.25,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q3,Not Available,Medium,559000,17350
+3082390,3082390,2025-08-01,0,96,62.67,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Tier 1,Q3,Promoter,Medium,310530,8750
+2161598,2161598,2025-08-01,0,40,114.54,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q2,Promoter,High,430000,30579
+5893357,5893357,2025-08-01,0,1,107.00,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Detractor,NA,1064000,8179
+5853118,5853118,2025-08-01,0,3,15.00,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q2,Not Available,Medium,238248,9148
+389744,389744,2025-08-01,0,98,115.45,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q2,Not Available,Medium,195600,14680
+5433975,5433975,2025-08-01,0,18,58.25,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q1,Passive,Low,371237,15730
+4927513,4927513,2025-08-01,0,11,17.25,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Promoter,Low,549000,2016
+5911852,5911852,2025-08-01,1,18,36.67,TFW-Raleigh,Turf Wizards,Residential,CONVERSION CUSTOMER,Raleigh,Standard,Q1,Promoter,Low,329900,7405
+6483,6483,2025-08-01,0,281,31.33,FWY-Vilonia,Fairway,Residential,Truck or Field,Vilonia,Standard,Q1,Not Available,Low,462157,16505
+5884564,5884564,2025-08-01,0,3,58.83,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Tier 1,Q2,Not Available,Medium,389900,6098
+5372741,5372741,2025-08-01,0,125,34.39,GRG-Dallas,GroGreen,Residential,Print Ad,Dallas,Standard,Q1,Promoter,Medium,432055,NULL
+4932441,4932441,2025-08-01,0,28,46.50,OTG-Gambrills,On The Green,Residential,Reinstate,Gambrills,Standard,Q2,Promoter,Low,NULL,7130
+4981740,4981740,2025-08-01,0,61,50.42,NXG-Westerville,NexGreen,Residential,Digital,Westerville,Standard,Q3,Passive,Low,676276,15500
+5748553,5748553,2025-08-01,0,17,127.67,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q1,Not Available,NA,1100000,49658
+5544099,5544099,2025-08-01,1,17,69.00,GRG-Dallas,GroGreen,Residential,Truck or Field,Dallas,Tier 1,Q1,Not Available,High,1061487,NULL
+5445759,5445759,2025-08-01,0,109,111.33,PRG-Nashville,Pure Green,Residential,Digital,Nashville,Standard,Q3,Promoter,High,669900,20038
+5822458,5822458,2025-08-01,1,5,5.83,LVL-North Orlando,Luv-A-Lawn,Commercial,Upsell,North Orlando,Standard,Q1,Not Available,High,649989,6000
+3095892,3095892,2025-08-01,0,72,91.17,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q3,Not Available,Medium,NULL,28855
+40517,40517,2025-08-01,0,79,22.40,PIE-Sarasota,Plant-It-Earth,Residential,Truck or Field,Sarasota,Standard,Q1,Promoter,High,329900,9391
+4933040,4933040,2025-08-01,0,95,31.50,OTG-Gambrills,On The Green,Residential,Unclassified,Gambrills,Standard,Q3,Not Available,Medium,369693,3500
+5724291,5724291,2025-08-01,0,25,119.00,FPS-Bradenton,Farrow Pest Services,Residential,Truck or Field,Bradenton,Tier 3,Q3,Not Available,High,748000,9814
+5001208,5001208,2025-08-01,0,64,20.83,NXG-Westerville,NexGreen,Residential,Telesales,Westerville,Standard,Q2,Promoter,Low,259900,8712
+47805,47805,2025-08-01,0,42,33.27,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q1,Not Available,High,210000,4667
+4924681,4924681,2025-08-01,0,17,74.92,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Not Available,Medium,452136,9737
+5742023,5742023,2025-08-01,1,9,70.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Tier 1,Q4,Not Available,Medium,479000,11326
+5855752,5855752,2025-08-01,1,3,96.33,FWY-Jacksonville,Fairway,Residential,CONVERSION CUSTOMER,Jacksonville,Standard,Q2,Not Available,Medium,659000,10890
+4989578,4989578,2025-08-01,0,306,55.50,NXG-Westerville,NexGreen,Residential,Marketing Letter,Westerville,Tier 1,Q1,Passive,Medium,376000,13340
+3956504,3956504,2025-08-01,0,6,128.25,KAP-Cleveland,Kapp's,Residential,Truck or Field,Cleveland,Tier 1,Q1,Not Available,High,272700,284011
+118539,118539,2025-08-01,0,16,90.00,FWY-Ft. Smith,Fairway,Residential,Digital,Ft. Smith,Tier 2,Q2,Not Available,Low,489100,33560
+135440,135440,2025-08-01,0,241,37.33,FWY-Memphis,Fairway,Commercial,Digital,Memphis,Standard,Q3,Promoter,Low,467900,7274
+4928377,4928377,2025-08-01,0,17,191.58,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Not Available,Low,1230680,41097
+502890,502890,2025-08-01,0,53,47.13,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q1,Not Available,Medium,360800,16238
+698546,698546,2025-08-01,1,28,38.67,FWY-Vilonia,Fairway,Residential,Digital,Vilonia,Standard,Q2,Promoter,Medium,222000,8377
+2143429,2143429,2025-08-01,0,4,51.67,KAP-Indianapolis,Kapp's,Residential,Marketing Letter,Indianapolis,Standard,Q2,Not Available,Medium,218500,26136
+5913629,5913629,2025-08-01,0,77,35.33,TFW-Raleigh,Turf Wizards,Residential,CONVERSION CUSTOMER,Raleigh,Standard,Q1,Not Available,Low,410000,14375
+4932476,4932476,2025-08-01,0,65,209.33,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q1,Not Available,Low,548122,12800
+594908,594908,2025-08-01,0,51,123.67,RLG-Austin,Real Green,Residential,Reinstate,Austin,Tier 2,Q2,Not Available,Medium,782000,6544
+3103023,3103023,2025-08-01,0,300,77.67,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q3,Not Available,NA,NULL,21287
+520872,520872,2025-08-01,0,45,100.00,FWY-Huntsville,Fairway,Residential,Telesales,Huntsville,Tier 2,Q4,Passive,Medium,194900,9600
+5740762,5740762,2025-08-01,1,9,60.30,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q4,Not Available,High,633300,11925
+1082524,1082524,2025-08-01,0,69,87.50,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q4,Promoter,Low,534200,10625
+1080958,1080958,2025-08-01,0,28,152.00,LVL-North Orlando,Luv-A-Lawn,Residential,Reinstate,North Orlando,Standard,Q2,Not Available,Low,426000,11970
+1101189,1101189,2025-08-01,0,24,154.42,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Passive,High,650734,12632
+463476,463476,2025-08-01,0,62,76.00,FWY-Augusta,Fairway,Residential,Referral,Augusta,Standard,Q2,Not Available,Medium,175400,20038
+281386,281386,2025-08-01,0,144,30.83,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q3,Not Available,Medium,247600,9888
+5892055,5892055,2025-08-01,0,1,84.75,FWY-Greenville,Fairway,Residential,Digital,Greenville,Standard,Q3,Not Available,Medium,545000,19602
+408435,408435,2025-08-01,0,88,49.33,FWY-Greenville,Fairway,Residential,Digital,Greenville,Standard,Q2,Not Available,Medium,584284,9148
+5822376,5822376,2025-08-01,0,5,36.10,TDI-Hartselle,Turf Doctor Inc.,Residential,Digital,Hartselle,Standard,Q1,Not Available,Low,347000,10019
+1066575,1066575,2025-08-01,0,28,90.00,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Tier 2,Q2,Passive,Medium,471310,6098
+5751957,5751957,2025-08-01,0,42,501.08,SPS-Baltimore,Scientific Plant Service,Commercial,Referral,Baltimore,Standard,Q1,Not Available,Low,NULL,NULL
+373771,373771,2025-08-01,1,103,20.08,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q1,Not Available,High,354433,12197
+5549297,5549297,2025-08-01,1,17,58.00,FWY-Jacksonville,Fairway,Residential,Marketing Letter,Jacksonville,Tier 1,Q1,Not Available,High,300000,NULL
+5732796,5732796,2025-08-01,1,12,50.03,GRG-Dallas,GroGreen,Residential,Telesales,Dallas,Standard,Q3,Detractor,Medium,731600,10270
+4930046,4930046,2025-08-01,0,20,103.58,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q4,Promoter,Low,683000,15974
+5593728,5593728,2025-08-01,0,16,74.00,FWY-Little Rock,Fairway,Residential,Digital,Little Rock,Tier 1,Q2,Not Available,Low,265000,17424
+511927,511927,2025-08-01,0,52,105.00,FWY-Jacksonville,Fairway,Residential,Marketing Letter,Jacksonville,Tier 2,Q2,Not Available,High,686817,29185
+5823990,5823990,2025-08-01,0,5,37.33,FWY-Charleston,Fairway,Residential,Digital,Charleston,Standard,Q1,Not Available,Low,NULL,NULL
+4932954,4932954,2025-08-01,0,27,34.75,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Not Available,Low,650000,10890
+384257,384257,2025-08-01,0,101,42.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q1,Not Available,Medium,332000,11607
+5438542,5438542,2025-08-01,0,17,155.33,FWY-Columbia,Fairway,Residential,Digital,Columbia,Standard,Q1,Not Available,High,1219000,36590
+245243,245243,2025-08-01,0,167,22.92,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q3,Promoter,Low,309900,NULL
+198082,198082,2025-08-01,1,89,61.33,FWY-Huntsville,Fairway,Residential,Marketing Letter,Huntsville,Standard,Q1,Promoter,Medium,335000,7841
+381101,381101,2025-08-01,0,101,230.54,FWY-Little Rock,Fairway,Residential,Marketing Letter,Little Rock,Tier 4,Q1,Not Available,Medium,383000,24394
+5598055,5598055,2025-08-01,0,15,120.00,FWY-Vilonia,Fairway,Residential,Digital,Vilonia,Tier 3,Q2,Not Available,Low,269900,7405
+4925330,4925330,2025-08-01,0,95,65.50,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Detractor,Low,863800,7002
+421827,421827,2025-08-01,0,78,115.58,FWY-Greenville,Fairway,Residential,Referral,Greenville,Standard,Q1,Promoter,Medium,234900,21780
+5912150,5912150,2025-08-01,0,112,39.33,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q2,Not Available,Low,818518,8276
+1093940,1093940,2025-08-01,0,59,46.50,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Standard,Q3,Not Available,Medium,592600,5746
+2054215,2054215,2025-08-01,0,173,41.17,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q1,Promoter,Low,479915,10454
+3076329,3076329,2025-08-01,0,296,80.50,KAP-Pittsburgh East,Kapp's,Residential,Telesales,Pittsburgh East,Standard,Q4,Promoter,Low,226000,186350
+5737398,5737398,2025-08-01,1,11,13.17,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q3,Not Available,High,255600,6970
+658902,658902,2025-08-01,0,29,51.33,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q1,Promoter,Medium,828000,9291
+422822,422822,2025-08-01,0,77,53.33,FWY-Huntsville,Fairway,Residential,Referral,Huntsville,Standard,Q1,Not Available,Medium,480000,18025
+5023527,5023527,2025-08-01,1,23,36.50,NXG-Westerville,NexGreen,Residential,Truck or Field,Westerville,Standard,Q3,Passive,Medium,225500,20038
+524844,524844,2025-08-01,0,18,55.33,FWY-Jacksonville,Fairway,Residential,Telesales,Jacksonville,Standard,Q1,Promoter,High,229900,NULL
+2078512,2078512,2025-08-01,1,76,22.00,KAP-Indianapolis,Kapp's,Residential,Reinstate,Indianapolis,Standard,Q2,Passive,High,329000,10454
+303802,303802,2025-08-01,0,135,100.08,FWY-Springdale,Fairway,Commercial,Truck or Field,Springdale,Standard,Q2,Not Available,Medium,NULL,NULL
+1373780,1373780,2025-08-01,1,64,47.17,KAP-St. Louis,Kapp's,Residential,Unclassified,St. Louis,Standard,Q2,Not Available,Medium,302500,10019
+5815946,5815946,2025-08-01,1,31,44.00,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Not Available,High,369900,7405
+4923039,4923039,2025-08-01,0,22,69.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Tier 1,Q4,Not Available,High,450000,8510
+5816824,5816824,2025-08-01,0,31,55.00,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Not Available,Medium,448000,7008
+5418713,5418713,2025-08-01,0,19,69.00,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Tier 1,Q1,Not Available,Medium,175000,9148
+5734126,5734126,2025-08-01,0,12,90.00,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Tier 2,Q3,Detractor,Medium,254800,10019
+447129,447129,2025-08-01,0,65,46.08,FWY-Tulsa,Fairway,Residential,Marketing Letter,Tulsa,Standard,Q1,Not Available,Medium,336580,13299
+743737,743737,2025-08-01,0,86,132.25,PIE-Sarasota,Plant-It-Earth,Residential,Truck or Field,Sarasota,Tier 1,Q2,Promoter,Medium,1181137,24306
+698230,698230,2025-08-01,1,28,55.10,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 1,Q2,Detractor,Medium,179900,NULL
+247630,247630,2025-08-01,1,162,54.00,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q1,Not Available,Medium,226992,21800
+5889971,5889971,2025-08-01,0,2,90.00,FWY-Columbia,Fairway,Residential,Digital,Columbia,Tier 2,Q2,Not Available,High,558600,10019
+3106867,3106867,2025-08-01,0,65,109.76,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q1,Promoter,Medium,188800,10277
+1223003,1223003,2025-08-01,0,93,53.00,FPS-Bradenton,Farrow Pest Services,Residential,Digital,Bradenton,Standard,Q4,Not Available,Medium,279900,21779
+3080948,3080948,2025-08-01,0,48,18.75,KAP-Pittsburgh East,Kapp's,Residential,Reinstate,Pittsburgh East,Standard,Q3,Passive,Low,206000,9970
+729528,729528,2025-08-01,0,85,82.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q3,Detractor,Medium,540000,14523
+5749419,5749419,2025-08-01,0,40,33.75,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q2,Not Available,High,642900,8643
+5819987,5819987,2025-08-01,1,5,31.33,FWY-Charleston,Fairway,Residential,Digital,Charleston,Standard,Q1,Detractor,High,621969,6148
+4927368,4927368,2025-08-01,0,84,66.75,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Not Available,Low,658400,7304
+5573595,5573595,2025-08-01,0,16,35.00,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q2,Not Available,Low,1130400,10355
+417212,417212,2025-08-01,0,79,48.00,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q1,Not Available,Medium,312600,10286
+5738004,5738004,2025-08-01,0,11,63.00,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Tier 1,Q3,Promoter,Low,437000,7322
+5751461,5751461,2025-08-01,0,34,170.00,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q4,Promoter,High,1569300,26300
+4929280,4929280,2025-08-01,1,328,152.50,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q2,Promoter,Medium,574300,12992
+5946269,5946269,2025-08-01,0,51,46.50,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q2,Not Available,Medium,190000,NULL
+5592088,5592088,2025-08-01,0,16,69.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Digital,Kissimmee,Tier 1,Q2,Not Available,Medium,NULL,7405
+346890,346890,2025-08-01,0,88,71.00,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q2,Not Available,Medium,317900,9104
+3735090,3735090,2025-08-01,0,39,33.33,KAP-Cleveland,Kapp's,Residential,Reinstate,Cleveland,Standard,Q2,Not Available,Medium,441553,17019
+1247781,1247781,2025-08-01,0,51,67.75,PIE-Plant City,Plant-It-Earth,Residential,Upsell,Plant City,Standard,Q2,Not Available,Low,790500,6350
+462592,462592,2025-08-01,0,41,33.57,FWY-Birmingham,Fairway,Residential,Marketing Letter,Birmingham,Standard,Q1,Not Available,Low,335000,NULL
+13150,13150,2025-08-01,0,148,35.92,FWY-Vilonia,Fairway,Residential,Unclassified,Vilonia,Standard,Q2,Not Available,Low,353100,56088
+5740200,5740200,2025-08-01,0,10,105.00,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Tier 2,Q4,Promoter,Low,580000,24174
+815173,815173,2025-08-01,1,28,49.72,NXG-Waterford,NexGreen,Commercial,Referral,Waterford,Standard,Q2,Not Available,High,899000,83200
+4957913,4957913,2025-08-01,0,18,64.17,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Not Available,Medium,1448915,13400
+5749416,5749416,2025-08-01,1,17,172.42,SPS-Baltimore,Scientific Plant Service,Residential,Web Search,Baltimore,Standard,Q1,Passive,High,1213456,18854
+4924612,4924612,2025-08-01,0,29,114.33,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Passive,Low,600000,10388
+5374033,5374033,2025-08-01,1,147,24.98,GRG-Dallas,GroGreen,Residential,Print Ad,Dallas,Standard,Q2,Not Available,Medium,390000,7405
+3111986,3111986,2025-08-01,0,307,24.50,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q1,Not Available,Low,135000,9000
+5593290,5593290,2025-08-01,0,16,107.58,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Tier 2,Q2,Not Available,Medium,294000,12231
+5822805,5822805,2025-08-01,1,5,138.96,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Tier 2,Q1,Not Available,Medium,459900,45607
+787300,787300,2025-08-01,1,86,90.08,NXG-Waterford,NexGreen,Residential,Telesales,Waterford,Standard,Q2,Promoter,High,690000,23522
+549294,549294,2025-08-01,0,31,72.20,FWY-Birmingham,Fairway,Residential,Truck or Field,Birmingham,Standard,Q1,Not Available,Medium,NULL,NULL
+5691191,5691191,2025-08-01,0,46,105.11,DRJ-Orlando,Dr. Jack's,Residential,Referral,Orlando,Standard,Q4,Promoter,Medium,690892,11296
+5616236,5616236,2025-08-01,0,54,44.00,TDI-Huntsville,Turf Doctor Inc.,Residential,Reinstate,Huntsville,Standard,Q1,Promoter,Medium,341748,14993
+5546088,5546088,2025-08-01,1,17,29.67,FPS-Bradenton,Farrow Pest Services,Residential,Referral,Bradenton,Standard,Q1,Not Available,High,1152010,14375
+5395775,5395775,2025-08-01,1,200,145.17,GRG-Dallas,GroGreen,Residential,Referral,Dallas,Standard,Q4,Promoter,Medium,1205000,48918
+5665573,5665573,2025-08-01,0,28,17.39,TDI-Hartselle,Turf Doctor Inc.,Residential,Truck or Field,Hartselle,Standard,Q2,Not Available,Medium,209900,10848
+541890,541890,2025-08-01,0,39,73.08,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q2,Promoter,Medium,450000,13939
+5573504,5573504,2025-08-01,1,16,53.00,FWY-Greenville,Fairway,Residential,Digital,Greenville,Tier 1,Q2,Not Available,Medium,348400,8276
+5555598,5555598,2025-08-01,1,108,142.00,LWN-Nashville,Lawn Ranger,Commercial,Unclassified,Nashville,Standard,Q3,Not Available,Medium,453011,17820
+4931803,4931803,2025-08-01,1,65,59.17,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Promoter,Low,484471,2210
+535400,535400,2025-08-01,0,31,38.67,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q1,Not Available,Low,323500,15682
+4932382,4932382,2025-08-01,0,17,53.83,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Promoter,Medium,440200,1420
+4921070,4921070,2025-08-01,0,316,24.17,KAP-Fort Wayne,Kapp's,Residential,Unclassified,Fort Wayne,Standard,Q2,Not Available,Medium,132026,6660
+1239036,1239036,2025-08-01,0,83,120.18,LVL-North Orlando,Luv-A-Lawn,Residential,Digital,North Orlando,Standard,Q3,Not Available,Low,284000,9833
+5816223,5816223,2025-08-01,1,31,76.58,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Not Available,High,215000,6098
+5563160,5563160,2025-08-01,0,17,74.08,FWY-Greenville,Fairway,Residential,Telesales,Greenville,Tier 1,Q1,Not Available,Medium,835563,10425
+5364948,5364948,2025-08-01,1,29,39.97,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q1,Not Available,Medium,592000,10147
+5735203,5735203,2025-08-01,1,11,67.33,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q3,Not Available,Medium,599000,30833
+5718119,5718119,2025-08-01,0,13,80.50,YGT-Hillsborough,Your Green Team,Residential,Reinstate,Hillsborough,Tier 1,Q3,Promoter,Medium,485000,5400
+527418,527418,2025-08-01,0,42,29.33,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q1,Passive,Medium,307000,8205
+5798289,5798289,2025-08-01,0,15,54.17,EBP-Port Richey,Earth's Best,Residential,Referral,Port Richey,Standard,Q2,Not Available,Medium,300632,7350
+4925020,4925020,2025-08-01,0,71,64.42,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Promoter,Medium,798342,11475
+1083359,1083359,2025-08-01,1,67,143.83,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q1,Promoter,Medium,770000,24829
+4932092,4932092,2025-08-01,0,108,429.92,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Not Available,Low,846260,15000
+3090693,3090693,2025-08-01,0,17,22.67,KAP-Pittsburgh East,Kapp's,Residential,Telesales,Pittsburgh East,Standard,Q1,Not Available,Medium,149988,8781
+496786,496786,2025-08-01,0,53,58.67,FWY-Vilonia,Fairway,Residential,Referral,Vilonia,Standard,Q1,Not Available,Low,773777,33541
+3741405,3741405,2025-08-01,0,41,54.00,KAP-Cleveland,Kapp's,Residential,Reinstate,Cleveland,Standard,Q1,Promoter,Low,289000,11892
+1100152,1100152,2025-08-01,0,24,44.50,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q3,Not Available,Medium,447600,5663
+6171574,6171574,2025-08-01,0,1507,59.17,YGT-Pasco,Your Green Team,Residential,Referral,Pasco,Standard,Q1,Not Available,Medium,229900,4075
+5670658,5670658,2025-08-01,0,53,42.00,TDI-Madison,Turf Doctor Inc.,Residential,Upsell,Madison,Standard,Q1,Promoter,Medium,686000,16631
+5559707,5559707,2025-08-01,1,108,73.50,LWN-Nashville,Lawn Ranger,Residential,Referral,Nashville,Standard,Q3,Not Available,Medium,690000,27007
+5614277,5614277,2025-08-01,0,50,29.33,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q2,Not Available,Low,229895,9472
+5655721,5655721,2025-08-01,0,29,55.50,TDI-Madison,Turf Doctor Inc.,Residential,Reinstate,Madison,Standard,Q1,Promoter,Low,410200,14461
+5627836,5627836,2025-08-01,0,36,30.00,TDI-Hartselle,Turf Doctor Inc.,Residential,Marketing Letter,Hartselle,Standard,Q3,Promoter,Medium,286600,12422
+5895838,5895838,2025-08-01,0,1,25.00,FWY-Springdale,Fairway,Residential,Telesales,Springdale,Standard,Q3,Promoter,High,NULL,NULL
+5570583,5570583,2025-08-01,0,16,51.17,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Not Available,NA,604700,7484
+222098,222098,2025-08-01,0,182,153.00,FWY-Vilonia,Fairway,Residential,Truck or Field,Vilonia,Tier 2,Q2,Detractor,Low,688491,22673
+5697308,5697308,2025-08-01,0,247,358.50,DRJ-Orlando,Dr. Jack's,Commercial,Truck or Field,Orlando,Standard,Q1,Not Available,Low,NULL,NULL
+5674565,5674565,2025-08-01,0,29,203.67,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q1,Not Available,Low,696528,20414
+5956075,5956075,2025-08-01,1,90,37.50,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q1,Not Available,Low,525000,8712
+714752,714752,2025-08-01,0,86,48.00,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Standard,Q2,Not Available,Medium,345433,6807
+2704820,2704820,2025-08-01,1,296,58.00,KAP-Pittsburgh West,Kapp's,Residential,Unclassified,Pittsburgh West,Standard,Q4,Detractor,Low,340900,26547
+5893090,5893090,2025-08-01,0,1,85.00,FWY-Springdale,Fairway,Residential,Upsell,Springdale,Tier 2,Q3,Not Available,Medium,443000,10454
+5812297,5812297,2025-08-01,0,6,69.00,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 1,Q1,Promoter,Low,294900,10019
+381424,381424,2025-08-01,0,101,63.33,FWY-Memphis,Fairway,Residential,Digital,Memphis,Standard,Q1,Not Available,Low,265000,14810
+524553,524553,2025-08-01,0,45,25.83,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q4,Promoter,Medium,392000,10066
+4927418,4927418,2025-08-01,0,18,49.33,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Not Available,Low,NULL,4000
+1128603,1128603,2025-08-01,1,67,109.33,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q1,Detractor,Medium,248800,6468
+1099803,1099803,2025-08-01,0,24,50.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q3,Not Available,Medium,596300,12005
+813142,813142,2025-08-01,1,2,22.00,NXG-Detroit,NexGreen,Residential,Reinstate,Detroit,Standard,Q2,Not Available,Medium,298300,9148
+3725735,3725735,2025-08-01,0,52,28.75,KAP-Fort Wayne,Kapp's,Residential,Unclassified,Fort Wayne,Standard,Q2,Passive,Medium,414228,13142
+5399830,5399830,2025-08-01,1,29,65.00,GRG-Dallas,GroGreen,Residential,Web Search,Dallas,Tier 1,Q1,Promoter,Low,1488000,26746
+5351990,5351990,2025-08-01,0,37,83.42,GRQ-Atlanta,Green Queen,Residential,Truck or Field,Atlanta,Standard,Q3,Promoter,Low,765000,14375
+5599478,5599478,2025-08-01,1,15,34.85,FWY-Tulsa,Fairway,Commercial,Truck or Field,Tulsa,Standard,Q2,Not Available,High,613606,17816
+5736074,5736074,2025-08-01,0,11,63.00,LVL-North Orlando,Luv-A-Lawn,Residential,Unclassified,North Orlando,Tier 1,Q3,Not Available,Medium,433600,7280
+518289,518289,2025-08-01,0,49,69.33,FWY-Birmingham,Fairway,Residential,Truck or Field,Birmingham,Standard,Q3,Detractor,Low,569000,139392
+517919,517919,2025-08-01,0,49,33.83,FWY-Huntsville,Fairway,Residential,Reinstate,Huntsville,Standard,Q3,Passive,Low,840071,38237
+605240,605240,2025-08-01,0,76,91.66,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Standard,Q2,Detractor,Low,320183,NULL
+5856729,5856729,2025-08-01,1,5,77.50,FWY-Jacksonville,Fairway,Residential,CONVERSION CUSTOMER,Jacksonville,Standard,Q1,Not Available,High,335990,NULL
+5780392,5780392,2025-08-01,0,6,61.92,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Tier 1,Q1,Not Available,Low,813309,4600
+5351730,5351730,2025-08-01,0,56,89.92,GRQ-Charlotte,Green Queen,Residential,CONVERSION CUSTOMER,Charlotte,Standard,Q4,Not Available,High,2130200,13504
+4930624,4930624,2025-08-01,0,11,128.83,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Not Available,Low,836700,4400
+287022,287022,2025-08-01,0,120,18.50,FWY-Vilonia,Fairway,Commercial,Truck or Field,Vilonia,Standard,Q3,Not Available,Low,NULL,NULL
+5838644,5838644,2025-08-01,0,4,75.60,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Tier 1,Q2,Not Available,Medium,320000,NULL
+1043436,1043436,2025-08-01,0,26,58.58,FWY-Huntsville,Fairway,Residential,Referral,Huntsville,Standard,Q2,Not Available,Medium,354900,9060
+5965195,5965195,2025-08-01,0,90,43.50,SPG-Atlanta,Simply Green,Residential,Reinstate,Atlanta,Standard,Q1,Not Available,Low,617200,21780
+4931494,4931494,2025-08-01,0,21,96.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q4,Passive,Low,679900,21596
+4981684,4981684,2025-08-01,0,27,32.00,NXG-Westerville,NexGreen,Commercial,Telesales,Westerville,Standard,Q2,Not Available,Low,NULL,NULL
+425923,425923,2025-08-01,0,77,55.33,FWY-Ft. Smith,Fairway,Residential,Truck or Field,Ft. Smith,Standard,Q1,Promoter,Medium,383900,23469
+5821948,5821948,2025-08-01,0,5,49.89,FWY-Columbia,Fairway,Residential,Door Hanger,Columbia,Standard,Q1,Promoter,High,299900,NULL
+558238,558238,2025-08-01,0,31,92.75,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q1,Detractor,Medium,682791,30928
+5893840,5893840,2025-08-01,0,1,73.33,OTG-Gambrills,On The Green,Residential,Reinstate,Gambrills,Tier 2,Q3,Not Available,Low,1150000,95396
+5807303,5807303,2025-08-01,0,6,47.33,FWY-Vilonia,Fairway,Residential,Digital,Vilonia,Standard,Q1,Not Available,Low,214900,19166
+531000,531000,2025-08-01,0,41,42.00,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q1,Detractor,Medium,209299,11571
+5401197,5401197,2025-08-01,1,232,65.67,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q2,Not Available,Medium,NULL,NULL
+508298,508298,2025-08-01,0,52,39.33,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q2,Promoter,Medium,456000,33106
+5548752,5548752,2025-08-01,0,17,84.00,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Tier 2,Q1,Not Available,High,776000,7405
+1083817,1083817,2025-08-01,0,38,40.58,LVL-North Orlando,Luv-A-Lawn,Residential,Reinstate,North Orlando,Standard,Q2,Detractor,High,420800,5922
+5418980,5418980,2025-08-01,1,51,16.65,GRG-Dallas,GroGreen,Residential,Upsell,Dallas,Standard,Q2,Not Available,Medium,399900,11326
+5823039,5823039,2025-08-01,0,5,134.49,FWY-Ft. Smith,Fairway,Residential,Truck or Field,Ft. Smith,Standard,Q1,Not Available,Low,393591,16039
+5756213,5756213,2025-08-01,0,79,135.67,SPS-Baltimore,Scientific Plant Service,Residential,Telesales,Baltimore,Standard,Q1,Not Available,Medium,1052986,132858
+5542750,5542750,2025-08-01,0,17,149.17,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Tier 3,Q1,Promoter,Medium,185000,12632
+5851129,5851129,2025-08-01,0,2,74.00,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 1,Q2,Not Available,Low,527000,13500
+473948,473948,2025-08-01,0,150,82.25,FWY-Vilonia,Fairway,Residential,Unclassified,Vilonia,Standard,Q1,Promoter,Low,454200,17041
+329161,329161,2025-08-01,1,77,10.42,FWY-Little Rock,Fairway,Residential,Upsell,Little Rock,Standard,Q1,Not Available,Medium,64500,8375
+694369,694369,2025-08-01,0,29,54.50,FWY-Jacksonville,Fairway,Residential,Referral,Jacksonville,Standard,Q1,Passive,High,499000,NULL
+555984,555984,2025-08-01,0,19,95.00,FWY-Memphis,Fairway,Residential,Telesales,Memphis,Tier 2,Q1,Promoter,Medium,544000,NULL
+2712419,2712419,2025-08-01,0,62,32.50,KAP-Pittsburgh West,Kapp's,Residential,Reinstate,Pittsburgh West,Standard,Q2,Promoter,Low,464723,13350
+5817074,5817074,2025-08-01,1,31,55.00,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Promoter,High,199900,5663
+5685850,5685850,2025-08-01,0,280,33.00,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q2,Not Available,Low,525851,22109
+5801860,5801860,2025-08-01,1,4,25.00,KAP-Indianapolis,Kapp's,Residential,Truck or Field,Indianapolis,Standard,Q2,Not Available,Medium,528494,NULL
+493802,493802,2025-08-01,0,54,60.00,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q1,Not Available,Medium,484900,25700
+5806147,5806147,2025-08-01,1,6,57.50,LVL-Kissimmee,Luv-A-Lawn,Residential,Digital,Kissimmee,Tier 1,Q1,Passive,Medium,434990,8346
+555240,555240,2025-08-01,0,36,41.17,FWY-Huntsville,Fairway,Residential,Reinstate,Huntsville,Standard,Q3,Promoter,Medium,524900,9583
+5563288,5563288,2025-08-01,0,16,178.42,FWY-Columbia,Fairway,Residential,Referral,Columbia,Tier 3,Q2,Promoter,Medium,612800,41822
+4924542,4924542,2025-08-01,0,124,173.73,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q2,Not Available,Low,928200,10284
+4963613,4963613,2025-08-01,0,3,157.50,OTG-Gambrills,On The Green,Residential,Marketing Letter,Gambrills,Standard,Q2,Not Available,Low,431000,8600
+5595835,5595835,2025-08-01,0,15,69.00,PIE-Sarasota,Plant-It-Earth,Residential,Digital,Sarasota,Tier 1,Q2,Not Available,High,370088,NULL
+5563378,5563378,2025-08-01,0,16,57.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q2,Not Available,Medium,690711,9548
+5942825,5942825,2025-08-01,0,78,68.25,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q1,Not Available,Low,380500,19602
+5359586,5359586,2025-08-01,0,18,235.17,RLG-Austin,Real Green,Residential,Digital,Austin,Tier 2,Q1,Promoter,Medium,1399000,15899
+448247,448247,2025-08-01,0,65,51.00,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q1,Promoter,Medium,301510,9148
+1108809,1108809,2025-08-01,0,241,88.00,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q3,Not Available,High,464900,22216
+5675807,5675807,2025-08-01,0,41,207.29,TDI-Madison,Turf Doctor Inc.,Residential,Web Search,Madison,Standard,Q1,Promoter,Medium,325000,35201
+5733623,5733623,2025-08-01,1,12,95.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Marketing Letter,Kissimmee,Tier 3,Q3,Promoter,Medium,NULL,5499
+577510,577510,2025-08-01,0,29,59.33,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q1,Promoter,Medium,129900,NULL
+5644672,5644672,2025-08-01,0,274,58.67,TDI-Huntsville,Turf Doctor Inc.,Residential,Unclassified,Huntsville,Standard,Q4,Not Available,Low,597000,28268
+450072,450072,2025-08-01,0,65,41.33,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Standard,Q1,Promoter,Medium,167187,4800
+703950,703950,2025-08-01,0,27,84.17,RLG-Austin,Real Green,Residential,Referral,Austin,Standard,Q2,Not Available,Medium,1175000,14375
+5953980,5953980,2025-08-01,0,113,62.25,SPG-Atlanta,Simply Green,Residential,Print Ad,Atlanta,Standard,Q1,Not Available,Medium,154900,27443
+3086149,3086149,2025-08-01,1,258,68.92,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q1,Promoter,Medium,346000,19737
+5541398,5541398,2025-08-01,0,17,37.33,FWY-Memphis,Fairway,Residential,Digital,Memphis,Standard,Q1,Not Available,High,149900,7841
+5608221,5608221,2025-08-01,0,88,32.67,TDI-Hartselle,Turf Doctor Inc.,Commercial,Unclassified,Hartselle,Standard,Q2,Not Available,High,NULL,NULL
+701408,701408,2025-08-01,0,28,44.00,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q2,Passive,Medium,463800,32234
+5800982,5800982,2025-08-01,1,7,52.08,FWY-Springdale,Fairway,Residential,Digital,Springdale,Standard,Q1,Passive,Medium,795000,23522
+5432890,5432890,2025-08-01,0,17,37.42,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q1,Passive,Medium,265000,4356
+396297,396297,2025-08-01,0,90,96.75,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q1,Not Available,Medium,490000,29400
+1082235,1082235,2025-08-01,0,89,46.50,LVL-North Orlando,Luv-A-Lawn,Residential,Digital,North Orlando,Standard,Q1,Not Available,Medium,812425,14406
+4990208,4990208,2025-08-01,0,30,59.00,NXG-Westerville,NexGreen,Commercial,Telesales,Westerville,Standard,Q1,Not Available,Medium,695109,20400
+5827973,5827973,2025-08-01,0,5,52.67,FWY-Ft. Smith,Fairway,Residential,Reinstate,Ft. Smith,Standard,Q1,Not Available,Low,231800,18505
+5840843,5840843,2025-08-01,0,4,39.38,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q2,Not Available,Medium,221816,4919
+5831231,5831231,2025-08-01,0,5,31.33,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q1,Not Available,Medium,258180,NULL
+5549542,5549542,2025-08-01,0,17,73.00,FWY-Charleston,Fairway,Residential,Digital,Charleston,Tier 1,Q1,Not Available,Medium,773800,20996
+281641,281641,2025-08-01,0,144,76.25,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q3,Not Available,Medium,527000,29088
+529543,529543,2025-08-01,0,41,151.75,FWY-Columbia,Fairway,Residential,Marketing Letter,Columbia,Standard,Q1,Not Available,High,177000,116305
+5405775,5405775,2025-08-01,0,113,77.60,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q1,Promoter,Medium,1035898,15839
+562716,562716,2025-08-01,0,30,46.33,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q1,Not Available,Medium,384461,8276
+460807,460807,2025-08-01,0,63,58.00,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Tier 1,Q2,Promoter,Medium,104500,NULL
+5824857,5824857,2025-08-01,0,5,58.00,FWY-Greenville,Fairway,Residential,Referral,Greenville,Tier 1,Q1,Detractor,Medium,415000,7405
+747776,747776,2025-08-01,0,28,54.58,FWY-Springdale,Fairway,Residential,Digital,Springdale,Standard,Q2,Detractor,Medium,1299000,16988
+497069,497069,2025-08-01,0,31,32.00,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Standard,Q1,Promoter,High,337838,12961
+1072489,1072489,2025-08-01,0,130,35.33,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q4,Not Available,Medium,291650,7841
+5605351,5605351,2025-08-01,0,14,55.75,FWY-Augusta,Fairway,Residential,Digital,Augusta,Standard,Q2,Detractor,Medium,237000,13068
+5965696,5965696,2025-08-01,0,16,45.00,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q2,Not Available,Medium,310376,7841
+4931609,4931609,2025-08-01,0,111,30.00,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Passive,Low,898000,15616
+5734586,5734586,2025-08-01,0,12,57.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Tier 1,Q3,Not Available,Medium,469960,7575
+504874,504874,2025-08-01,0,53,83.33,FWY-Greenville,Fairway,Residential,Referral,Greenville,Standard,Q1,Detractor,Medium,386800,21780
+3089343,3089343,2025-08-01,0,311,50.11,KAP-Pittsburgh East,Kapp's,Residential,Telesales,Pittsburgh East,Standard,Q3,Not Available,Medium,348700,14810
+515974,515974,2025-08-01,0,39,48.33,FWY-Jacksonville,Fairway,Residential,Referral,Jacksonville,Standard,Q2,Passive,Medium,607012,7841
+5829569,5829569,2025-08-01,1,5,84.08,FWY-Vilonia,Fairway,Residential,Marketing Letter,Vilonia,Tier 1,Q1,Not Available,Medium,266300,20038
+5650128,5650128,2025-08-01,0,58,61.92,TDI-Madison,Turf Doctor Inc.,Residential,Truck or Field,Madison,Standard,Q4,Promoter,Low,415535,19418
+344893,344893,2025-08-01,0,100,57.33,FWY-Greenville,Fairway,Residential,Referral,Greenville,Standard,Q2,Not Available,Medium,512000,9627
+5890032,5890032,2025-08-01,0,2,25.18,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q2,Passive,Medium,493900,NULL
+106976,106976,2025-08-01,0,281,64.67,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Standard,Q1,Passive,Low,231000,13460
+5959757,5959757,2025-08-01,0,4,62.25,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q2,Not Available,Medium,772000,17424
+5639465,5639465,2025-08-01,0,18,183.33,TDI-Robertsdale,Turf Doctor Inc.,Residential,Referral,Robertsdale,Standard,Q1,Not Available,High,406300,12825
+5712858,5712858,2025-08-01,0,57,146.67,DRJ-Orlando,Dr. Jack's,Residential,Telesales,Orlando,Standard,Q4,Not Available,Low,564578,10334
+656697,656697,2025-08-01,0,40,38.00,RLG-Austin,Real Green,Residential,Print Ad,Austin,Standard,Q2,Promoter,Medium,426800,4774
+5824986,5824986,2025-08-01,0,4,119.92,FWY-Springdale,Fairway,Residential,Digital,Springdale,Standard,Q2,Detractor,High,1124427,14810
+3673925,3673925,2025-08-01,0,16,23.50,KAP-Fort Wayne,Kapp's,Residential,Referral,Fort Wayne,Standard,Q2,Promoter,High,34900,19166
+5730962,5730962,2025-08-01,0,74,75.33,FPS-Bradenton,Farrow Pest Services,Residential,Upsell,Bradenton,Standard,Q2,Not Available,High,412000,7941
+4927266,4927266,2025-08-01,0,29,124.17,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Passive,Low,575000,6114
+1114549,1114549,2025-08-01,0,25,105.92,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q3,Not Available,High,340000,5750
+416147,416147,2025-08-01,0,82,100.75,FWY-Memphis,Fairway,Residential,Truck or Field,Memphis,Tier 1,Q4,Not Available,Medium,382000,18348
+1101343,1101343,2025-08-01,0,24,65.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,329900,4800
+283483,283483,2025-08-01,0,144,30.67,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q3,Not Available,High,869700,14700
+1254716,1254716,2025-08-01,1,22,84.00,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Tier 2,Q4,Not Available,Medium,299999,7405
+469419,469419,2025-08-01,0,59,146.58,FWY-Columbia,Fairway,Residential,Truck or Field,Columbia,Tier 2,Q3,Promoter,High,302000,8708
+410307,410307,2025-08-01,0,55,32.00,FWY-Greenville,Fairway,Residential,Reinstate,Greenville,Standard,Q1,Not Available,Medium,501441,11587
+4932587,4932587,2025-08-01,0,69,24.33,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q4,Not Available,Low,479900,6400
+5741719,5741719,2025-08-01,1,9,39.97,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q4,Not Available,Medium,748000,14221
+5018274,5018274,2025-08-01,0,52,57.50,NXG-Westerville,NexGreen,Residential,Referral,Westerville,Standard,Q2,Promoter,Medium,279900,12197
+1262853,1262853,2025-08-01,0,38,39.08,KAP-Cleveland,Kapp's,Residential,Reinstate,Cleveland,Standard,Q2,Not Available,Medium,289500,NULL
+5621515,5621515,2025-08-01,0,64,41.82,TDI-Madison,Turf Doctor Inc.,Residential,Web Search,Madison,Standard,Q2,Promoter,Medium,590000,15682
+363255,363255,2025-08-01,0,111,128.33,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 2,Q2,Not Available,Medium,337450,NULL
+1096558,1096558,2025-08-01,0,38,49.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Standard,Q2,Not Available,Medium,369820,5362
+566694,566694,2025-08-01,0,85,71.33,FWY-Knoxville,Fairway,Residential,Referral,Knoxville,Standard,Q3,Promoter,Medium,770000,17424
+5649477,5649477,2025-08-01,0,160,72.81,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q2,Promoter,Medium,247524,24547
+1049036,1049036,2025-08-01,1,24,65.92,FWY-Tulsa,Fairway,Residential,Upsell,Tulsa,Standard,Q3,Not Available,Medium,214900,NULL
+5893843,5893843,2025-08-01,0,1,62.25,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Tier 1,Q3,Not Available,Medium,306200,10034
+3086994,3086994,2025-08-01,0,283,55.50,KAP-Pittsburgh East,Kapp's,Residential,Upsell,Pittsburgh East,Standard,Q1,Not Available,Low,423700,59590
+703867,703867,2025-08-01,1,4,82.00,FWY-Springdale,Fairway,Residential,Digital,Springdale,Tier 1,Q2,Not Available,High,593469,8712
+4928612,4928612,2025-08-01,0,83,116.85,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q3,Not Available,Medium,886500,25599
+5550919,5550919,2025-08-01,1,17,100.00,FWY-Greenville,Fairway,Residential,Referral,Greenville,Tier 1,Q1,Passive,Medium,407900,26136
+5844527,5844527,2025-08-01,0,4,32.00,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q2,Detractor,High,331800,7841
+5725145,5725145,2025-08-01,1,39,52.67,FPS-Bradenton,Farrow Pest Services,Residential,NULL,Bradenton,Standard,Q2,Detractor,High,342000,10454
+280454,280454,2025-08-01,1,144,36.67,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Standard,Q3,Not Available,Medium,331147,10029
+4930520,4930520,2025-08-01,0,29,83.31,OTG-Gambrills,On The Green,Residential,Marketing Letter,Gambrills,Standard,Q1,Not Available,Medium,829252,9330
+5613356,5613356,2025-08-01,0,16,33.33,TDI-Madison,Turf Doctor Inc.,Residential,Web Search,Madison,Standard,Q2,Not Available,Medium,374900,7800
+5730946,5730946,2025-08-01,0,17,107.00,FPS-Bradenton,Farrow Pest Services,Residential,Upsell,Bradenton,Standard,Q1,Promoter,High,455000,8956
+1087856,1087856,2025-08-01,0,61,41.00,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q3,Not Available,High,602245,254826
+5387559,5387559,2025-08-01,1,134,26.83,GRG-Dallas,GroGreen,Residential,Truck or Field,Dallas,Standard,Q2,Promoter,Low,NULL,NULL
+315673,315673,2025-08-01,1,55,59.75,FWY-Vilonia,Fairway,Residential,Truck or Field,Vilonia,Standard,Q1,Promoter,Low,266700,14810
+5969171,5969171,2025-08-01,0,61,39.00,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q3,Promoter,Medium,256405,8712
+1115075,1115075,2025-08-01,0,28,70.00,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q2,Passive,Medium,432800,7540
+563424,563424,2025-08-01,0,29,46.67,FWY-Ft. Smith,Fairway,Residential,Digital,Ft. Smith,Standard,Q1,Promoter,Low,238000,9100
+1094910,1094910,2025-08-01,0,95,44.42,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Standard,Q3,Promoter,Medium,204900,12197
+4924508,4924508,2025-08-01,0,52,41.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Promoter,Low,902900,7000
+5619997,5619997,2025-08-01,0,49,40.67,TDI-Huntsville,Turf Doctor Inc.,Residential,Unclassified,Huntsville,Standard,Q3,Not Available,Medium,623255,15845
+5350359,5350359,2025-08-01,0,56,56.25,GRQ-Atlanta,Green Queen,Residential,CONVERSION CUSTOMER,Atlanta,Standard,Q4,Not Available,NA,NULL,87120
+461286,461286,2025-08-01,0,62,131.75,FWY-Birmingham,Fairway,Residential,Reinstate,Birmingham,Standard,Q2,Not Available,Low,639000,108029
+5408981,5408981,2025-08-01,0,171,63.79,GRG-Dallas,GroGreen,Residential,Print Ad,Dallas,Standard,Q2,Not Available,Medium,606000,9069
+1129918,1129918,2025-08-01,0,60,107.67,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q3,Not Available,High,582500,10019
+5383427,5383427,2025-08-01,1,6,39.97,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q1,Not Available,Medium,734300,11185
+1082138,1082138,2025-08-01,0,29,33.50,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q1,Not Available,Medium,515000,6970
+4974871,4974871,2025-08-01,0,1,147.37,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Passive,Low,928800,8004
+5730338,5730338,2025-08-01,0,119,46.00,FPS-Bradenton,Farrow Pest Services,Residential,Referral,Bradenton,Standard,Q3,Promoter,High,357100,6840
+4925453,4925453,2025-08-01,0,113,174.83,OTG-Gambrills,On The Green,Residential,Truck or Field,Gambrills,Standard,Q1,Promoter,Low,1065926,87120
+5638138,5638138,2025-08-01,0,188,69.17,TDI-Madison,Turf Doctor Inc.,Residential,Telesales,Madison,Standard,Q4,Not Available,Medium,357000,18500
+2981435,2981435,2025-08-01,1,40,20.33,KAP-Pittsburgh West,Kapp's,Residential,Upsell,Pittsburgh West,Standard,Q2,Promoter,Medium,319900,7279
+5389003,5389003,2025-08-01,0,60,63.83,GRG-Dallas,GroGreen,Residential,Web Search,Dallas,Tier 1,Q3,Detractor,Medium,365000,7405
+433938,433938,2025-08-01,0,21,34.50,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q4,Not Available,Medium,296021,31363
+5806833,5806833,2025-08-01,1,6,48.67,GRG-Dallas,GroGreen,Residential,Marketing Letter,Dallas,Standard,Q1,Not Available,Medium,839600,12640
+5890044,5890044,2025-08-01,1,2,52.91,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 1,Q2,Detractor,Low,289900,19888
+1097196,1097196,2025-08-01,0,47,111.00,LVL-St Cloud,Luv-A-Lawn,Residential,Digital,St Cloud,Standard,Q3,Not Available,Medium,310000,6098
+5392774,5392774,2025-08-01,1,136,45.33,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q2,Not Available,Low,369900,9148
+3619678,3619678,2025-08-01,0,12,91.00,KAP-Indianapolis,Kapp's,Residential,Marketing Letter,Indianapolis,Standard,Q3,Not Available,Low,576932,13634
+490743,490743,2025-08-01,0,30,34.00,FWY-Vilonia,Fairway,Residential,Truck or Field,Vilonia,Standard,Q1,Promoter,Low,254700,10263
+5572825,5572825,2025-08-01,1,16,58.00,NXG-Detroit,NexGreen,Residential,Upsell,Detroit,Standard,Q2,Not Available,Low,208000,6970
+718214,718214,2025-08-01,0,127,125.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Tier 2,Q1,Not Available,Medium,324900,13504
+699013,699013,2025-08-01,0,28,28.58,FWY-Tulsa,Fairway,Residential,Marketing Letter,Tulsa,Standard,Q2,Passive,Medium,407900,11151
+5724365,5724365,2025-08-01,1,127,60.33,FPS-Bradenton,Farrow Pest Services,Residential,Digital,Bradenton,Standard,Q1,Passive,High,NULL,NULL
+5892677,5892677,2025-08-01,0,1,638.75,EEI-Florida City,Eastern Exterminating,Residential,CONVERSION CUSTOMER,Florida City,Standard,Q3,Not Available,Medium,7500000,40511
+392883,392883,2025-08-01,0,95,46.08,FWY-Tulsa,Fairway,Residential,Reinstate,Tulsa,Standard,Q3,Not Available,Medium,333000,12759
+5436828,5436828,2025-08-01,0,17,41.88,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q1,Promoter,High,238000,8712
+763537,763537,2025-08-01,0,34,60.08,NXG-Detroit,NexGreen,Residential,Referral,Detroit,Standard,Q4,Not Available,Low,212192,5227
+1092155,1092155,2025-08-01,0,121,63.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Telesales,Kissimmee,Tier 1,Q3,Not Available,Medium,453000,10149
+5953088,5953088,2025-08-01,0,36,69.25,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q3,Not Available,Medium,387692,28750
+4927301,4927301,2025-08-01,0,65,90.92,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Not Available,Medium,866675,16500
+405062,405062,2025-08-01,0,65,45.33,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Standard,Q1,Not Available,Medium,277400,8400
+1251735,1251735,2025-08-01,0,51,144.00,PIE-Plant City,Plant-It-Earth,Residential,Upsell,Plant City,Standard,Q2,Not Available,Medium,327200,5922
+452245,452245,2025-08-01,0,65,32.16,FWY-Springdale,Fairway,Residential,Digital,Springdale,Standard,Q1,Not Available,Medium,618717,11326
+4978664,4978664,2025-08-01,0,20,63.00,RLG-Austin,Real Green,Residential,Digital,Austin,Tier 1,Q4,Not Available,Medium,379600,5702
+1117298,1117298,2025-08-01,0,48,126.42,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q3,Not Available,High,335900,8443
+5031744,5031744,2025-08-01,0,5,28.50,NXG-Westerville,NexGreen,Residential,Reinstate,Westerville,Standard,Q1,Not Available,Medium,269900,10019
+5601007,5601007,2025-08-01,0,13,117.00,LVL-North Orlando,Luv-A-Lawn,Residential,CONVERSION CUSTOMER,North Orlando,Standard,Q3,Promoter,Low,8250000,45738
+5344620,5344620,2025-08-01,1,18,60.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Digital,Kissimmee,Tier 1,Q1,Not Available,High,274900,6098
+5696506,5696506,2025-08-01,0,235,145.00,DRJ-Orlando,Dr. Jack's,Residential,Referral,Orlando,Tier 4,Q1,Not Available,Medium,548368,10875
+539782,539782,2025-08-01,0,41,14.58,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q1,Not Available,Medium,246225,6098
+5701506,5701506,2025-08-01,0,16,114.75,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q2,Promoter,Medium,NULL,NULL
+4927359,4927359,2025-08-01,0,72,58.08,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Not Available,NA,440000,7350
+3193089,3193089,2025-08-01,1,43,22.00,KAP-Pittsburgh East,Kapp's,Residential,Telesales,Pittsburgh East,Standard,Q1,Not Available,Medium,204559,5501
+5593828,5593828,2025-08-01,0,16,69.00,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Tier 1,Q2,Not Available,Medium,308969,6098
+5550723,5550723,2025-08-01,0,17,53.08,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Standard,Q1,Not Available,Medium,338800,11645
+5696157,5696157,2025-08-01,0,49,126.00,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q3,Not Available,Medium,400486,21904
+5591940,5591940,2025-08-01,0,16,116.00,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Tier 2,Q2,Not Available,Medium,772800,21780
+5831239,5831239,2025-08-01,0,5,53.17,FWY-Augusta,Fairway,Residential,Telesales,Augusta,Tier 1,Q1,Not Available,Low,119900,12632
+637983,637983,2025-08-01,1,38,55.33,RLG-Austin,Real Green,Residential,Digital,Austin,Standard,Q2,Detractor,Medium,499000,12589
+5791356,5791356,2025-08-01,0,101,100.00,EBP-Port Richey,Earth's Best,Commercial,Digital,Port Richey,Standard,Q1,Not Available,Medium,NULL,NULL
+5663543,5663543,2025-08-01,0,27,58.67,TDI-Robertsdale,Turf Doctor Inc.,Residential,Referral,Robertsdale,Standard,Q2,Not Available,High,273900,NULL
+5604727,5604727,2025-08-01,0,14,116.00,FWY-Memphis,Fairway,Residential,Digital,Memphis,Tier 1,Q2,Not Available,Medium,379900,10890
+5953100,5953100,2025-08-01,0,194,115.33,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q2,Promoter,Low,769993,14450
+353985,353985,2025-08-01,0,113,189.00,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q1,Promoter,High,NULL,NULL
+5800412,5800412,2025-08-01,0,101,35.42,EBP-Port Richey,Earth's Best,Commercial,Referral,Port Richey,Standard,Q1,Not Available,Medium,418000,15000
+49026,49026,2025-08-01,0,39,76.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q2,Not Available,Medium,309000,9583
+5586458,5586458,2025-08-01,0,16,41.08,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Standard,Q2,Not Available,High,389900,248728
+5651958,5651958,2025-08-01,0,261,52.00,TDI-Huntsville,Turf Doctor Inc.,Residential,Marketing Letter,Huntsville,Standard,Q4,Promoter,Low,468000,18359
+5808422,5808422,2025-08-01,0,6,63.00,FWY-Augusta,Fairway,Residential,Digital,Augusta,Tier 1,Q1,Not Available,Medium,388600,30928
+5741070,5741070,2025-08-01,0,10,74.00,LVL-North Orlando,Luv-A-Lawn,Residential,Digital,North Orlando,Tier 1,Q4,Not Available,Low,897700,18166
+5835110,5835110,2025-08-01,1,4,27.67,LVL-St Cloud,Luv-A-Lawn,Residential,Referral,St Cloud,Standard,Q2,Not Available,Medium,215488,38638
+713436,713436,2025-08-01,0,59,63.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Tier 1,Q3,Not Available,Medium,880000,4792
+3726017,3726017,2025-08-01,0,5,47.50,KAP-Fort Wayne,Kapp's,Residential,Truck or Field,Fort Wayne,Standard,Q1,Not Available,High,267700,23143
+4931273,4931273,2025-08-01,0,53,71.25,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q1,Promoter,Medium,519800,16500
+5416031,5416031,2025-08-01,1,132,27.10,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q3,Not Available,Medium,NULL,NULL
+198433,198433,2025-08-01,0,41,52.67,FWY-Huntsville,Fairway,Residential,Marketing Letter,Huntsville,Standard,Q1,Not Available,Low,359900,14375
+5603265,5603265,2025-08-01,1,14,46.55,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 2,Q2,Promoter,Medium,294200,11326
+1248263,1248263,2025-08-01,1,51,81.00,PIE-Plant City,Plant-It-Earth,Residential,Upsell,Plant City,Standard,Q2,Not Available,Medium,1370600,23250
+1085890,1085890,2025-08-01,0,122,197.75,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Standard,Q2,Not Available,Low,NULL,5998
+549331,549331,2025-08-01,0,18,69.00,FWY-Springdale,Fairway,Residential,Telesales,Springdale,Tier 1,Q1,Not Available,Medium,279900,11761
+1093267,1093267,2025-08-01,0,34,86.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Standard,Q4,Not Available,Medium,582200,8721
+547518,547518,2025-08-01,0,39,46.67,FWY-Charleston,Fairway,Residential,Unclassified,Charleston,Standard,Q2,Promoter,Medium,574600,14375
+358697,358697,2025-08-01,0,113,60.67,FWY-Huntsville,Fairway,Residential,Referral,Huntsville,Standard,Q1,Not Available,Low,379000,16642
+5960749,5960749,2025-08-01,1,4,39.75,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q2,Not Available,Medium,129000,NULL
+2068622,2068622,2025-08-01,0,17,36.00,KAP-Indianapolis,Kapp's,Residential,Marketing Letter,Indianapolis,Standard,Q1,Not Available,High,107900,7928
+401904,401904,2025-08-01,0,51,60.75,FWY-Little Rock,Fairway,Residential,Digital,Little Rock,Standard,Q2,Detractor,Medium,338842,10059
+277097,277097,2025-08-01,0,91,93.50,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q1,Not Available,Low,350573,12110
+544084,544084,2025-08-01,0,40,36.17,FWY-Tulsa,Fairway,Residential,Marketing Letter,Tulsa,Standard,Q2,Not Available,Medium,222021,8471
+286222,286222,2025-08-01,0,64,79.08,FWY-Augusta,Fairway,Residential,Referral,Augusta,Standard,Q2,Promoter,Low,338600,14188
+2614872,2614872,2025-08-01,0,4,75.00,KAP-Indianapolis,Kapp's,Residential,Marketing Letter,Indianapolis,Tier 2,Q2,Passive,High,466000,12502
+5856062,5856062,2025-08-01,0,120,57.00,FWY-Jacksonville,Fairway,Residential,CONVERSION CUSTOMER,Jacksonville,Standard,Q3,Not Available,High,710717,25482
+5828274,5828274,2025-08-01,1,4,89.83,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q2,Not Available,NA,399900,7794
+5752602,5752602,2025-08-01,0,49,25.00,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q3,Not Available,Medium,2100000,43560
+441816,441816,2025-08-01,0,69,14.58,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q4,Not Available,Medium,188999,13068
+5752564,5752564,2025-08-01,1,80,23.42,SPS-Baltimore,Scientific Plant Service,Residential,Upsell,Baltimore,Standard,Q4,Not Available,Low,389300,12865
+467468,467468,2025-08-01,0,60,80.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q3,Not Available,Medium,482300,56628
+5734413,5734413,2025-08-01,1,12,13.55,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q3,Not Available,High,NULL,NULL
+5600230,5600230,2025-08-01,0,14,66.00,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Not Available,Medium,501000,11413
+4928453,4928453,2025-08-01,0,107,41.67,OTG-Gambrills,On The Green,Residential,Unclassified,Gambrills,Standard,Q3,Not Available,Low,683220,5700
+5592230,5592230,2025-08-01,1,16,63.17,NXG-Detroit,NexGreen,Residential,Referral,Detroit,Tier 1,Q2,Not Available,Low,NULL,NULL
+36615,36615,2025-08-01,0,123,153.00,FWY-Little Rock,Fairway,Residential,Reinstate,Little Rock,Tier 3,Q2,Not Available,Medium,739245,38202
+5546009,5546009,2025-08-01,0,16,109.00,FWY-Tulsa,Fairway,Residential,Telesales,Tulsa,Standard,Q2,Not Available,Medium,1093490,53143
+1092104,1092104,2025-08-01,0,53,59.33,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Standard,Q1,Not Available,Medium,745600,8502
+5895583,5895583,2025-08-01,0,1,90.08,FWY-Tulsa,Fairway,Residential,Reinstate,Tulsa,Tier 2,Q3,Passive,Medium,880000,11761
+1244483,1244483,2025-08-01,0,23,173.50,FWY-Knoxville,Fairway,Residential,Truck or Field,Knoxville,Tier 2,Q3,Not Available,Medium,561000,45302
+5624630,5624630,2025-08-01,0,13,65.83,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q3,Not Available,Medium,375187,13504
+5835151,5835151,2025-08-01,0,5,28.88,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q1,Not Available,Medium,642470,8893
+5405938,5405938,2025-08-01,1,238,58.00,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q4,Not Available,Medium,1550450,15583
+5954502,5954502,2025-08-01,0,72,52.50,SPG-Atlanta,Simply Green,Residential,Truck or Field,Atlanta,Standard,Q3,Not Available,Medium,559900,43124
+748396,748396,2025-08-01,0,27,56.50,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Standard,Q2,Not Available,Medium,435800,6098
+530687,530687,2025-08-01,0,41,40.00,FWY-Birmingham,Fairway,Residential,Marketing Letter,Birmingham,Standard,Q1,Passive,Medium,561907,20587
+3736234,3736234,2025-08-01,0,64,38.00,KAP-Fort Wayne,Kapp's,Residential,Unclassified,Fort Wayne,Standard,Q2,Not Available,Medium,218000,8999
+5968853,5968853,2025-08-01,0,19,109.75,SPG-Atlanta,Simply Green,Residential,Truck or Field,Atlanta,Standard,Q1,Not Available,Low,1953000,52272
+635765,635765,2025-08-01,0,75,76.91,RLG-Austin,Real Green,Residential,Telesales,Austin,Tier 1,Q2,Not Available,Medium,440000,7492
+5414706,5414706,2025-08-01,0,39,36.73,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q2,Not Available,Medium,362000,9431
+5892537,5892537,2025-08-01,1,1,60.00,PIE-Plant City,Plant-It-Earth,Residential,Referral,Plant City,Standard,Q3,Not Available,High,500171,7841
+2071822,2071822,2025-08-01,0,100,28.50,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q2,Not Available,Low,231435,4600
+5968021,5968021,2025-08-01,1,8,90.75,SPG-Atlanta,Simply Green,Residential,Web Search,Atlanta,Standard,Q4,Not Available,Low,NULL,25831
+5416678,5416678,2025-08-01,1,112,63.73,GRG-Dallas,GroGreen,Commercial,Unclassified,Dallas,Standard,Q2,Not Available,Medium,1120000,12314
+5817983,5817983,2025-08-01,0,31,92.33,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Not Available,Medium,405000,11326
+2458192,2458192,2025-08-01,0,41,39.08,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q1,Promoter,Low,885800,30492
+1090235,1090235,2025-08-01,0,62,78.67,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q2,Promoter,Low,234900,NULL
+5893473,5893473,2025-08-01,0,1,60.00,DRJ-Orlando,Dr. Jack's,Residential,Web Search,Orlando,Tier 1,Q3,Not Available,Medium,639000,13068
+582815,582815,2025-08-01,0,29,20.83,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q1,Not Available,Medium,628000,8407
+1089178,1089178,2025-08-01,1,97,77.17,LVL-St Cloud,Luv-A-Lawn,Residential,Truck or Field,St Cloud,Standard,Q3,Promoter,Medium,516990,4356
+325964,325964,2025-08-01,0,122,17.92,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q2,Not Available,Medium,320600,10280
+5382663,5382663,2025-08-01,1,40,38.67,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q2,Not Available,Low,385000,6447
+1081668,1081668,2025-08-01,0,42,141.00,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q1,Not Available,Medium,610000,16553
+1240102,1240102,2025-08-01,0,55,118.67,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q1,Not Available,Medium,928165,11616
+563061,563061,2025-08-01,0,22,40.00,FWY-Jacksonville,Fairway,Residential,Marketing Letter,Jacksonville,Standard,Q4,Passive,High,456021,6352
+309478,309478,2025-08-01,0,129,16.33,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q4,Not Available,Medium,351000,8276
+5780370,5780370,2025-08-01,1,7,2.23,FWY-Springdale,Fairway,Commercial,Referral,Springdale,Standard,Q1,Not Available,NA,NULL,NULL
+701897,701897,2025-08-01,0,17,63.58,FWY-Little Rock,Fairway,Residential,Marketing Letter,Little Rock,Tier 1,Q1,Not Available,Low,569000,9583
+5736144,5736144,2025-08-01,1,11,12.50,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q3,Not Available,High,278900,7841
+526431,526431,2025-08-01,0,43,16.75,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q1,Not Available,Medium,522000,18731
+424036,424036,2025-08-01,0,77,121.77,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q1,Not Available,Medium,385201,11761
+438151,438151,2025-08-01,0,18,33.33,FWY-Greenville,Fairway,Residential,Truck or Field,Greenville,Standard,Q1,Passive,High,206552,9583
+4929033,4929033,2025-08-01,0,17,39.50,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Promoter,Low,625000,3321
+3763393,3763393,2025-08-01,0,88,42.42,KAP-Fort Wayne,Kapp's,Residential,Marketing Letter,Fort Wayne,Standard,Q2,Detractor,Medium,271000,14039
+140257,140257,2025-08-01,0,233,51.00,FWY-Ft. Smith,Fairway,Residential,Referral,Ft. Smith,Standard,Q1,Not Available,Medium,279000,17567
+5746120,5746120,2025-08-01,1,10,17.67,SPS-Baltimore,Scientific Plant Service,Residential,Referral,Baltimore,Standard,Q4,Not Available,High,1380000,15290
+741866,741866,2025-08-01,1,182,73.00,PIE-Sarasota,Plant-It-Earth,Residential,Digital,Sarasota,Standard,Q2,Not Available,High,221500,10380
+5683590,5683590,2025-08-01,0,38,52.00,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q2,Not Available,Low,372800,8250
+5647459,5647459,2025-08-01,0,37,73.67,TDI-Huntsville,Turf Doctor Inc.,Residential,Upsell,Huntsville,Standard,Q3,Not Available,Medium,718000,66018
+5558744,5558744,2025-08-01,0,71,61.25,LWN-Nashville,Lawn Ranger,Residential,Referral,Nashville,Standard,Q3,Not Available,Medium,987300,43560
+491944,491944,2025-08-01,1,53,45.33,FWY-Augusta,Fairway,Residential,Reinstate,Augusta,Standard,Q1,Detractor,Medium,200179,10454
+5745228,5745228,2025-08-01,0,80,206.58,SPS-Baltimore,Scientific Plant Service,Residential,Upsell,Baltimore,Standard,Q4,Not Available,Medium,539000,27878
+5432353,5432353,2025-08-01,0,18,46.52,FWY-Charleston,Fairway,Residential,Digital,Charleston,Standard,Q1,Promoter,Medium,343055,7812
+1246484,1246484,2025-08-01,0,51,52.00,PIE-Plant City,Plant-It-Earth,Residential,Upsell,Plant City,Standard,Q2,Passive,High,279900,12197
+5624703,5624703,2025-08-01,0,53,83.65,TDI-Madison,Turf Doctor Inc.,Residential,Web Search,Madison,Standard,Q1,Not Available,Medium,425000,21562
+4930548,4930548,2025-08-01,0,65,52.92,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q1,Promoter,Low,685500,15801
+417271,417271,2025-08-01,0,80,43.75,FWY-Little Rock,Fairway,Residential,Reinstate,Little Rock,Standard,Q4,Not Available,Medium,874942,10454
+540189,540189,2025-08-01,0,40,35.33,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q2,Passive,Low,431900,NULL
+370991,370991,2025-08-01,0,107,16.58,FWY-Little Rock,Fairway,Residential,Marketing Letter,Little Rock,Standard,Q3,Promoter,Medium,222000,9583
+5914159,5914159,2025-08-01,0,29,59.25,TFW-Raleigh,Turf Wizards,Residential,CONVERSION CUSTOMER,Raleigh,Standard,Q1,Promoter,Low,731000,10890
+4932678,4932678,2025-08-01,0,18,158.54,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Not Available,Medium,585000,6534
+4926512,4926512,2025-08-01,0,47,125.93,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Promoter,Low,793300,5839
+5417681,5417681,2025-08-01,1,19,80.00,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Tier 2,Q1,Not Available,Medium,685000,9060
+540693,540693,2025-08-01,0,40,24.67,FWY-Memphis,Fairway,Commercial,Truck or Field,Memphis,Standard,Q2,Not Available,Medium,750000,8712
+5887284,5887284,2025-08-01,0,2,90.00,FWY-Springdale,Fairway,Residential,Digital,Springdale,Tier 2,Q2,Not Available,Medium,294200,15768
+2782913,2782913,2025-08-01,0,5,47.25,KAP-Pittsburgh West,Kapp's,Residential,Marketing Letter,Pittsburgh West,Tier 1,Q1,Promoter,Low,515539,16509
+694121,694121,2025-08-01,1,29,49.29,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Standard,Q1,Passive,Medium,725000,8146
+2109867,2109867,2025-08-01,0,101,28.50,KAP-Indianapolis,Kapp's,Residential,Reinstate,Indianapolis,Standard,Q1,Promoter,Low,330600,6752
+5964260,5964260,2025-08-01,0,41,53.58,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q1,Promoter,Medium,389333,21780
+51465,51465,2025-08-01,0,30,91.00,PIE-Sarasota,Plant-It-Earth,Residential,Truck or Field,Sarasota,Standard,Q1,Promoter,Medium,499000,10454
+5345790,5345790,2025-08-01,0,19,75.83,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q1,Not Available,Medium,408345,15246
+5568388,5568388,2025-08-01,1,16,101.00,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Tier 2,Q2,Passive,Medium,337000,7405
+5806031,5806031,2025-08-01,0,5,13.83,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Not Available,Medium,612000,12615
+2117914,2117914,2025-08-01,0,64,29.00,KAP-Indianapolis,Kapp's,Residential,Unclassified,Indianapolis,Standard,Q2,Promoter,Low,95000,6534
+577515,577515,2025-08-01,0,29,42.92,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Standard,Q1,Not Available,Medium,249999,7405
+5796993,5796993,2025-08-01,1,35,27.50,EBP-Port Richey,Earth's Best,Residential,Referral,Port Richey,Standard,Q3,Not Available,Low,495000,7841
+5836277,5836277,2025-08-01,0,5,81.49,OTG-Gambrills,On The Green,Residential,Marketing Letter,Gambrills,Tier 1,Q1,Not Available,Medium,545643,11000
+3092445,3092445,2025-08-01,0,76,30.33,KAP-Pittsburgh East,Kapp's,Residential,Digital,Pittsburgh East,Standard,Q2,Not Available,Medium,255865,10532
+4187319,4187319,2025-08-01,0,16,31.50,KAP-Cleveland,Kapp's,Residential,Marketing Letter,Cleveland,Standard,Q2,Not Available,Low,275000,14248
+755649,755649,2025-08-01,0,46,48.50,NXG-Detroit,NexGreen,Residential,Referral,Detroit,Standard,Q4,Not Available,High,267100,7405
+377622,377622,2025-08-01,0,102,121.00,FWY-Augusta,Fairway,Residential,Marketing Letter,Augusta,Tier 1,Q1,Promoter,Medium,315061,30492
+4927734,4927734,2025-08-01,0,7,51.75,OTG-Gambrills,On The Green,Residential,Reinstate,Gambrills,Tier 1,Q1,Not Available,Medium,469000,12769
+563888,563888,2025-08-01,0,29,54.00,FWY-Ft. Smith,Fairway,Residential,Referral,Ft. Smith,Standard,Q1,Passive,Medium,355440,35284
+3107767,3107767,2025-08-01,0,3,31.83,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q2,Not Available,Low,246300,12909
+5848350,5848350,2025-08-01,0,4,115.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Tier 3,Q2,Passive,Medium,383997,6920
+560683,560683,2025-08-01,0,31,48.67,FWY-Greenville,Fairway,Residential,Referral,Greenville,Standard,Q1,Detractor,Medium,580100,32191
+445509,445509,2025-08-01,0,5,90.25,FWY-Columbia,Fairway,Residential,Marketing Letter,Columbia,Tier 2,Q1,Detractor,High,434153,15693
+5806393,5806393,2025-08-01,0,6,41.33,FWY-Little Rock,Fairway,Residential,Telesales,Little Rock,Standard,Q1,Promoter,Medium,330000,10890
+347081,347081,2025-08-01,1,40,38.67,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q2,Promoter,Medium,300100,9235
+4927020,4927020,2025-08-01,1,71,24.75,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Not Available,Low,747900,5827
+5914884,5914884,2025-08-01,0,1,40.00,TFW-Raleigh,Turf Wizards,Residential,Digital,Raleigh,Standard,Q3,Not Available,Low,711842,12632
+5706344,5706344,2025-08-01,0,232,31.25,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q2,Promoter,Medium,1466800,45422
+434012,434012,2025-08-01,0,76,399.75,FWY-Springdale,Fairway,Commercial,Truck or Field,Springdale,Standard,Q2,Not Available,Medium,140000,10890
+532207,532207,2025-08-01,0,41,71.33,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q1,Promoter,Medium,311000,20813
+468326,468326,2025-08-01,0,59,45.17,FWY-Augusta,Fairway,Residential,Referral,Augusta,Tier 1,Q3,Promoter,Medium,242225,NULL
+437296,437296,2025-08-01,0,74,132.00,FWY-Ft. Smith,Fairway,Residential,Truck or Field,Ft. Smith,Tier 3,Q2,Not Available,Low,400300,12599
+5818358,5818358,2025-08-01,0,19,48.00,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Not Available,High,645000,16196
+5825498,5825498,2025-08-01,0,5,123.50,FWY-Vilonia,Fairway,Residential,Referral,Vilonia,Tier 4,Q1,Not Available,Low,423500,18295
+5737823,5737823,2025-08-01,0,10,79.00,FWY-Greenville,Fairway,Residential,Digital,Greenville,Tier 2,Q4,Promoter,Medium,565650,6534
+582339,582339,2025-08-01,1,29,83.42,FWY-Ft. Smith,Fairway,Residential,Referral,Ft. Smith,Tier 2,Q1,Promoter,High,213900,21344
+5545532,5545532,2025-08-01,0,17,15.33,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q1,Not Available,Low,267000,7841
+647881,647881,2025-08-01,0,40,94.64,RLG-Austin,Real Green,Residential,Marketing Letter,Austin,Standard,Q2,Promoter,Medium,484600,8146
+3108055,3108055,2025-08-01,0,311,51.00,KAP-Pittsburgh East,Kapp's,Residential,Unclassified,Pittsburgh East,Standard,Q3,Not Available,Low,262100,16439
+5892969,5892969,2025-08-01,0,1,139.58,FWY-Charleston,Fairway,Residential,Digital,Charleston,Standard,Q3,Not Available,High,135000,37897
+5888145,5888145,2025-08-01,0,2,34.83,NXG-Detroit,NexGreen,Residential,Marketing Letter,Detroit,Standard,Q2,Not Available,Low,260000,10890
+3795719,3795719,2025-08-01,0,35,137.75,KAP-Cleveland,Kapp's,Residential,Truck or Field,Cleveland,Standard,Q3,Promoter,Medium,269310,21240
+1096071,1096071,2025-08-01,0,28,89.50,LVL-Kissimmee,Luv-A-Lawn,Residential,Referral,Kissimmee,Standard,Q2,Promoter,High,1026611,7841
+704627,704627,2025-08-01,1,76,60.50,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Standard,Q2,Not Available,High,734833,13401
+4932919,4932919,2025-08-01,1,48,43.75,OTG-Gambrills,On The Green,Residential,Marketing Letter,Gambrills,Standard,Q3,Not Available,Low,680400,15000
+19048,19048,2025-08-01,0,75,97.00,FWY-Springdale,Fairway,Residential,Referral,Springdale,Standard,Q2,Promoter,Medium,306955,21597
+5672895,5672895,2025-08-01,0,61,89.58,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q3,Promoter,Low,342000,19465
+5605257,5605257,2025-08-01,0,14,35.33,FWY-Memphis,Fairway,Residential,Referral,Memphis,Standard,Q2,Not Available,NA,249900,6098
+5546683,5546683,2025-08-01,0,3,69.00,FWY-Springdale,Fairway,Residential,Reinstate,Springdale,Tier 1,Q2,Not Available,High,359900,131
+5637389,5637389,2025-08-01,0,100,55.33,TDI-Madison,Turf Doctor Inc.,Residential,Telesales,Madison,Standard,Q2,Promoter,Medium,359557,20001
+440240,440240,2025-08-01,0,70,137.00,FWY-Augusta,Fairway,Residential,Referral,Augusta,Tier 2,Q4,Not Available,Medium,534900,41382
+5755472,5755472,2025-08-01,0,80,152.67,SPS-Baltimore,Scientific Plant Service,Residential,Upsell,Baltimore,Standard,Q4,Promoter,Medium,645200,20000
+5884581,5884581,2025-08-01,0,3,145.38,FWY-Columbia,Fairway,Residential,Referral,Columbia,Tier 2,Q2,Not Available,High,447000,35455
+450894,450894,2025-08-01,0,65,46.75,FWY-Tulsa,Fairway,Residential,Truck or Field,Tulsa,Standard,Q1,Promoter,High,235000,8450
+1253971,1253971,2025-08-01,0,22,64.50,LVL-North Orlando,Luv-A-Lawn,Residential,Truck or Field,North Orlando,Standard,Q4,Not Available,Medium,669000,7763
+5883728,5883728,2025-08-01,0,3,28.00,YGT-Hillsborough,Your Green Team,Residential,Referral,Hillsborough,Standard,Q2,Not Available,High,NULL,NULL
+635517,635517,2025-08-01,0,51,59.96,RLG-Austin,Real Green,Residential,Reinstate,Austin,Standard,Q2,Not Available,Medium,1079222,10625
+4257895,4257895,2025-08-01,0,4,80.17,KAP-Cleveland,Kapp's,Residential,Marketing Letter,Cleveland,Tier 1,Q2,Not Available,Medium,601900,14810
+1221418,1221418,2025-08-01,0,58,72.00,FPS-Bradenton,Farrow Pest Services,Residential,Truck or Field,Bradenton,Standard,Q4,Not Available,High,920333,9736
+1226193,1226193,2025-08-01,0,49,103.50,YGT-Pasco,Your Green Team,Residential,Truck or Field,Pasco,Tier 2,Q3,Not Available,High,379000,7305
+5634914,5634914,2025-08-01,0,179,79.25,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q3,Not Available,Low,302000,20219
+1095442,1095442,2025-08-01,0,40,115.17,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Tier 3,Q2,Passive,Medium,525000,6534
+5379786,5379786,2025-08-01,0,334,46.00,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Standard,Q4,Not Available,Medium,507600,9109
+544160,544160,2025-08-01,0,37,66.58,FWY-Jacksonville,Fairway,Residential,Truck or Field,Jacksonville,Standard,Q3,Promoter,High,511668,NULL
+4930198,4930198,2025-08-01,0,60,629.94,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Passive,Low,849900,57499
+4927047,4927047,2025-08-01,0,112,262.70,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q2,Not Available,High,1907836,46435
+5889289,5889289,2025-08-01,0,2,131.25,LVL-St Cloud,Luv-A-Lawn,Residential,Digital,St Cloud,Tier 1,Q2,Not Available,Medium,449000,47480
+5671970,5671970,2025-08-01,0,42,128.75,TDI-Hartselle,Turf Doctor Inc.,Commercial,Referral,Hartselle,Standard,Q1,Not Available,High,NULL,NULL
+1040461,1040461,2025-08-01,0,26,75.58,FWY-Huntsville,Fairway,Residential,Digital,Huntsville,Standard,Q2,Not Available,Medium,772441,15750
+5595488,5595488,2025-08-01,0,15,30.00,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q2,Not Available,High,NULL,NULL
+4925239,4925239,2025-08-01,1,53,165.83,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 3,Q1,Promoter,Medium,794000,30446
+4929159,4929159,2025-08-01,0,59,143.08,OTG-Gambrills,On The Green,Residential,Upsell,Gambrills,Standard,Q3,Passive,Medium,NULL,NULL
+549340,549340,2025-08-01,1,6,91.50,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q1,Promoter,Medium,189900,26136
+466381,466381,2025-08-01,0,60,23.92,FWY-Tulsa,Fairway,Residential,Referral,Tulsa,Standard,Q3,Not Available,High,582142,6650
+5827634,5827634,2025-08-01,1,5,27.92,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q1,Not Available,Medium,515000,8276
+532567,532567,2025-08-01,1,41,65.17,FWY-Ft. Smith,Fairway,Residential,Truck or Field,Ft. Smith,Standard,Q1,Promoter,Low,NULL,NULL
+5706153,5706153,2025-08-01,0,20,26.25,DRJ-Orlando,Dr. Jack's,Residential,CONVERSION CUSTOMER,Orlando,Standard,Q4,Promoter,Low,599900,3485
+5844709,5844709,2025-08-01,0,4,82.33,RLG-Austin,Real Green,Residential,Referral,Austin,Tier 1,Q2,Not Available,Medium,1024000,9059
+4945856,4945856,2025-08-01,0,1,86.05,OTG-Gambrills,On The Green,Residential,Unclassified,Gambrills,Standard,Q3,Not Available,Low,374900,7098
+5808231,5808231,2025-08-01,0,5,88.67,FWY-Vilonia,Fairway,Residential,Reinstate,Vilonia,Standard,Q1,Not Available,Medium,399000,65340
+513921,513921,2025-08-01,0,40,82.00,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q2,Not Available,Medium,435000,21823
+1123980,1123980,2025-08-01,0,62,183.33,YGT-Hillsborough,Your Green Team,Residential,Truck or Field,Hillsborough,Standard,Q2,Not Available,High,230000,12632
+4960609,4960609,2025-08-01,0,4,90.23,OTG-Gambrills,On The Green,Residential,Marketing Letter,Gambrills,Standard,Q2,Detractor,Low,NULL,7609
+5350166,5350166,2025-08-01,0,56,29.92,GRQ-Atlanta,Green Queen,Residential,CONVERSION CUSTOMER,Atlanta,Standard,Q4,Not Available,Low,439000,NULL
+5816678,5816678,2025-08-01,0,31,57.00,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Not Available,Medium,476582,12097
+5855933,5855933,2025-08-01,0,3,84.33,FWY-Jacksonville,Fairway,Residential,CONVERSION CUSTOMER,Jacksonville,Standard,Q2,Not Available,Medium,300000,NULL
+5659764,5659764,2025-08-01,0,52,58.67,TDI-Robertsdale,Turf Doctor Inc.,Residential,Marketing Letter,Robertsdale,Standard,Q2,Not Available,High,387301,16624
+5643715,5643715,2025-08-01,0,78,37.33,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q1,Not Available,Low,189967,4414
+5856798,5856798,2025-08-01,0,3,78.83,GRQ-Atlanta,Green Queen,Residential,Digital,Atlanta,Standard,Q2,Not Available,Medium,462000,9675
+96765,96765,2025-08-01,0,235,49.33,FWY-Memphis,Fairway,Residential,Marketing Letter,Memphis,Standard,Q1,Passive,Medium,273000,13640
+387015,387015,2025-08-01,0,100,54.47,FWY-Augusta,Fairway,Residential,Truck or Field,Augusta,Standard,Q2,Not Available,Low,247500,11696
+363043,363043,2025-08-01,0,112,16.33,FWY-Springdale,Fairway,Residential,Marketing Letter,Springdale,Standard,Q2,Not Available,High,163445,9583
+5776862,5776862,2025-08-01,0,7,50.00,FWY-Memphis,Fairway,Residential,Referral,Memphis,Standard,Q1,Not Available,Low,345659,19458
+5551422,5551422,2025-08-01,0,17,35.33,FWY-Memphis,Fairway,Residential,Referral,Memphis,Standard,Q1,Not Available,Medium,214800,6003
+4927136,4927136,2025-08-01,0,101,72.92,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Detractor,Medium,551700,11250
+5551787,5551787,2025-08-01,0,17,63.00,FWY-Tulsa,Fairway,Residential,Marketing Letter,Tulsa,Tier 1,Q1,Not Available,Medium,371600,9324
+1243499,1243499,2025-08-01,0,23,70.61,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,High,830470,5700
+433146,433146,2025-08-01,0,76,128.58,FWY-Huntsville,Fairway,Residential,Referral,Huntsville,Standard,Q2,Promoter,Medium,435000,36651
+5659106,5659106,2025-08-01,1,47,79.17,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q3,Detractor,Low,534000,18095
+5714906,5714906,2025-08-01,0,292,92.00,DRJ-Orlando,Dr. Jack's,Residential,Referral,Orlando,Standard,Q2,Not Available,Low,799000,9221
+5660369,5660369,2025-08-01,0,119,50.67,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q3,Not Available,Low,816000,19915
+5747534,5747534,2025-08-01,0,41,31.50,SPS-Baltimore,Scientific Plant Service,Residential,Web Search,Baltimore,Standard,Q1,Passive,Low,672400,8929
+461060,461060,2025-08-01,0,63,83.50,FWY-Little Rock,Fairway,Residential,Truck or Field,Little Rock,Standard,Q2,Not Available,Medium,440000,9583
+5586110,5586110,2025-08-01,0,16,84.00,FWY-Memphis,Fairway,Residential,Digital,Memphis,Tier 2,Q2,Not Available,Medium,293900,9148
+5800035,5800035,2025-08-01,0,32,150.00,EBP-Port Richey,Earth's Best,Commercial,Referral,Port Richey,Standard,Q4,Not Available,High,NULL,NULL
+5748306,5748306,2025-08-01,0,80,497.58,SPS-Baltimore,Scientific Plant Service,Residential,Upsell,Baltimore,Standard,Q4,Not Available,High,1163078,119790
+5592857,5592857,2025-08-01,0,16,295.67,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q2,Not Available,Low,505000,8662
+5669943,5669943,2025-08-01,0,45,65.33,TDI-Hartselle,Turf Doctor Inc.,Residential,Telesales,Hartselle,Standard,Q4,Passive,Medium,499217,39291
+439539,439539,2025-08-01,0,72,154.17,FWY-Huntsville,Fairway,Residential,Truck or Field,Huntsville,Standard,Q3,Not Available,Medium,529500,15019
+522791,522791,2025-08-01,1,47,16.75,FWY-Little Rock,Fairway,Residential,Marketing Letter,Little Rock,Standard,Q3,Promoter,Medium,275000,10019
+5397045,5397045,2025-08-01,1,53,71.25,GRG-Dallas,GroGreen,Residential,Reinstate,Dallas,Tier 1,Q1,Not Available,Medium,290000,5663
+1093032,1093032,2025-08-01,0,55,118.17,LVL-Kissimmee,Luv-A-Lawn,Residential,Upsell,Kissimmee,Standard,Q1,Not Available,Medium,537800,10803
+451732,451732,2025-08-01,0,65,94.42,FWY-Birmingham,Fairway,Residential,Marketing Letter,Birmingham,Standard,Q1,Not Available,Low,670183,34340
+5603844,5603844,2025-08-01,0,14,48.67,GRQ-Atlanta,Green Queen,Residential,Digital,Atlanta,Standard,Q2,Promoter,Medium,570000,8146
+5394366,5394366,2025-08-01,1,87,78.25,GRG-Dallas,GroGreen,Residential,Text Campaign,Dallas,Standard,Q2,Not Available,Medium,586500,12287
+769406,769406,2025-08-01,0,63,133.92,NXG-Waterford,NexGreen,Residential,Telesales,Waterford,Standard,Q2,Promoter,Low,695400,20473
+3823200,3823200,2025-08-01,0,4,73.92,KAP-Cleveland,Kapp's,Residential,Marketing Letter,Cleveland,Standard,Q2,Detractor,Low,NULL,NULL
+4996033,4996033,2025-08-01,0,98,80.83,NXG-Westerville,NexGreen,Residential,Telesales,Westerville,Standard,Q2,Promoter,Low,600000,11921
+5830853,5830853,2025-08-01,0,5,27.67,NXG-Detroit,NexGreen,Residential,Web Search,Detroit,Standard,Q1,Not Available,Medium,NULL,12632
+5729051,5729051,2025-08-01,0,17,28.00,FPS-Bradenton,Farrow Pest Services,Residential,Referral,Bradenton,Standard,Q1,Promoter,High,530400,4247
+5390594,5390594,2025-08-01,1,137,44.00,GRG-Dallas,GroGreen,Residential,Print Ad,Dallas,Standard,Q1,Not Available,Low,657311,12444
+581231,581231,2025-08-01,0,29,43.38,FWY-Knoxville,Fairway,Residential,Marketing Letter,Knoxville,Standard,Q1,Not Available,NA,435000,19166
+5613249,5613249,2025-08-01,0,61,58.67,TDI-Madison,Turf Doctor Inc.,Residential,Referral,Madison,Standard,Q3,Passive,Medium,404000,26068
+46763,46763,2025-08-01,1,61,107.50,FWY-Little Rock,Fairway,Residential,Telesales,Little Rock,Tier 2,Q3,Promoter,Medium,792400,8102
+822574,822574,2025-08-01,0,39,22.08,NXG-Detroit,NexGreen,Residential,Truck or Field,Detroit,Standard,Q2,Not Available,High,238618,7405
+4933487,4933487,2025-08-01,0,29,41.75,OTG-Gambrills,On The Green,Residential,Telesales,Gambrills,Standard,Q1,Not Available,Low,600300,7715
+5600652,5600652,2025-08-01,0,14,36.75,LVL-Kissimmee,Luv-A-Lawn,Residential,CONVERSION CUSTOMER,Kissimmee,Standard,Q2,Not Available,Low,574000,10528
+750997,750997,2025-08-01,1,17,34.00,FWY-Tulsa,Fairway,Residential,Marketing Letter,Tulsa,Standard,Q1,Promoter,Medium,305000,11543
+5719364,5719364,2025-08-01,0,11,84.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Tier 2,Q3,Not Available,Medium,372700,NULL
+4924969,4924969,2025-08-01,0,59,159.00,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q3,Passive,Medium,718400,31457
+5718098,5718098,2025-08-01,0,13,92.42,FWY-Springdale,Fairway,Residential,Truck or Field,Springdale,Standard,Q3,Promoter,Medium,539880,10890
+513157,513157,2025-08-01,0,50,49.33,FWY-Augusta,Fairway,Residential,Referral,Augusta,Standard,Q2,Not Available,Medium,209500,18731
+5632234,5632234,2025-08-01,0,62,94.00,TDI-Huntsville,Turf Doctor Inc.,Residential,Referral,Huntsville,Standard,Q2,Passive,Low,286835,22651
+506756,506756,2025-08-01,1,52,44.67,FWY-Birmingham,Fairway,Residential,Referral,Birmingham,Standard,Q2,Not Available,Low,NULL,NULL
+5653105,5653105,2025-08-01,0,37,63.33,TDI-Robertsdale,Turf Doctor Inc.,Residential,Marketing Letter,Robertsdale,Standard,Q3,Not Available,High,254000,16787
+4931846,4931846,2025-08-01,0,17,137.50,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q1,Promoter,Medium,674531,10966
+5718166,5718166,2025-08-01,0,13,90.00,LVL-North Orlando,Luv-A-Lawn,Residential,Referral,North Orlando,Tier 1,Q3,Not Available,Medium,374900,13504
+585794,585794,2025-08-01,0,74,33.98,RLG-Austin,Real Green,Residential,Reinstate,Austin,Standard,Q2,Not Available,Low,NULL,NULL
+5592647,5592647,2025-08-01,0,16,15.33,FWY-Little Rock,Fairway,Residential,Referral,Little Rock,Standard,Q2,Promoter,Low,331900,9583
+457176,457176,2025-08-01,1,64,46.00,FWY-Charleston,Fairway,Residential,Referral,Charleston,Standard,Q2,Not Available,High,434000,8276
+2095825,2095825,2025-08-01,0,53,33.00,KAP-Indianapolis,Kapp's,Residential,Reinstate,Indianapolis,Standard,Q1,Not Available,Low,719000,35196
+1042604,1042604,2025-08-01,0,27,60.92,FWY-Tulsa,Fairway,Residential,Digital,Tulsa,Standard,Q2,Passive,Medium,345300,NULL
+1241547,1241547,2025-08-01,0,24,72.00,YGT-Hillsborough,Your Green Team,Residential,CONVERSION CUSTOMER,Hillsborough,Standard,Q3,Not Available,Medium,269990,NULL
+424227,424227,2025-08-01,0,77,44.67,FWY-Greenville,Fairway,Residential,Marketing Letter,Greenville,Standard,Q1,Not Available,Medium,NULL,NULL
+5570596,5570596,2025-08-01,0,16,210.08,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Tier 1,Q2,Promoter,Low,926600,7757
+5835337,5835337,2025-08-01,0,4,42.75,FWY-Springdale,Fairway,Residential,Digital,Springdale,Standard,Q2,Not Available,Medium,360000,10019
+5913939,5913939,2025-08-01,0,89,39.33,TFW-Raleigh,Turf Wizards,Residential,NULL,Raleigh,Standard,Q1,Promoter,Low,539032,7841
+548547,548547,2025-08-01,1,39,115.67,FWY-Charleston,Fairway,Residential,Unclassified,Charleston,Standard,Q2,Promoter,High,1260000,43560
+5948662,5948662,2025-08-01,0,113,39.00,SPG-Atlanta,Simply Green,Residential,Referral,Atlanta,Standard,Q1,Promoter,Medium,249900,15246
+5853751,5853751,2025-08-01,1,3,106.17,EEI-Florida City,Eastern Exterminating,Residential,CONVERSION CUSTOMER,Florida City,Standard,Q2,Not Available,High,1510000,5600
+457363,457363,2025-08-01,0,64,60.00,FWY-Springdale,Fairway,Residential,Digital,Springdale,Tier 2,Q2,Not Available,Medium,663239,10454
+5633532,5633532,2025-08-01,0,29,104.84,TDI-Huntsville,Turf Doctor Inc.,Residential,Truck or Field,Huntsville,Standard,Q1,Not Available,Medium,NULL,13068
+5351449,5351449,2025-08-01,0,56,40.00,GRQ-Atlanta,Green Queen,Residential,CONVERSION CUSTOMER,Atlanta,Standard,Q4,Not Available,Medium,NULL,3742
+734757,734757,2025-08-01,0,121,50.00,PIE-Sarasota,Plant-It-Earth,Residential,Referral,Sarasota,Standard,Q3,Not Available,High,442000,8973
+5807689,5807689,2025-08-01,0,6,70.30,LVL-Kissimmee,Luv-A-Lawn,Residential,Digital,Kissimmee,Tier 1,Q1,Promoter,High,417000,10019
+5058387,5058387,2025-08-01,0,4,124.50,NXG-Westerville,NexGreen,Commercial,Telesales,Westerville,Standard,Q2,Not Available,Medium,98900,591
+4929393,4929393,2025-08-01,0,77,158.75,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Not Available,High,925000,25250
+5810917,5810917,2025-08-01,1,5,33.50,GRG-Dallas,GroGreen,Residential,Digital,Dallas,Standard,Q1,Not Available,Medium,460000,5314
+4929862,4929862,2025-08-01,0,20,76.75,OTG-Gambrills,On The Green,Residential,Unclassified,Gambrills,Standard,Q4,Passive,Medium,718520,6637
+4931644,4931644,2025-08-01,0,71,108.33,OTG-Gambrills,On The Green,Residential,Digital,Gambrills,Standard,Q3,Promoter,Low,562797,1775
+5914618,5914618,2025-08-01,0,23,32.00,TFW-Raleigh,Turf Wizards,Residential,CONVERSION CUSTOMER,Raleigh,Standard,Q3,Not Available,Low,234900,10890
+1096690,1096690,2025-08-01,0,29,38.00,LVL-Kissimmee,Luv-A-Lawn,Residential,Truck or Field,Kissimmee,Standard,Q1,Not Available,Low,315000,5997
+721344,721344,2025-08-01,0,51,45.42,PIE-Plant City,Plant-It-Earth,Residential,Truck or Field,Plant City,Standard,Q2,Not Available,Medium,268000,8098
+3457579,3457579,2025-08-01,1,1,101.92,KAP-Pittsburgh East,Kapp's,Residential,Web Search,Pittsburgh East,Standard,Q3,Not Available,High,NULL,7800
+5819549,5819549,2025-08-01,1,31,63.50,SCL-New Port Richey,Southern Care,Residential,CONVERSION CUSTOMER,New Port Richey,Standard,Q1,Passive,Medium,NULL,11617
+4931430,4931430,2025-08-01,0,17,37.50,OTG-Gambrills,On The Green,Residential,Referral,Gambrills,Standard,Q1,Promoter,Low,738789,5520
