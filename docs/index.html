@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101827">
+  <meta name="description" content="Local-first multilingual video caption studio">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+  <title>Multilingual Video Studio</title>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="brand-icon">✦</span><div><strong>Video Studio</strong><small>Telugu · Hindi · English</small></div></div>
+  <button id="installBtn" class="install hidden">Install app</button>
+</header>
+<main>
+  <section class="intro">
+    <p class="eyebrow">LOCAL-FIRST VIDEO WORKSPACE</p>
+    <h1>Your video.<br><span>Any language.</span></h1>
+    <p class="sub">A mobile-ready workspace for captions, translation and dubbing.</p>
+  </section>
+
+  <section class="card">
+    <div class="section-title"><span class="step">01</span><div><h2>Choose a video</h2><p>Select a clip from your phone.</p></div></div>
+    <label class="upload" for="videoInput"><span class="upload-icon">＋</span><strong>Choose video</strong><small>MP4, MOV, WebM and other browser-supported formats</small></label>
+    <input id="videoInput" type="file" accept="video/*" hidden>
+    <div id="videoWrap" class="video-wrap hidden"><video id="video" controls playsinline></video></div>
+    <p id="videoName" class="muted"></p>
+  </section>
+
+  <section class="card">
+    <div class="section-title"><span class="step">02</span><div><h2>Language settings</h2><p>Choose the spoken language and caption language.</p></div></div>
+    <label>Original speech</label>
+    <select id="sourceLang"><option value="auto">Auto detect</option><option value="tel">Telugu</option><option value="hin">Hindi</option><option value="eng">English</option></select>
+    <label>Caption language</label>
+    <select id="targetLang"><option value="tel">Telugu</option><option value="hin">Hindi</option><option value="eng" selected>English</option></select>
+    <div class="notice">AI transcription and translation engines are not included in this prototype yet. This build lets you preview a video, edit sample captions and export an SRT file.</div>
+  </section>
+
+  <section class="card">
+    <div class="section-title"><span class="step">03</span><div><h2>Caption editor</h2><p>Add or edit subtitle lines with timestamps.</p></div></div>
+    <div id="captionList"></div>
+    <button id="addCaption" class="secondary full">＋ Add caption line</button>
+    <div class="actions">
+      <button id="downloadSrt" class="primary">Download SRT</button>
+      <button id="downloadNotes" class="secondary">Export project JSON</button>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="section-title"><span class="step">04</span><div><h2>AI dubbing</h2><p>Planned local voice generation.</p></div></div>
+    <div class="feature-row"><span>🎙️</span><div><strong>Voice cloning</strong><small>Reference-voice workflow planned. Use only your own voice or a voice you have permission to use.</small></div><span class="pill">Coming next</span></div>
+    <div class="feature-row"><span>🎵</span><div><strong>Preserve background music</strong><small>Dialogue separation and audio mixing planned.</small></div><span class="pill">Coming next</span></div>
+  </section>
+  <footer>Files stay in this browser session in this prototype. Avoid closing the page while working.</footer>
+</main>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body></html>
