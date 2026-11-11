@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#101827">
   <meta name="description" content="Local-first multilingual video caption studio">
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="icons/icon-192.png">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
   <link rel="stylesheet" href="style.css">
   <title>Multilingual Video Studio</title>
 </head>
@@ -19,14 +19,14 @@
   <section class="intro">
     <p class="eyebrow">LOCAL-FIRST VIDEO WORKSPACE</p>
     <h1>Your video.<br><span>Any language.</span></h1>
-    <p class="sub">A mobile-ready workspace for captions, translation and dubbing.</p>
+    <p class="sub">Generate real speech captions locally on Android and Windows. No paid API required.</p>
   </section>
 
   <section class="card">
     <div class="section-title"><span class="step">01</span><div><h2>Choose a video</h2><p>Select a clip from your phone.</p></div></div>
     <label class="upload" for="videoInput"><span class="upload-icon">＋</span><strong>Choose video</strong><small>MP4, MOV, WebM and other browser-supported formats</small></label>
     <input id="videoInput" type="file" accept="video/*" hidden>
-    <div id="videoWrap" class="video-wrap hidden"><video id="video" controls playsinline></video></div>
+    <div id="videoWrap" class="video-wrap hidden"><video id="video" controls playsinline></video><div id="captionOverlay" class="caption-overlay hidden"></div></div>
     <p id="videoName" class="muted"></p>
   </section>
 
@@ -34,13 +34,18 @@
     <div class="section-title"><span class="step">02</span><div><h2>Language settings</h2><p>Choose the spoken language and caption language.</p></div></div>
     <label>Original speech</label>
     <select id="sourceLang"><option value="auto">Auto detect</option><option value="tel">Telugu</option><option value="hin">Hindi</option><option value="eng">English</option></select>
-    <label>Caption language</label>
-    <select id="targetLang"><option value="tel">Telugu</option><option value="hin">Hindi</option><option value="eng" selected>English</option></select>
-    <div class="notice">AI transcription and translation engines are not included in this prototype yet. This build lets you preview a video, edit sample captions and export an SRT file.</div>
+    <label>Translation target (not available yet)</label>
+    <select id="targetLang" disabled><option value="tel">Telugu</option><option value="hin">Hindi</option><option value="eng" selected>English</option></select>
+    <div class="notice">Speech recognition is available in this version. Translation and dubbing are not yet implemented. The first run downloads a free Whisper model (approximately 100–200 MB depending on model assets); keep this tab open.</div>
+    <button id="transcribeBtn" class="primary full" disabled>Generate captions from video</button>
+    <button id="cancelBtn" class="secondary full hidden">Stop processing</button>
+    <div id="asrStatus" class="asr-status" role="status" aria-live="polite">Choose a video to enable automatic captions.</div>
+    <progress id="asrProgress" max="100" value="0" class="full-progress hidden"></progress>
+    <small class="muted">Video audio is captured in real time on this device. A 2-minute video takes at least 2 minutes to capture, plus transcription time. Keep Chrome open and the screen awake. Maximum video length: 8 minutes on mobile, 20 minutes on desktop.</small>
   </section>
 
   <section class="card">
-    <div class="section-title"><span class="step">03</span><div><h2>Caption editor</h2><p>Add or edit subtitle lines with timestamps.</p></div></div>
+    <div class="section-title"><span class="step">03</span><div><h2>Caption editor</h2><p>AI-generated subtitle lines are editable. Start and end times are in seconds.</p></div></div>
     <div id="captionList"></div>
     <button id="addCaption" class="secondary full">＋ Add caption line</button>
     <div class="actions">
@@ -54,7 +59,7 @@
     <div class="feature-row"><span>🎙️</span><div><strong>Voice cloning</strong><small>Reference-voice workflow planned. Use only your own voice or a voice you have permission to use.</small></div><span class="pill">Coming next</span></div>
     <div class="feature-row"><span>🎵</span><div><strong>Preserve background music</strong><small>Dialogue separation and audio mixing planned.</small></div><span class="pill">Coming next</span></div>
   </section>
-  <footer>Files stay in this browser session in this prototype. Avoid closing the page while working.</footer>
+  <footer>Video and audio stay on your device. Whisper model files download from Hugging Face on first use. Browser storage may evict cached models.</footer>
 </main>
 <div id="toast" role="status" aria-live="polite"></div>
 <script src="app.js"></script>
